@@ -1,0 +1,35 @@
+"Patch"
+{
+	include "materials/models/shared/swords.vmt"
+	insert
+	{
+	"$basetexture" "models/blades/stacatto_black/stacatto_black1_diffuse"
+	"$bumpmap" "models/blades/stacatto_black/stacatto_black1_normal"
+
+	"$model" 1
+	"$nocull" 1
+	"$surfaceprop" "Metal"
+	"$normalmapalphaenvmapmask" "1"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+
+	"$selfillum" "1"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[0.1 4 8]"
+	"$selfillumtint"	"[1 1 1]"
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.4"
+	"$envmapcontrast" "0.5"
+	"$envmapmask" "models/blades/stacatto_black/stacatto_black1_specular"
+	"$envmaptint" "[0.5 0.5 0.5]"
+  
+	"$phong" 1
+	"$phongalbedotint" 1
+	"$phongfresnelranges"	"[0.9 0.5 0.5]"
+	"$phongwarptexture" "models/shared/phongwarp_metallic1"
+	"$phongboost" "100"
+
+	"$rimlight" 1
+	"$rimlightboost" "25"
+	}
+}

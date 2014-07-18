@@ -1,0 +1,24 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/phalanx/phalanx"
+		"$bumpmap" "models/phalanx/phalanx_normal"
+
+		"$envmaptint" "[0.2 0.2 0.2]"
+
+		"$selfIllumFresnel" "1"
+		"$selfIllumFresnelMinMaxExp" "[0.1 4 8]"
+		"$selfillumtint"	"[1 1 1]"
+
+		"$phongexponenttexture" "models/phalanx/phalanx_exp"
+		"$phongboost"	"100"
+		"$rimlightboost" "20"
+		"$phongfresnelranges"	"[0.79 0.1 0.55]"
+		"$phongwarptexture" "models/shared/phongwarp_metallic1"
+
+		"$CHARGETEXTURE"      "models/phalanx/phalanx_charge"
+		"$CHARGENORMALTEXTURE"		"models/phalanx/phalanx_nrm"
+	}
+}

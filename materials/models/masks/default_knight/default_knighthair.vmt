@@ -1,0 +1,26 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/masks/default_knight/default_knighthair"
+		"$bumpmap" "models/masks/default_knight/default_knighthair_normal"
+		
+		$envmap		""
+		$selfillum	0
+		$rimlight	0
+		$PHONGEXPONENTTINTMASKENABLE		0
+		
+		"$model" 1
+		"$alphatest" 1
+		"$alphatestreference" 0.5
+		"$nocull" "1"
+
+		"$phong" 1
+		"$phongexponent" 20
+		"$phongboost"	"2"
+		
+		"$CHARGETEXTURE"      "models/knight/knighthair_normal"
+		"$CHARGENORMALTEXTURE"		"models/knight/knighthair_normal"
+	}
+}

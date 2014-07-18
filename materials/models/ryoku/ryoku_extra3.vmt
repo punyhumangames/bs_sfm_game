@@ -1,0 +1,33 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/ryoku/ryoku_extra3"
+		"$bumpmap" "models/ryoku/ryoku_extra_normal"
+
+		"$translucent" 1
+		"$nocull" "1"
+		"$rimlight" 0
+//		"$alphatest" "1"
+//		"$alphatestreference" 0.6
+
+
+		"$lightwarptexture" "models/shared/lightwarp_darken3"
+
+
+		"$envmaptint" "[0.01 0.01 0.01]"
+
+		"$selfillum" "0"
+		"$phong" 0
+		"$phongexponenttexture" "models/shared/albedotint"
+		"$phongexponent" 10
+		"$phongboost"	"500"
+		"$phongfresnelranges" "[0.45 0.75 2]"
+	//	"$phongfresnelranges"	"[0.4 0.55 0.5]"
+
+
+		"$CHARGETEXTURE"      "models/shared/nothing2"
+		"$CHARGENORMALTEXTURE"		"models/ryoku/ryoku_extra_normal"
+	}
+}

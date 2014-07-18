@@ -1,0 +1,86 @@
+"VertexLitGeneric" 
+{
+	"$basetexture" "models/masks/phalanx_agent/phalanx_a_visor"
+	"$bumpmap" "models/masks/phalanx_agent/phalanx_a_visor_high"
+	"$alpha" ".90"
+	"$additive" "1"
+	"$alphatest" "1"
+	"$alphatestreference" ".90"
+
+	"$nocull" 1
+		
+
+	"$normalmapalphaenvmapmask" "1"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" ".5"
+	"$envmaptint" "[1 0.25 0]" //"[1 1 1]"		
+	"$ENVMAPTINTDIFFUSEMODULATION"		1
+		
+	"$selfillum" "1"
+	"$phong" 1
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 2 4]"
+	
+	"$phongexponenttexture" "models/masks/phalanx_agent/phalanx_a_visor_invert_exp"
+	"$phongwarptexture" "models/shared/phongwarp_metallic1" 
+	"$phongboost" "200"
+	"$phongexponent" "10"
+
+	"$PHONGEXPONENTTINTMASKENABLE"		1
+
+	$CHARGEPASSENABLED		1
+	$CHARGENOISETEXTURE		"Engine/noise-blur-256x256"
+	
+	$CHARGESPECULARBOOST		"1.5"
+	$CHARGEGLOWBOOST			"1"
+	$CHARGEPULSESPEED			"8"
+	$CHARGEDARKENMAXINNER		"0.7"
+	$CHARGEDARKENMAXOUTER		"1"
+	
+	$CHARGENOISEAMOUNT			"0.75"
+	$CHARGENOISEBASESCALE		"0.1"
+	$CHARGENOISEFLOWSCALE		"0.005"
+	$CHARGENOISEFLOWSPEED		"25.0"
+	
+	$CHARGEFRESNELPOWERMIN		"0.8"
+	$CHARGEFRESNELPOWERMAX		"4"
+	$CHARGEFRESNELAMOUNTMIN		"0.4"
+	$CHARGEFRESNELAMOUNTMAX		"2"
+	$CHARGEFRESNELNOISESPEED	"4" //"20"
+	$CHARGEFRESNELNOISESCALE	"35"
+	$CHARGEFRESNELNOISEDISTANCE	"72"
+
+	
+	"Proxies"
+	{
+	"AnimatedTexture"
+		{
+			"Animatedtexturevar" "$basetexture"
+			"Animatedtextureframenumvar" "$frame"
+			"Animatedtextureframerate" "4"
+		}
+	"AnimatedTexture"
+		{
+			"Animatedtexturevar" "$phongexponenttexture"
+			"Animatedtextureframenumvar" "$frame"
+			"Animatedtextureframerate" "4"
+		}
+	"PlayerTint"
+		{
+		}
+		"PlayerChargeEffect"
+		{
+			"resultvar" "$CHARGEAMOUNT"
+		}
+		"PlayerChargeColor"
+		{
+			"resultvar" "$chargeColor"
+		}			
+	}
+}
+
+
+		
+

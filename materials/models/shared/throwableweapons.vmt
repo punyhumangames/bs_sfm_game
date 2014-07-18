@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+
+	 //"$lightwarptexture" "models/shared/lightwarp_darken"
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.2"
+	"$envmapcontrast" "0.5"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint"		"[0.3 0.3 0.15]"
+
+//	"$selfillum" "1"
+
+	"$phong" "1"
+	$FORCEPHONG 1
+	"$phongboost"	"350"
+	"$phongalbedotint" 1
+	"$rimlight" "1"
+	"$rimlightboost" "4"
+	$rimlightexponent  1000
+}

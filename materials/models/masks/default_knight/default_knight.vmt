@@ -1,0 +1,21 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/masks/default_knight/default_knight"
+		"$bumpmap" "models/masks/default_knight/default_knight_nrm"
+
+		"$envmaptint" "[0.3 0.3 0.15]"
+        
+		"$selfillum" "0"
+		
+		"$phongexponenttexture" "models/masks/default_knight/default_knight_exp"
+		"$phongboost"	"350"
+		"$phongfresnelranges"	"[0.5 0.9 0.9]"
+		"$phongwarptexture" "models/shared/phongwarp_metallic1"
+
+		"$CHARGETEXTURE"      "models/knight/knight_charge"
+		"$CHARGENORMALTEXTURE"		"models/masks/default_knight/default_knight_nrm"
+	}
+}

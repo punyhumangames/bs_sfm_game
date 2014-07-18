@@ -1,0 +1,20 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/masks/default_vanguard/default_vanguard"
+		"$bumpmap" "models/masks/default_vanguard/default_vanguard_n"
+
+		"$envmaptint" "[0.3 0.3 0.2]"
+	
+		"$selfillum" "0"
+		"$phongexponenttexture" "models/masks/default_vanguard/default_vanguard_exp"
+		"$phongboost"	"150"
+		"$phongfresnelranges"	"[0.6 0.9 0.9]"
+		"$phongwarptexture" "models/shared/phongwarp_metallic1"
+		
+		//"$CHARGETEXTURE"      "models/vanguard/vanguard_charge"
+		//"$CHARGENORMALTEXTURE"		"models/vanguard/vanguard_normal"
+	}
+}

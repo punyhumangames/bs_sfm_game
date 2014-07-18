@@ -1,0 +1,26 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/knight/riotknight"
+		"$bumpmap" "models/knight/riotknight_n"
+		//"$envmaptint" "[0.3 0.3 0.15]"
+
+		"$selfillum" "1"
+		"$selfIllumFresnel" "1"
+		"$selfIllumFresnelMinMaxExp" "[0.5 4 8]"
+		"$rimlight" 1
+		
+		
+		"$phongexponenttexture" "models/knight/riotknight_exp"
+		"$phongboost"	"80"
+		"$phongalbedotint" 1
+		"$phongfresnelranges"	"[1 2 4]"
+		"$phongwarptexture" "models/shared/phongwarp_metallic1"
+
+		"$CHARGETEXTURE"      "models/knight/riotknight_charge"
+		"$CHARGENORMALTEXTURE"		"models/knight/riotknight_n"
+	}
+}
+

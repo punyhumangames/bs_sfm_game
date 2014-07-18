@@ -1,0 +1,47 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "models/masks/phalanx_steam/phalanx_steam_lens"
+	"$texture2" "models/masks/phalanx_steam/phalanx_steam_lens2"
+ 	"$model" 1
+	"$nocull" "1"
+	"$alphablerp" 1
+	"$sineoffset"	0.0
+	"$sineoutput"	0.0
+	"$additive" "1"
+	"Proxies"
+	{
+ 
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" "$alphablerp"
+			"texturescrollangle" 270
+		}
+				GaussianNoise	
+		{
+			mean 0.85
+			minVal 0.80
+			maxVal 0.90 //controls sine speed
+			resultVar "$sineoffset"
+		}
+		
+		//generate a sine wave with a period based on the noise
+		Sine
+		{
+			sineperiod "$sineoffset"
+			sinemin 0
+			sinemax 1 //lower this to make it flicker more
+			resultVar "$sineoutput"
+		}
+
+		//clamp the sine wave values and make this our new alpha for this material
+		Clamp
+		{
+			min 0.0
+			max 0.9
+			srcVar1 "$sineoutput"
+			resultVar "$alpha"
+		}
+	}
+ 
+}

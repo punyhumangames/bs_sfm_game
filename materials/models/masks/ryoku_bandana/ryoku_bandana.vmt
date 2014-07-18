@@ -1,0 +1,42 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/masks/ryoku_bandana/ryoku_bandana"
+		"$bumpmap" "models/masks/ryoku_bandana/ryoku_bandana_n"
+		"$normalmapalphaenvmapmask" "1"
+
+		//"$envmapsaturation" "0"
+		//"$envmapcontrast" "0"
+
+		"$selfillum" "0"
+
+
+		"$phongalbedotint" 0.25
+
+
+		"$PHONGEXPONENTTINTMASKENABLE"		1
+
+		"$phongexponenttexture" "models/masks/ryoku_bandana/ryoku_bandana_exp"
+
+		"$CHARGETEXTURE"      "models/masks/burgonet_knight/burgonet_charge"
+		"$CHARGENORMALTEXTURE"		"models/masks/ryoku_bandana/ryoku_bandana_n"
+
+	}
+	"Proxies"
+		{
+			"PlayerTint"
+			{
+			}
+			"PlayerChargeEffect"
+			{
+				"resultvar" "$CHARGEAMOUNT"
+			}
+			"PlayerChargeColor"
+			{
+				"resultvar" "$chargeColor"
+			}			
+		}
+}
+

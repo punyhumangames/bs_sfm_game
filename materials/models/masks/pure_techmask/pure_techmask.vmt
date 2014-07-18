@@ -1,0 +1,35 @@
+	"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/masks/pure_techmask/pure_techmask"
+		"$bumpmap" "models/masks/pure_techmask/pure_techmask_nrm"
+
+		//"$translucent" 1
+		"$nocull" "1"
+//		"$alphatest" "1"
+//		"$alphatestreference" 0.6
+
+
+		"$lightwarptexture" "models/shared/lightwarp_darken3"
+
+
+		"$envmaptint" "[0.2 0.2 0.2]"
+
+		"$selfIllumFresnel" "1"
+		"$selfIllumFresnelMinMaxExp" "[1 5 10]"
+		"$selfillumtint"	"[1 1 1]"
+		"$rimlightboost" "8"
+
+		"$phongexponenttexture" "models/masks/pure_techmask/pure_techmask_exp"
+		"$phongexponent" 10
+		"$phongboost"	"140"
+		"$phongfresnelranges" "[0.45 0.75 1]"
+	//	"$phongfresnelranges"	"[0.4 0.55 0.5]"
+
+
+		"$CHARGETEXTURE"      "models/pure/crow_charge"
+		"$CHARGENORMALTEXTURE"		"models/pure/crow_n"
+	}
+}

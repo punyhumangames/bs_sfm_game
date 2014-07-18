@@ -1,0 +1,23 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/phalanx/dragoon"
+		"$bumpmap" "models/phalanx/dragoon_normal"
+
+		"$envmaptint" "[0.2 0.2 0.2]"
+
+		"$selfIllumFresnel" "1"
+		"$selfIllumFresnelMinMaxExp" "[0 5 10]"
+		"$selfillumtint"	"[0 32 64]"
+		$selfillumtintdiffusemodulation		1
+        
+		"$phongexponenttexture" "models/phalanx/dragoon_exp"
+		"$phongboost"	"140"
+		"$phongfresnelranges"	"[0.79 0.1 0.55]"
+		"$phongwarptexture" "models/shared/phongwarp_metallic1"
+		"$CHARGETEXTURE"      "models/phalanx/dragoon_charge"
+		"$CHARGENORMALTEXTURE"		"models/phalanx/dragoon_normal"
+	}
+}

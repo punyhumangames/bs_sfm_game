@@ -1,0 +1,31 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/masks/knight_riot/knight_riotmask"
+		"$bumpmap" "models/masks/knight_riot/knight_riotmask_nrm"
+
+		"$envmap" "env_cubemap"
+		"$envmapsaturation" "0 0 0"
+		"$envmapcontrast" "0.5"
+		"$envmapmask" "models/masks/burgonet_knight/burgonet_s"
+		"$envmaptint" "[0.5 0.5 0.5]"
+		"$selfillum" 1
+				"$selfIllumFresnel" "1"
+		"$selfIllumFresnelMinMaxExp" "[0.1 4 8]"
+		"$selfillumtint"	"[1 1 1]"
+
+		"$normalmapalphaenvmapmask" "1"
+
+
+		"$phongexponenttexture" "models/masks/knight_riot/knight_riotmask"
+		"$phongboost"	"2"
+		"$phongfresnelranges"	"[1 2 5]"
+		"$phongwarptexture" "models/shared/phongwarp_metallic1"
+
+		"$CHARGETEXTURE"      "models/masks/knight_riot/knight_riotmask_charge"
+		"$CHARGENORMALTEXTURE"		"models/masks/knight_riot/knight_riotmask_nrm"
+	}
+}
+

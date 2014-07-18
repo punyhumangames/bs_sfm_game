@@ -1,0 +1,58 @@
+"VertexLitGeneric"
+{
+	 //"$lightwarptexture" "models/shared/lightwarp_darken"
+	 $normalmap		"models/shared/normal_flat_noalpha"
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.2"
+	"$envmapcontrast" "0.5"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$selfillum" "1"
+
+	"$phong" "1"
+	$FORCEPHONG 1
+	"$phongboost"	"1"
+	"$phongalbedotint" 1
+	"$rimlight" "1"
+	"$rimlightboost" "4"
+ 	"$rimlightexponent"  "1000"
+	"$PHONGEXPONENTTINTMASKENABLE"		1
+
+	$CHARGEPASSENABLED		1
+	$CHARGENOISETEXTURE		"Engine/noise-blur-256x256"
+	
+	$CHARGESPECULARBOOST		"1.5"
+	$CHARGEGLOWBOOST			"1"
+	$CHARGEPULSESPEED			"8"
+	$CHARGEDARKENMAXINNER		"0.7"
+	$CHARGEDARKENMAXOUTER		"1"
+	
+	$CHARGENOISEAMOUNT			"0.75"
+	$CHARGENOISEBASESCALE		"0.1"
+	$CHARGENOISEFLOWSCALE		"0.005"
+	$CHARGENOISEFLOWSPEED		"25.0"
+	
+	$CHARGEFRESNELPOWERMIN		"0.8"
+	$CHARGEFRESNELPOWERMAX		"4"
+	$CHARGEFRESNELAMOUNTMIN		"0.4"
+	$CHARGEFRESNELAMOUNTMAX		"2"
+	$CHARGEFRESNELNOISESPEED	"4" //"20"
+	$CHARGEFRESNELNOISESCALE	"35"
+	$CHARGEFRESNELNOISEDISTANCE	"72"
+
+	"Proxies"
+	{
+		"PlayerTint"
+		{
+		}
+		"PlayerChargeEffect"
+		{
+			"resultvar" "$CHARGEAMOUNT"
+		}
+		"PlayerChargeColor"
+		{
+			"resultvar" "$chargeColor"
+		}			
+	}
+}

@@ -1,0 +1,19 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "models/masks/phalanx_steam/phalanx_steam_lens"
+	"$texture2" "models/masks/phalanx_steam/phalanx_steam_lens2"
+ 	"$model" 1
+	"$nocull" "1"
+	//"$additive" "1"
+	"Proxies"
+	{
+ 
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" "2"
+			"texturescrollangle" 40
+		}
+	}
+ 
+}

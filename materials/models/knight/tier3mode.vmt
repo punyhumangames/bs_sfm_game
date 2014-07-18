@@ -1,0 +1,41 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/shared/nothing2"
+	"$selfillum" 1
+	"$model" "1"
+
+	"$FleshInteriorEnabled"      "-1"
+	"$FleshInteriorTexture"      "models/effects/knightmask2"
+	"$FleshNormalTexture"		"models/knight/knight_normal"
+	"$FleshBorderTexture1D"		"models/effects/knightgradient"
+	"$FleshInteriorNoiseTexture" "Engine/noise-blur-256x256"
+	"$FleshSubsurfaceTexture"	 "models/effects/knightgradient"
+	"$FleshCubeTexture"          "env_cubemap"
+	"$FleshBorderNoiseScale"     "1"
+	"$FleshBorderWidth"			 "1.1"
+	"$FleshBorderSoftness"		 "0.1"
+	"$FleshBorderTint"			 "3"
+	"$FleshGlossBrightness"		 "0"
+	"$FleshDebugForceFleshOn"	 "1"
+	"$FleshScrollSpeed"			 "1.0"
+	"$FleshSelfillum" 1
+	"$Time" "0.0"
+	"Proxies"
+	{
+		"MaterialModify"
+		{
+		}
+	//	"CurrentTime"
+	//	{
+	//		"resultVar" "$time"
+	//	}
+		"LinearRamp"
+		{
+			"rate" 32
+			"initialValue" 1
+			"resultVar" "$time"
+		}
+	}
+}
+
+

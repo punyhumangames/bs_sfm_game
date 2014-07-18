@@ -1,0 +1,26 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/masks/phalanx_fencer/phalanx_fencer"
+		"$bumpmap" "models/masks/phalanx_fencer/phalanx_fencer_nrm"
+		//"$envmaptint" "[0.2 0.2 0.2]"
+        "$phongalbedotint" 1
+		"$nocull" 1
+		"$model" 1
+		"$translucent" 1
+		"$phongexponenttexture" "models/shared/albedotint"
+		"$rimlightboost" "5"
+		//"$selfillum" "1"
+		"$envmapcontrast" 1
+		"$phongalbedotint" "1"
+		"$rimlight" 1
+		"$phongboost"	"20"
+		"$phongfresnelranges"		"[1 2 .5]"
+		//"$envmaptint"				"[1 0.25 0]"
+		"$phongwarptexture" "models/shared/phongwarp_metallic1"
+		//"$CHARGETEXTURE"      "models/phalanx/cavalier_charge"
+		//"$CHARGENORMALTEXTURE"		"models/phalanx/cavalier_nrm"
+	}
+}

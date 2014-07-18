@@ -1,0 +1,41 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/pure/pure_extra"
+		"$bumpmap" "models/pure/pure_extra_normal"
+
+		//"$translucent" 1
+//		"$alphatest" "1"
+//		"$alphatestreference" 0.6
+
+
+		"$lightwarptexture" "models/shared/lightwarp_darken3"
+
+
+		"$envmaptint" "[0.2 0.2 0.2]"
+
+		"$selfIllumFresnel" "1"
+		"$selfIllumFresnelMinMaxExp" "[0 1 5]"
+		"$selfillumtint"	"[1 2 3]"
+
+		"$phongexponenttexture" "models/pure/pure_extra_exp"
+		"$phongexponent" 10
+		"$phongboost"	"140"
+	//	"$phongfresnelranges" "[0.45 0.75 1]"
+		"$phongfresnelranges"	"[0.4 0.55 0.5]"
+
+
+		"$CHARGETEXTURE"      "models/pure/pure_extra_charge"
+		"$CHARGENORMALTEXTURE"		"models/pure/pure_extra_normal"
+	//	"$CHARGEAMOUNT" 1
+	//	$CHARGESPECULARBOOST		"1"//1.5
+	//	$CHARGEGLOWBOOST			"1"// 1
+	//	$CHARGEPULSESPEED			"8"
+	//	$CHARGEDARKENMAXINNER		"0"// 0.7
+	//	$CHARGEDARKENMAXOUTER		"1"
+		
+		//"$chargecolor" "[0.5 0.5 1]"
+	}
+}

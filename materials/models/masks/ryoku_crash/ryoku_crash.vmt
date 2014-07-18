@@ -1,0 +1,31 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture"  "models/masks/ryoku_crash/ryoku_crash"
+		"$nocull" 1
+		"$bumpmap"		"models/masks/ryoku_crash/ryoku_crash_normal"
+
+		"$normalmapalphaenvmapmask" "1"
+		"$lightwarptexture" "models/shared/lightwarp_darken4"
+	
+		"$envmap" "env_cubemap"
+		"$envmapcontrast" ".25"
+		"$envmaptint" "[0.25 0.25 0.25]"
+		//"$ENVMAPTINTDIFFUSEMODULATION"		1
+		
+		"$selfillum" "0"
+		"$phong" 1
+		"$phongalbedotint" "1"
+		"$phongfresnelranges"	"[1 2 4]"
+		"$phongexponenttexture" "models/masks/ryoku_crash/ryoku_crash_exponent"
+		"$phongwarptexture" "models/shared/phongwarp_metallic1" 
+		"$phongboost" "100"
+		"$phongexponent" "1"
+	
+
+		"$CHARGETEXTURE"     		"models/masks/ryoku_crash/ryoku_crash_charge"
+		"$CHARGENORMALTEXTURE"		"models/masks/ryoku_crash/ryoku_crash_normal"
+		}
+}

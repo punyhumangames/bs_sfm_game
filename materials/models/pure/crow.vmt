@@ -1,0 +1,34 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/pure/crow"
+		"$bumpmap" "models/pure/crow_n"
+
+		//"$translucent" 1
+//		"$alphatest" "1"
+//		"$alphatestreference" 0.6
+
+
+		"$lightwarptexture" "models/shared/lightwarp_darken3"
+
+
+		"$envmaptint" "[0.2 0.2 0.2]"
+
+		"$selfIllumFresnel" "1"
+		"$selfIllumFresnelMinMaxExp" "[1 5 10]"
+		"$selfillumtint"	"[1 2 3]"
+		"$rimlightboost" "8"
+
+		"$phongexponenttexture" "models/pure/crow_e"
+		"$phongexponent" 10
+		"$phongboost"	"140"
+		"$phongfresnelranges" "[0.45 0.75 1]"
+	//	"$phongfresnelranges"	"[0.4 0.55 0.5]"
+
+
+		"$CHARGETEXTURE"      "models/pure/crow_charge"
+		"$CHARGENORMALTEXTURE"		"models/pure/crow_n"
+	}
+}

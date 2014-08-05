@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"district\Windows10"
+	"$bumpmap" "district\Windows10_nrm"
+	"$envmap" "env_cubemap"
+    "$normalmapalphaenvmapmask" 1
+}

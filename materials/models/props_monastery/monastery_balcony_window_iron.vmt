@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models\props_monastery\monastery_balcony_window_iron_diffuse"
+	"$alphatest"		1
+}

@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"concrete\window_blue_selfillum"
+	"$bumpmap" 	"concrete\window_blue_selfillum_norm_spec"
+	"$envmap" "env_cubemap"
+     	"$normalmapalphaenvmapmask" 1
+	"$selfillum" 1
+     	"$envmapcontrast" 1
+	"$surfaceprop" "concrete"
+	"$envmapsaturation" 1
+	"$envmaptint" "[ 0.8 0.8 0.85 ]"
+
+	"$detail" "detail\noise_detail_01"
+	"$detailscale" "7"
+	"$detailblendfactor" "0.5"
+	"$detailblendmode" "0"
+}

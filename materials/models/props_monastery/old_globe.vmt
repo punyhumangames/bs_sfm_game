@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/old_globe"
+	"$surfaceprop" "Metal"
+	"$bumpmap" "models/props_monastery/old_globe_normal"
+
+	"$envmap" "env_cubemap"	
+	"$normalmapalphaenvmapmask" "1"
+
+	"$phong" "1"
+						
+	"$phongfresnelranges"	"[.5 1 0]"
+>dx90
+	{
+	"$lightwarptexture" "models/shared/lightwarp_darken2"
+	"$phongboost" "100"
+//	"$phongexponent" 10
+	"$phongexponenttexture" "models/props_monastery/old_globe_exp"
+	"$phongalbedotint" "1"		
+	"$rimlight" 1
+	"$rimlightboost" 1.2
+	"$rimlightexponent" 10
+	}
+<=dx90
+	{
+	"$phongboost" "20"
+	"$phongexponent" "45"
+	}
+}

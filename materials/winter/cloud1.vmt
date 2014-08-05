@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "winter/cloud1"
+//	"$bumpmap" "winter/cloud1_n"
+	"$translucent" 1
+	"$nocull" 1
+//	"$vertexcolor" 1
+
+
+}

@@ -1,0 +1,15 @@
+"Patch"
+{
+	include "materials/tutorial/woodshared.vmt"
+	insert
+	{
+	"$basetexture" 	"tutorial\wood_generic2"
+	"$bumpmap" 	"tutorial\wood_generic2_n"
+	"$envmap" "env_cubemap"
+    "$normalmapalphaenvmapmask" 1
+    "$envmapcontrast" 1
+	"$surfaceprop" "wood"
+	"$envmapsaturation" 1
+	"$envmaptint" "[ 0.5 0.33 0.33 ]"
+	}
+}

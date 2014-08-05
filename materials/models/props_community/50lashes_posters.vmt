@@ -1,0 +1,6 @@
+vertexlitgeneric
+{
+$model 1
+$normalmap "models/shared/n_flat"
+$basetexture "models/props_community/50lashes_posters"
+}

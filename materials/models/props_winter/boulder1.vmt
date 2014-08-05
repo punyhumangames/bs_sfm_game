@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/boulder1"
+	"$surfaceprop" "Rock"
+>dx90
+	{
+	"$bumpmap" "models/props_winter/boulder1_n"	
+	}
+}

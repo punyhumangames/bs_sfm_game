@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Roof/roof_tile_caps"
+	"$bumpmap" "Roof/roof_tile_caps_normal"
+	"$surfaceprop" "Concrete"
+	"$translucent" 1
+	"$basetexturetransform" "center 0 0 scale 2 2 rotate 0 translate 0 0"
+	"$nocull" 1
+}

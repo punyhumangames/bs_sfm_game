@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "signs\chinese_sign_green01"
+	"$surfaceprop" "plastic"
+	"$selfillum" 1
+	"$additive" 1
+}

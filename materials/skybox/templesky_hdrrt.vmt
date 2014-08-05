@@ -1,0 +1,7 @@
+Sky
+{
+	$hdrbasetexture		"skybox/templesky_hdrrt"
+	$basetexture		"skybox/templeskyrt"
+	"$nofog" 		"1"
+	"$ignorez" 		"1"
+}

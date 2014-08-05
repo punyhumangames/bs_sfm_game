@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "models/props_community/store_bookstore"
+	"$bumpmap" 		"models/props_community/store_bookstore_nrm"
+	"$normalmapalphaenvmapmask" 1	
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	
+	"$surfaceprop" "metal"	
+	"$model" 1
+	
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmaptint" "[.5 .5 .5]"
+	
+	"$phong" 1
+	"$phongboost"	"5"	
+	"$phongexponent" "75"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+//	"$phongexponenttexture" "models/props_community/store_bookstore_exp"
+}

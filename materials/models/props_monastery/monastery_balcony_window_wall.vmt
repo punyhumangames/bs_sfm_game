@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models\props_monastery\monastery_balcony_window_trim_diffuse"
+	"$bumpmap" 		"models\props_monastery\monastery_balcony_window_trim_normal"   
+	"$surfaceprop" 	"stone" 
+}

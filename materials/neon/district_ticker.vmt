@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"neon\district_ticker"
+	"$surfaceprop"	"metal"
+	
+	Proxies
+	{
+		TextureScroll
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"textureScrollRate" 0.1
+			"textureScrollAngle" 180
+		}
+	}
+}

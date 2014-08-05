@@ -1,0 +1,11 @@
+"LightMappedGeneric"
+{
+	"$basetexture" 	"community_common\elv_wallpanel"
+	"$bumpmap" 	"community_common\elv_wallpanel_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$surfaceprop" "concrete"
+	"$envmapsaturation" 0.25
+	"$envmaptint" "[1 1 1]"
+}

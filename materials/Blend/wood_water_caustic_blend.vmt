@@ -1,0 +1,18 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "wood/wood_old_planks3"
+	"$basetexture2" "nature/water_caustics1"
+	"$surfaceprop" "wood_plank"
+	"$bumpmap" "wood/wood_old_planks3_normal"
+
+	"Proxies"
+	{
+	"AnimatedTexture"
+		{
+			"Animatedtexturevar" "$basetexture2"
+			"Animatedtextureframenumvar" "$frame2"
+			"Animatedtextureframerate" "15"
+		}
+	}
+
+}

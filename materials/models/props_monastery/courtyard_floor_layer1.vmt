@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/courtyard_floor_layer1"
+
+	"$bumpmap" "models/props_monastery/courtyard_floor_layer1_n"
+
+	"$detail" "models/props_monastery/courtyard_floor_lm1"
+	"$detailscale" 1
+
+	"$model" 1
+
+	"$basetexturetransform" "center 0.007 0.002 scale 2 2 rotate 0 translate 0 0"
+
+>dx90
+	{
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.5"
+//	"$envmapcontrast" "0.5"
+	"$envmaptint" "0.22"
+	"$lightwarptexture" "models/shared/lightwarp_darken3"
+	"$normalmapalphaenvmapmask" "1"
+	}
+}

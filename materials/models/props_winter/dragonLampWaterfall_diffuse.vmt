@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/dragonLampWaterfall_diffuse"
+	"$bumpmap" "models/props_winter/dragonLampWaterfall_normals"
+	"$nocull" "1"
+	"$selfillum" "1"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[0.1 2 4]" // 0.0 1.0 1.0 is the default
+	"$selfillumtint"	"[1 1 1]"
+
+}

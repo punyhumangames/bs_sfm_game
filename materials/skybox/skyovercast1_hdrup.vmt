@@ -1,0 +1,6 @@
+Sky
+{
+	// if you compiled with nocompress:
+	$hdrbasetexture		"skybox/skyovercast1_hdrup"
+	$basetexture		"skybox/skyovercast1up"
+}

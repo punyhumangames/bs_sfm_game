@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/woodbarrel2"
+	"$bumpmap" "models/props_monastery/woodbarrel2_normal"
+	"$surfaceprop" "wood"
+	
+}
+

@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/buttresses_s"
+>dx90
+	{
+	"$bumpmap" "models/props_monastery/buttresses_s_normal"
+	}
+	"$nodecal" "1"
+//	"$basetexturetransform" "center .5 .5 scale 5 5 rotate 0 translate 0 0"
+
+
+//	"$detail" "models/props_monastery/buttresses_lm"
+//	"$detailscale" 1
+
+
+}

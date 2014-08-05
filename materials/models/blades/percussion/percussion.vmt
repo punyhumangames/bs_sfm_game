@@ -1,0 +1,27 @@
+"Patch"
+{
+	include "materials/models/shared/swords.vmt"
+	insert
+	{
+	"$basetexture"  "models/blades/percussion/percussion"
+	"$bumpmap"	"models/blades/percussion/percussion_n"
+
+	"$surfaceprop" "metal"
+	//"$translucent" 1
+	"$normalmapalphaenvmapmask" "1"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmaptint" "[0.6 0.6 0.6]"
+
+	"$phong" 1
+	"$phongboost" 0
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[0.05 3 3]"
+	"$phongexponenttexture" "models/shared/albedotint"
+	"$phongwarptexture" "models/shared/phongwarp_metallic1"
+	"$phongexponent" 32
+	"$phongboost" "1"
+	}
+}

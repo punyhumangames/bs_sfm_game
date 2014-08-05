@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"district\Gravel01"
+	"$bumpmap" 	"district\Gravel01_nrm"
+	"$envmap" "env_cubemap"
+    "$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "concrete"
+	
+	$detail "district\Gravel_detail"
+	$detailscale 0.1
+	$detailblendfactor 1
+	$detailblendmode 0
+}

@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	$basetexture	"vgui/customize_button_bg"
+	
+	$ignorez		1
+	$nofog			1
+}

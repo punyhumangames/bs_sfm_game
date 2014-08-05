@@ -1,0 +1,21 @@
+"lightmappedreflective"
+{
+	"%tooltexture" "dev/dev_normal"
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" "0"
+	"$refracttint" "[.7 .7 .7]"
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" "0.1"
+	"$reflecttint" "[1 1 1]"
+
+	"$fresnelpower" "5"
+	"$minreflectivity" "0"
+	"$maxreflectivity" "0.025"
+	
+	"$normalmap" "dev/dev_normal"
+
+	"$surfaceprop" "glass"
+	"$bumpframe" "0"
+}
+

@@ -1,0 +1,36 @@
+particles_manifest
+{
+	file	"!particles/error.pcf"
+	file 	"particles/spark_fx.pcf"       //P2 located in berimbau_base	
+	file	"particles/ber_dev.pcf"
+	file	particles/bonfire.pcf
+	file	particles/smoke_blackbillow.pcf
+	file	"!particles/blade_sparks.pcf"
+	file	"!particles/tracer_effects.pcf"
+	file	particles/blood_impact.pcf
+	file	"!particles/blade_charge.pcf"
+	file	particles/tiny_candle.pcf
+	file	particles/tiny_torch.pcf
+	file	particles/water2.pcf
+	file	particles/water3.pcf
+	file	"!particles/attacks.pcf"
+	file	particles/sword_style.pcf
+	file 	particles/ivyleaves.pcf
+	file	particles/map_winter_water.pcf
+	file	particles/berimbau_weather.pcf
+	file	"!particles/player_spawn.pcf"
+	file	"!particles/player_generic.pcf"
+	file	"!particles/player_charging.pcf"
+	file	"!particles/player_blocking.pcf"
+	file	particles/map_dojo.pcf
+	file	particles/map_district.pcf
+	file 	particles/fug_fire_01.pcf
+	file 	particles/fug_fire_02.pcf
+	file 	particles/butterflies.pcf
+	file	"!particles/ninjastar.pcf"
+	file	"!particles/tracer.pcf"
+	file	"!particles/spraypaint.pcf"
+	file 	particles/lightning_sky.pcf
+	file 	"!particles/vgui_fx.pcf"
+	file	"particles/ber_events.pcf"	
+}

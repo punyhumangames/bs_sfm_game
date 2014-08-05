@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"%tooltexture" "Decals/oilslick4"
+	"$envmap" env_cubemap
+	"$envmapmask" "decals/oilslick4"
+	"$decal" 1
+	"$decalscale" 0.25
+	"$envmaptint" "[ 0.70 0.70 0.70 ]"
+	"%keywords" "borealis"
+}

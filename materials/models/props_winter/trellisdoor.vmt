@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/trellisdoor"
+//	"$bumpmap" "models/props_winter/trellisdoor_n"
+	//"$alphatest" 1
+	//"$nocull" 1
+	//"$nodecal" 1
+	//"$surfaceprop" "Wood_Solid"
+	"$model" 1
+}

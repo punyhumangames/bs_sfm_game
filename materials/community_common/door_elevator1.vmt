@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "community_common/door_elevator1"
+	"$bumpmap" "community_common/door_elevator1_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	"$reflectivity" "[ .75 .75 .75 ]" 
+	"$envmapsaturation" ".33"
+	"$envmapcontrast" ".5"
+	"$envmaptint" "[ .75 .75 .75 ]"
+	"$envmapmask" "companels/com_floorpanel_256_01_spec"
+	"$envmap"	"env_cubemap"
+}

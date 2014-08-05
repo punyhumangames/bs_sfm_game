@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/shutter_box"
+	"$bumpmap" "models/props_winter/shutter_box_normal"
+	"$surfaceprop" "shutter_box"
+	"$model" 1
+}

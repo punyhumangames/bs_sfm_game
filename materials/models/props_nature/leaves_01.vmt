@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_nature/leaves_01"
+	"$translucent" 1
+	"$nocull" 1
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "signs\chinese_sign_rusted_big"
+	"$surfaceprop" "metal"
+	"$translucent" 1
+}

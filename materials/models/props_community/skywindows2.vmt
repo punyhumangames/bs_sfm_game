@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$detail" "models/props_community/skybox"
+	"$basetexturetransform" "center 0 1 scale 32 32 rotate 0 translate 0 0"
+	"$basetexture" "models/props_community/skywindows2"
+	"$detailblendmode" "0"
+	"$detailblendfactor" 1
+	"$detailscale" 1
+	//"$detail" "models/temple/rock_shared"
+	//"$detailscale" 5
+	"$envmap" "env_cubemap"
+	//"$envmaptint" "[0.035 0.05 0.035]"
+	//"$normalmapalphaenvmapmask" 1
+	"$basealphaenvmapmask" 1
+	//"$detailblendmode" "2"
+	"$phong" "1"
+	"$phongexponent" 5						
+	"$phongfresnelranges"	"[.5 1 0]"
+	"$phongboost" "2"
+	"$phongexponenttexture" "models/shared/albedotint"
+	"$phongalbedotint" "1"								
+	"$lightwarptexture" "models/shared/lightwarp_darken3"
+	>dx90
+	{
+		"$bumpmap" "models/shared/n_flat"
+		//"$basetexturetransform" "center .5 .5 scale 4 4 rotate 0 translate 0 0"
+		"$lightwarptexture" "models/shared/lightwarp_darken3"
+	}
+}

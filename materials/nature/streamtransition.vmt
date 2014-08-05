@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	// base texture is a dummy; we need something here to indicate to the shader
+	// that we've got one though
+	"$basetexture" "nature/streamtransition"
+	"$translucent" 1
+	"$decal" 1
+}

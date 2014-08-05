@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"decals\fireexsign"
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[0.50 0.50 0.50]"
+	"$decal"	1
+	"$decalscale"	.0125
+	//"$translucent"	"1"
+}

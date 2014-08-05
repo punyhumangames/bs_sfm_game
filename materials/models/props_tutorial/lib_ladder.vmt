@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/lib_ladder"
+	"$surfaceprop" "wood"
+	"$bumpmap" "models/props_monastery/lib_ladder_normal"
+
+	"$envmap" "env_cubemap"	
+	//"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" "1"
+	"$envmaptint" "0.055"
+	"$phong" 1
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[0 2 4]"
+
+
+
+		//"$lightwarptexture" "models/shared/lightwarp_darken"
+		"$phongalbedotint" 1
+		"$phongexponenttexture" "models/props_monastery/library_wood2_exponent"
+	}   
+<=dx90
+	{
+		"$phongexponent" 20
+	}
+}

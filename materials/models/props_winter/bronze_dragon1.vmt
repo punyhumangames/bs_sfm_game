@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/bronze_dragon1"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+	"$alphatest" 1
+	//"$nocull" 1
+>dx90
+	{
+	"$bumpmap" "models/props_winter/bronze_dragon1_n"
+	"$phong" 1
+	"$phongexponenttexture" "models/shared/albedotint"
+	"$phongexponent" 14
+	"$phongboost" 4
+	"$phongfresnelranges"	"[1 3 8]"
+//	"$phongtint" "[1 1 0.5]"
+	"$phongalbedotint" 1
+}
+
+}

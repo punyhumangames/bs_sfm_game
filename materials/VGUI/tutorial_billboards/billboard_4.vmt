@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/tutorial_billboards/billboard_4"
+	"$vertexcolor" 1
+	"$translucent" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+}

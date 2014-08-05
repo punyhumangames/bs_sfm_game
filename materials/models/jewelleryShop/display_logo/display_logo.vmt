@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/jewelleryShop/display_logo/display_logo"
+	"$envmap"	"env_cubemap"
+	"$envmaptint" "[0.6 0.6 0.6]"
+}

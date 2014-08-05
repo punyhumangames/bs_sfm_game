@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/gamemodeicons/gamemode_hero"
+	"$no_fullbright" 1
+	"$ignorez" 1
+}

@@ -1,0 +1,12 @@
+refract
+{
+$model 1
+$refractamount "5"
+//$REFRACTTINT "[1.0 .89 .81]"
+//$scale "[3 3]"
+$localrefract 1
+$normalmap "models/props_community/deptstore_shutter_refract"
+//$normalmap "models/props_community/verdnt_glass"
+$localrefractdepth ".125"
+$basetexture "models/props_community/deptstore_fakedepth1"
+}

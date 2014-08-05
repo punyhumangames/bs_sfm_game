@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_asian/noodle_cart_wheel"
+	"$surfaceprop" "Metal"
+	"$bumpmap" "models/props_asian/noodle_cart_wheel_normal"
+	"$surfaceprop" "metal"
+	"$envmapmask" "models/props_asian/noodle_cart_wheel_spec"     
+	"$envmap" "env_cubemap"	
+
+	"$alphatest" 1
+	"$nocull" 1
+}

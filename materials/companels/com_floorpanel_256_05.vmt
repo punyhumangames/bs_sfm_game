@@ -1,0 +1,21 @@
+LightmappedGeneric
+{
+"$basetexture" "companels/com_floorpanel_256_05"
+"$surfaceprop" "Glass"
+$bumpmap "companels/com_floorpanel_256_01_nrm"
+$normalmapalphaenvmapmask 1
+$reflectivity "[ .75 .75 .75 ]" 
+"$envmapsaturation" .33
+"$envmapcontrast" .75
+"$envmaptint" "[ .33 .33 .33 ]"
+$envmapmask "companels/com_floorpanel_256_01_spec"
+$envmap	env_cubemap
+
+
+//$scale .5
+//$detail "detail/chevron1_SSBump"
+//$detailscale 20
+//$detailblendfactor .5
+//$detailblendmode 10
+"%keywords" "berimbau"
+}

@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "community_common/glasswindow3_world"
+	"$bumpmap" "community_common/glasswindow3_world_nrm"
+	"$surfaceprop" "Glass"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapsaturation" 0.25
+	"$envmaptint" "[1 1 1]"
+}

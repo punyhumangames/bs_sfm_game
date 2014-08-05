@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"skybox/skybox_scraper_01"
+	"$alphatest"	1
+}

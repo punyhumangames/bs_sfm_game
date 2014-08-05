@@ -1,0 +1,12 @@
+"DecalModulate"
+{
+	"$basetexture" "decals/game/decal_disc"
+	"$modelmaterial" "decals/game/decal_throwingdisc_model"
+	"$decal" 1
+	$decalfadetime 20
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$decalscale" .030
+	$decalScaleVariation 0.3
+}
+

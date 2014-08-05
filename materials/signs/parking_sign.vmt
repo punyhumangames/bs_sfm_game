@@ -1,0 +1,16 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "signs/parking_sign"
+	"$surfaceprop" "glass"
+	"$selfillum" 1
+
+  "Proxies" 
+    { 
+         "AnimatedTexture" 
+         { 
+            "animatedTextureVar" "$basetexture" 
+            "animatedTextureFrameNumVar" "$frame" 
+            "animatedTextureFrameRate" "4" 
+         }
+    } 
+}

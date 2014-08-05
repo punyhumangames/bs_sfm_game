@@ -1,0 +1,9 @@
+"LightMappedGeneric"
+{
+	"$basetexture" 	"community_common\elv_glass_wheel"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$surfaceprop" "concrete"
+	"$envmapsaturation" 0.25
+	"$envmaptint" "[1 1 1]"
+}

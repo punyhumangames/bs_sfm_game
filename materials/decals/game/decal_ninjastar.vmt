@@ -1,0 +1,12 @@
+"DecalModulate"
+{
+	"$basetexture" "decals/game/decal_ninjastar"
+	"$modelmaterial" "decals/game/decal_ninjastar_model"
+	"$decal" 1
+	$decalfadetime 20
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$decalscale" .022
+	$decalScaleVariation 0.2
+}
+

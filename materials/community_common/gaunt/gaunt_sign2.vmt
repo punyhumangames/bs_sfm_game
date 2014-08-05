@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "community_common/gaunt/gaunt_sign2"
+	"$alpha" .5
+}

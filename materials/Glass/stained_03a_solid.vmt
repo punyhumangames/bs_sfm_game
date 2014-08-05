@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "glass\stained_03a_solid"
+	"$bumpmap" "glass\stained_03a_solid_normal"
+	"$normalmapalphaenvmapmask" 1
+     	"$envmapmask"	"glass\stained_03a_spec"
+	"$envmap" "env_cubemap"
+//     	"$envmapcontrast" 1
+	"$envmaptint" "[0.8 1 0.8]"
+}

@@ -1,0 +1,8 @@
+"spritecard"
+{
+	$basetexture "particle/Lightning8"
+	$SEQUENCE_BLEND_MODE 1
+	$additive 1
+	$depthblend 1
+
+}

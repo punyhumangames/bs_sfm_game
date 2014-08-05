@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/window_large"
+	"$surfaceprop" "Wood_Solid"
+	"$model" 1
+	"$selfillum" 0
+}

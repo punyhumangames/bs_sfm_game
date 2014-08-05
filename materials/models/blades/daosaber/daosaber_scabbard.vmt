@@ -1,0 +1,27 @@
+"Patch"
+{
+	include "materials/models/shared/swords.vmt"
+	insert
+	{
+	"$basetexture" "models/blades/daosaber/daosaber_scabbard"
+	"$bumpmap" "models/blades/daosaber/daosaber_scabbard_normal"
+
+	"$normalmapalphaenvmapmask" 1
+
+	"$phong" 1
+	"$phongexponenttexture" "Models/shared/albedotint"
+	"$phongexponent" 3
+	"$phongfresnelranges"	"[0.1 0.55 0.7]"
+	"$phongwarptexture" "models/shared/phongwarp_metallic1" 
+	"$phongalbedotint" 1
+	"$phongboost" "120"
+
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.3 0.3 0.3]"
+
+	"$rimlight" 1
+	"$rimlightboost" "0.2"
+	}
+}

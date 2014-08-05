@@ -1,0 +1,22 @@
+"WorldVertexTransition"
+{
+    	
+   	"$basetexture" "temple/temple_rock004"
+   	"$basetexture2" "temple/temple_grass4"
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "dirt"
+	"$bumpmap" "temple/temple_rock004n_SSBump"
+	"$bumpmap2" "temple/temple_grass4n_SSBump"
+	"$ssbump" 1
+	"$blendmodulatetexture" "temple\blendmod_grasscliff"
+	"%detailtype" templegrass2
+	"$basetexture2noenvmap" 1
+                 //"$basetexturetransform2" "center 0 0 scale 2 2 rotate 0 translate 0 0"
+
+	"%keywords" "berimbau"
+	$seamless_scale 0.005
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[0.25 0.25 0.25]"
+
+}

@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "particle/ber_slash_vert2"
+	
+	$vertexcolor 1
+	$vertexalpha 1
+	
+	$additive 1
+}

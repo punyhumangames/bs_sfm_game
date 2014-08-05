@@ -1,0 +1,21 @@
+"vertexlitgeneric"
+{
+	"$model" 1
+	"$envmapsaturation" "0.2"
+	//"$envmapcontrast" "0.5"
+	//"$envmaptint"		"[0.3 0.3 0.15]"
+	"$basetexture" "models/props_community/com_railbar1"
+	"$bumpmap"	"models/props_community/com_railbar1_nrm"
+	"$phongexponenttexture" models/props_community/com_railbar1_exp
+	"$surfaceprop" "metal"
+	"$normalmapalphaenvmapmask" "1"
+	//"$lightwarptexture" "models/shared/lightwarp_darken"
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	//$rimlightexponent  1000
+	"$envmap" "env_cubemap"
+	"$phong" 1
+	"$phongfresnelranges"	"[0.5 1 3]"
+	"$phongexponent" 35
+	"$phongboost" "20"
+}

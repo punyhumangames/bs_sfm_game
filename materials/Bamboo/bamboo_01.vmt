@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "bamboo/bamboo_01"
+   	 "$surfaceprop" "wood"
+ 	 "$bumpmap" "bamboo/bamboo_01_normal"
+	"%keywords" "berimbau"
+}

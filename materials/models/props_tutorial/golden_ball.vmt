@@ -1,0 +1,20 @@
+"vertexlitgeneric" 
+{
+	"$basetexture" "models\props_tutorial/golden_ball"
+	"$model" 1
+  	"$surfaceprop" "metal"
+	"$bumpmap" "models\props_tutorial/golden_ball_spec_normal"
+	"%keywords" "berimbau"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "0.02"
+	"$normalmapalphaenvmapmask" 1
+	"$phong" "1" 
+	"$phongexponent" "33" 
+	"$phongboost" "0.10"  
+	"$phongfresnelranges" "[2 7 75]" 
+	"$rimlight" 1
+	"$rimlightexponent" 2
+	"$rimlightboost" .2
+}
+
+

@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/shopping_roof_metal"
+	"$basetexturetransform" "center .5 .5 scale 4 4 rotate 0 translate 0 0"
+	"$bumpmap" "models/shared/n_flat"
+	"$detail" "models/props_community/deptstore_aa"
+	"$detailblendmode" 0
+	"$detailscale" 1
+	"$surfaceprop" "Concrete"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	"$envmaptint" "[ .04 .03 .04 ]"
+	$normalmapalphaenvmapmask 1
+	$envmap	env_cubemap
+	"$phong" 1
+	"$phongfresnelranges"	"[1 2 5]"
+	"$phongexponent" 10
+	"$phongboost" "1"
+	"%keywords" "berimbau"
+	"$rimlight" 1
+	$rimlightexponent       2
+	$rimlightboost          1
+}

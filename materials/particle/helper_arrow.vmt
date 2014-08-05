@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$additive" 1
+	"$basetexture" "particle/helper_arrow"
+	$vertexalpha 1
+}

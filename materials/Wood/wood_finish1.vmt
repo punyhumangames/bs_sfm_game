@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Wood/wood_finish1"
+	"$bumpmap" "Wood/wood_finish1_normal"
+	"$surfaceprop" "Wood_Solid"
+}

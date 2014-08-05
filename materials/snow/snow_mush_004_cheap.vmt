@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "snow/snow_mush_004"
+	>=dx90
+		{
+		"$bumpmap" "snow/snow_mush_004_n"
+		}
+}

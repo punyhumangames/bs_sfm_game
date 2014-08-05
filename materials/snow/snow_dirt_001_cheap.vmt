@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "snow/snow_dirt_001"
+	>=dx90
+		{
+		"$bumpmap" "snow/snow_dirt_001_n"
+	//	"$detail" "snow/snow_dirt_001_ao"
+	//	"$detailscale" "1"
+		"$surfaceprop" "snow"
+		}
+}

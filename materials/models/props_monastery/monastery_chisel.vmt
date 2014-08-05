@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/monastery_chisel_diffuse"
+
+
+>dx90
+	{
+	"$bumpmap" "models/props_monastery/monastery_chisel_normal"
+	"$phong" "1"
+
+	"$phongexponenttexture" "models/props_monastery/monastery_chisel_exponent"
+	"$phongboost"	"6"
+	"$phongfresnelranges"	"[0.05 1.0 2.0]"
+	}
+}

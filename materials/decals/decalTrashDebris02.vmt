@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	decals\decalTrashDebris02
+	$decal		1
+	$decalscale	.20
+	$translucent	1
+}

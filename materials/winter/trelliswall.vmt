@@ -1,0 +1,10 @@
+"Lightmappedgeneric"
+{
+	"$basetexture" "winter/trelliswall"
+	"$surfaceprop" "wood"
+	"$nocull" 1
+	"$translucent" 1
+	"$bumpmap" "winter/trelliswall_n"
+	"$lightwarptexture" "snow\snow_warptexture"
+	"$alphatest" 1
+}

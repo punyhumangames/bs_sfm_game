@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	"$basetexture" "vgui/capeicons/artskin"
+	$vertexcolor	1
+	$vertexalpha	1
+	
+	$ignorez		1
+	$nofog			1
+}

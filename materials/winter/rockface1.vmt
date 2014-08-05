@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "winter/rockface1"
+	"$bumpmap" "winter/rockface1_n"
+	"$ssbump" "winter/rockface1_ssb"
+
+	"$surfaceprop" "Rock"
+}

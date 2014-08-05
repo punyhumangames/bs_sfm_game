@@ -1,0 +1,13 @@
+"unlitgeneric"
+{
+	$basetexture		"VGUI\hud\centerpiece_256x128"
+	//$vertexcolor		1
+	//$color				"[1 0.75 .95]"
+	//$alphatest		1
+	//$ALPHATESTREFERENCE .01
+	//$additive		1
+	$translucent 1
+	$nofog				1
+	$ignorez			1
+	//$linearwrite		1
+}

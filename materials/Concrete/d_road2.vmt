@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete\d_road2"
+    "$bumpmap" "concrete\d_road2_nrm"
+	"$envmap" "env_cubemap"
+   	"$normalmapalphaenvmapmask" 1
+
+	"$surfaceprop" "concrete"
+	"$detail" "detail\noise_detail_road"
+	"$detailscale" ".33"
+	"$detailblendfactor" ".6"
+	"$detailblendmode" "0"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/courtyard_well"
+	"$surfaceprop" "Rock"
+	"$bumpmap" "models/props_monastery/courtyard_well_normal"
+//	"$nocull" 1
+	"$model" 1
+//	"$halflambert" 1
+//		"$lightwarptexture" "models/shared/lightwarp_darken3"
+}

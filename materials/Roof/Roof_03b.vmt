@@ -1,0 +1,21 @@
+/// envmaptint_fix/
+//"LightmappedGeneric"
+//{
+//	"$basetexture" "Roof/metalroof003a"
+//	"$surfaceprop" "metal"
+//	"$envmap" "env_cubemap"
+//	"$bumpmap" "Metal/metalroof003a_normal"
+//	"$normalmapalphaenvmapmask" 1
+//	"$envmapcontrast" 1
+//	"$envmapsaturation" 1
+//	"$envmaptint" "[ .5 .5 .5 ]"
+//	"$basetexturetransform" "center .5 .5 scale 2 2 rotate 0 translate 0 0"
+//}
+
+"LightmappedGeneric"
+{
+	"$basetexture" "roof/roof_03b"
+   	 "$surfaceprop" "concrete"
+	"%keywords" "berimbau"
+}
+

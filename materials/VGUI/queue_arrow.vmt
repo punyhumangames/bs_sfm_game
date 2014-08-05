@@ -1,0 +1,12 @@
+"unlitgeneric"
+{
+	$basetexture	"vgui/queue_arrow"
+	$translucent	1
+	
+	$vertexcolor	1
+	$vertexalpha	1
+	
+	$nofog			1
+	$ignorez		1
+	$linearwrite	1
+}

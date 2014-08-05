@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/monastery_masonaryPile_diffuse"
+	"$bumpmap" "models/props_monastery/monastery_masonaryPile_normals"
+}

@@ -1,0 +1,25 @@
+"vertexlitgeneric" 
+{
+	"$basetexture" "models\props_tutorial/candle"
+	"$model" 1
+  	"$surfaceprop" "metal"
+	"$bumpmap" "models\props_tutorial/candle_spec_normal"
+	"%keywords" "berimbau"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "0.02"
+	"$normalmapalphaenvmapmask" 1
+	"$selfillum" "1"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[0 4 8]"
+	"$selfillumtint"	"[1 1 1]"
+
+	"$phong" "1" 
+	"$phongexponent" "33" 
+	"$phongboost" "0.10"  
+	"$phongfresnelranges" "[2 7 75]" 
+	"$rimlight" 1
+	"$rimlightexponent" 2
+	"$rimlightboost" .2
+}
+
+

@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/roof_gable1"
+>dx90
+	{	
+	"$bumpmap" "models/props_winter/roof_gable_normal"
+	}
+	"$surfaceprop" "Wood_Solid"
+}

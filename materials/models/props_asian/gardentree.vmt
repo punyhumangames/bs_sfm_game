@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_asian/gardentree"
+	"$surfaceprop" "Wood_Solid"
+}

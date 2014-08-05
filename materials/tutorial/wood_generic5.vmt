@@ -1,0 +1,12 @@
+"LightMappedGeneric"
+{
+	"$basetexture" 	"tutorial\wood_generic5"
+	"$bumpmap" 	"tutorial\wood_generic5_n"
+	"$color" "[2.5 4 4]"
+	"$envmap" "env_cubemap"
+    	"$normalmapalphaenvmapmask" 1
+ 	//"$envmapcontrast" 1
+	"$surfaceprop" "wood"
+	//"$envmapsaturation" 0.25
+	//"$envmaptint" "[1 1 1]"
+}

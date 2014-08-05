@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"_rt_FullFrameFB1"
+	"$ignorez" 	1
+	"$nocull"	1
+	$linear 1
+}

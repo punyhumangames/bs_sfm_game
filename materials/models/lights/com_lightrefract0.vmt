@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$model" 1
+	"$basetexture" "models/lights/com_lightbox0"
+	"$surfaceprop" "Glass"
+}

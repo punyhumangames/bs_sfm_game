@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/plant_pot_square1"
+	"$bumpmap" "models/props_community/plant_pot_square_normal"
+	//"$lightwarptexture" "models/shared/lightwarp_lighten"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.025 .025 .025]"
+
+	"$phong" 1
+	"$phongexponent" 10
+	"$phongfresnelranges"	"[0.5 1 3]"
+	"$phongboost" "1"
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models/props_community/plant_pot_square_exponent"
+} 
+

@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"	"materials/vgui/stances/stance_shared.vmt"
+	
+	"insert"
+	{
+		$basetexture	"vgui/stances/pure_fast"
+	}
+}

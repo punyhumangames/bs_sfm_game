@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/deptstore_shutter_trans"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models/props_community/deptstore_shutter_trans_nrm"
+	"$surfaceprop" "metal" 
+	"$normalmapalphaenvmapmask" "1"
+	"$rimlight" "0"
+	"$rimlightboost" "1"
+	"$rimlightexponent"  .5
+	"$phong" 1
+	"$phongfresnelranges"	"[1  2 5]"
+	$basetexturetransform "center .57 .57 scale 6 6 rotate 0 translate 0 0"
+	//"$phongexponent" "100"
+	"$phongboost" "3"
+	"$envmapsaturation" ".33"
+	"$envmapcontrast" ".5"
+	"$phongexponenttexture" "models/shared/albedotint"
+	"$envmaptint" "[.6 .6 .6]"
+	"$translucent" 1
+}

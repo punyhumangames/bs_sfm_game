@@ -1,0 +1,39 @@
+"Water"
+{
+//	"$forcecheap" 1
+	"%compilewater" 		"1"
+	"%tooltexture" 			"esther/nature/water/water_normal4c"
+	"$surfaceprop" 			"water"
+	
+	"$vertexfog"			"1"
+
+	"$reflect2dskybox" 		"1"
+
+	"$normalmap" 			"esther/nature/water/water_normal4c"
+	"$bumptransform"		"center .5 .5 scale 32 32 rotate 0 translate 0 0"
+
+	"$reflecttexture" 		"_rt_WaterReflection"
+	"$refracttexture" 		"_rt_WaterRefraction"
+	"$reflectamount" 		".3"
+//	"$refractamount" 		".0"
+//	"$reflecttint" 			"{ 190 190 190 }"
+	"$reflectskyboxonly" 		"1"
+//	"$reflectonlymarkedentities" 	"1"
+
+	"$abovewater" 			"1"
+	"$bottommaterial" 		"esther/nature/water/sea_under"
+
+	"$fogenable" 			"1"
+	"$fogstart" 			"0"
+	"$fogend" 			"16"
+//	"$fogcolor" 			"{18 14 12}"
+//	"$fogcolor" 			"{9 10 9}"
+	"$fogcolor" 			"{25 26 31}"
+	"$lightmapwaterfog" 		"1"
+
+	"$basereflectance"		".00"
+	"$maxreflectance"		"1"
+	"$fresnelpower"			"5"
+
+
+}

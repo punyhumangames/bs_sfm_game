@@ -1,0 +1,18 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/vanguard/vanguard"
+		"$bumpmap" "models/vanguard/vanguard_n"
+
+		"$envmaptint" "[0.5 0.5 0.4]"
+	
+		"$selfillum" "0"
+
+		"$phongexponenttexture" "models/vanguard/vanguard_exp"
+		"$phongboost"	"150"
+		"$phongfresnelranges"	"[0.63 0.9 0.9]"
+		"$phongwarptexture" "models/shared/phongwarp_metallic1"
+	}
+}

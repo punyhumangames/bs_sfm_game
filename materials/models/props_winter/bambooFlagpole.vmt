@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"models/props_winter/bambooFlagpole_diffuse"
+	"$surfaceprop" 				"Wood"
+>dx90
+	{
+	"$bumpmap" 					"models/props_winter/bambooFlagpole_normal"    
+	}
+
+
+}

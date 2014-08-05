@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+$basetexture "Dev/dev_glass"
+$envmap "env_cubemap"
+$envmapmask "dev/dev_glass_spec"
+
+$envmapsaturation 0
+$envmaptint "[ .75 1 2 ]"
+$envmapcontrast 1
+$surfaceprop glass
+$translucent 1
+$fresnelreflection 350
+$nocull 1
+"srgb?$alpha" ".5"
+}
+

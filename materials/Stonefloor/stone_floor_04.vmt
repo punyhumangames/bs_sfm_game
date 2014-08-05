@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "stonefloor/stone_floor_04"
+   	 "$surfaceprop" "stone"
+	 "$bumpmap" 		"stonefloor/stone_floor_04_bump"
+	"%keywords" "berimbau"
+}

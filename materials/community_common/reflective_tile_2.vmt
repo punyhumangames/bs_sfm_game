@@ -1,0 +1,23 @@
+"lightmappedreflective"
+{
+	"$basetexture" "community_common/reflective_tile"
+	"$envmapmask" "community_common/reflective_tile_mask"
+	
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" "0"
+	"$refracttint" "[.25 .25 .25]"
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" "0"
+	"$reflecttint" "[1 1 1]"
+
+	"$fresnelpower" "5"
+	"$minreflectivity" "0"
+	"$maxreflectivity" "0.25"
+	
+	"$normalmap" "community_common/reflective_tile_normal"
+
+	"$surfaceprop" "glass"
+	"$bumpframe" "0"
+}
+

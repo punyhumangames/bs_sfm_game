@@ -1,0 +1,23 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "temple/cliffslab"
+   	"$surfaceprop" "stone"
+	"$bumpmap" "temple/cliffslab_nrm"
+	"$detail" "detail/cliffslab_detail"
+	"$detailscale" 4
+	"$detailblendfactor" 0.8
+	"$detailblendmode" 0
+	"%keywords" "berimbau"
+ //  	"$basetexturetransform" "center 0 0 scale 2 2 rotate 0 translate 0 0"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "0.25"
+	"$normalmapalphaenvmapmask" 1
+	"$color" "[0.82 0.8 0.8]"
+>dx90
+	{
+	//"$basetexture" "temple/temple_bricks002"
+	//"$bumpmap" 	"temple/courtyard_center_n_2048"
+  	//"$basetexturetransform" "center 0 0 scale 2 2 rotate 0 translate 0 0"
+	"$lightwarptexture" "models/shared/lightwarp_darken4"
+	}
+}

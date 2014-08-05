@@ -1,0 +1,26 @@
+"vertexlitgeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "models/props_district\district_shelter_glass"
+	//"$selfillum" 1
+	"$bumpmap" "models/props_district\district_shelter_glass_n"
+	"$envmap" "env_cubemap"
+     	"$normalmapalphaenvmapmask" 1
+     	"$envmapcontrast" 1 makes tighter reflections and more contrasty
+	"$surfaceprop" "models/props_district"
+	//"$detail" "detail\noise_detail_01"
+	//"$detailscale" "7.74"
+	//"$detailblendfactor" "0.8"
+	//"$detailblendmode" "0"
+	//"$envmapsaturation" 1
+	//"$envmapcontrast" 1
+	//"$envmaptint" "[ .56 .56 .56 ]"
+	//$writeZ 1		1
+	//"$additive" 1
+	"$translucent" 1
+	"$phong" "1"
+	"$phongexponenttexture" "models/shared/n_flat"
+	"$phongexponent" "10"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.1 .7 1]"
+}

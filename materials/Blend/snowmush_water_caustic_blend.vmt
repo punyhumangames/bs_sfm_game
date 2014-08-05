@@ -1,0 +1,25 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "snow/snow_mush_005"
+	"$basetexture2" "nature/water_caustics1"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "snow/snow_mush_005_ss"
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.5"
+	"$envmapcontrast" "0.5"
+	"$envmaptint" "[.7 .75 .7]"
+	"$ssbump" 1
+	"$ssbumpmathfix" 1
+	"$normalmapalphaenvmapmask" 1
+
+	"Proxies"
+	{
+	"AnimatedTexture"
+		{
+			"Animatedtexturevar" "$basetexture2"
+			"Animatedtextureframenumvar" "$frame2"
+			"Animatedtextureframerate" "15"
+		}
+	}
+
+}

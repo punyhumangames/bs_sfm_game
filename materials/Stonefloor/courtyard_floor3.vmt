@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/props_monastery/courtyard_floor_layer3"
+   	"$surfaceprop" "stone"
+	"$bumpmap" 		"models/props_monastery/courtyard_floor_layer3_n"
+	"%keywords" "berimbau"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "0.1"
+	"$normalmapalphaenvmapmask" 1
+	"$color" "[0.7 0.72 0.7]"
+>dx90
+	{
+	"$lightwarptexture" "models/shared/lightwarp_darken4"
+	}
+}

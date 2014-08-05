@@ -1,0 +1,15 @@
+"Refract"
+{
+ 	"$normalmap" "particle/ber_warp1_nrm"
+ 	"$dudvmap" "particle/ber_warp1_dudv"
+ 	"$refractamount" "-.03"
+//	"$refracttinttexture" "particle/warp1_tint"
+	"$vertexalpha" "1"
+	"$vertexcolor" "1"
+	"$translucent" "1"
+	"$forcerefract" 1
+ 	"$bluramount" "0"
+	"$nofog" "1"
+	"$vertexcolormodulate" "1"
+	$NoCull 1
+}

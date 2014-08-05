@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_nature/bamboo_leaves1"
+//	"$surfaceprop" "Wood_Furniture"
+	"$nocull" 1
+	"$model" 1
+	"$alphatest" 1
+	"$nowritez" 1
+	"$translucent" 1
+}

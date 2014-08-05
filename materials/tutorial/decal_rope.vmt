@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "tutorial/decal_rope"
+	"$decal" 1
+	"$decalscale" .015625
+}

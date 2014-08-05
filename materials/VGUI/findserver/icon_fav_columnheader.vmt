@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	$basetexture		"VGUI\findserver\icon_fav_columnheader"
+	$vertexcolor		1
+	$translucent		1
+	$nofog				1
+	$ignorez			1
+	$linearwrite		1
+}

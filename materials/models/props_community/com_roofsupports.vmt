@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/com_roofsupports"
+	"$basetexture" "models/props_community/com_roofsupports_nrm"
+	"$normalmapalphaenvmapmask" 1	
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	"$surfaceprop" "metal"	
+	"$model" 1
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmaptint" "[.5 .5 .5]"
+	"$phong" 1
+	"$phongboost"	"1"	
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+//	"$phongexponenttexture" "models/props_community/store_fastfood_exp"
+}

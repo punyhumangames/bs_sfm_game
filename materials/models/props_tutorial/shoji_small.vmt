@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_tutorial/shoji_small"
+>dx90
+	{
+	"$model" 1
+	"$phong" 1
+	//"$phongboost"	"2"
+	//"$phongfresnelranges"	"[0 2 4]"
+	//"$lightwarptexture" "models/shared/lightwarp_darken"
+	//"$phongalbedotint" 1
+	//"$phongexponenttexture" "models/props_monastery/library_wood2_exponent"
+	}   
+<=dx90
+	{
+		"$phongexponent" 20
+	}
+}

@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$basetexture" "models/shared/nothing2"
+//	"$alpha" 0.5
+//	"$translucent" 1
+}

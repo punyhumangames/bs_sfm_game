@@ -1,0 +1,16 @@
+"WorldVertexTransition"
+{
+    	
+   	"$basetexture" "temple/temple_rock002"
+   	"$basetexture2" "temple/temple_grass001"
+	"$surfaceprop" "dirt"
+	"$surfaceprop2" "dirt"
+	"$bumpmap" "temple/temple_rock002n_SSBump"
+	"$bumpmap2" "temple/temple_grass001n_SSBump"
+	"$ssbump" 1
+	"$blendmodulatetexture" "winter\rock_face_modulate"
+                 "$basetexturetransform2" "center 0 0 scale 2 2 rotate 0 translate 0 0"
+
+	"%keywords" "berimbau"
+	$seamless_scale 0.005
+}

@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/temple/statue_erhu"
+	"$bumpmap" "models/temple/statue_erhu_normal"
+	"$lightwarptexture" "models/shared/lightwarp_darken3"
+		"$phong" "1"
+							"$phongboost" "0"
+	"$phongfresnelranges"	"[0 0 1]"
+	"$phongexponent" 1
+	//	"$rimlight" 1
+	//"$rimlightboost" 5
+	//"$rimlightexponent" 10
+}

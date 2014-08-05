@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "brickwall/d_giantbrickwall_windows1"
+   	 "$surfaceprop" "concrete"
+ 	 "$bumpmap" "brickwall/d_giantbrickwallwindows1_n"
+	"%keywords" "berimbau"
+}

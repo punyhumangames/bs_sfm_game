@@ -1,0 +1,30 @@
+"UnLitGeneric"
+{
+	"$basetexture" "models/props_tutorial/shoji_small"
+>dx90
+	{
+	"$model" 1
+	"$phong" 1
+	"$nocull" 1
+	"$translucent" 1
+	//"$phongboost"	"2"
+	//"$phongfresnelranges"	"[0 2 4]"
+	//"$lightwarptexture" "models/shared/lightwarp_darken"
+	//"$phongalbedotint" 1
+	//"$phongexponenttexture" "models/props_monastery/library_wood2_exponent"
+	}   
+<=dx90
+	{
+		"$phongexponent" 20
+	}
+	"$color" "[0.5 0.5 0.5]"
+	"$setcolor" "0.65"
+	"Proxies"
+	{
+		"BBEquals"
+		{
+			"srcVar1" "$setcolor"
+			"resultVar" "$color"
+		}
+	}
+}

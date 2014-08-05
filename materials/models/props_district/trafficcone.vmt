@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_district/trafficcone"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "plastic"
+	"$envmaptint" .3 .3 .3
+//	"$selfillum" "1"
+	"$bumpmap" "Models/props_district/trafficcone_normal" 
+	"$phong" "1" 
+	"$phongexponent" "33" 
+	"$phongboost" "0.10"  
+	"$phongfresnelranges" "[2 7 75]" 
+	"$rimlight" 1
+	"$rimlightexponent" 2
+	"$rimlightboost" .2
+}
+

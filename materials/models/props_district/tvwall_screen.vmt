@@ -1,0 +1,72 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "models/props_district/tvwall_backgrounds"
+    "$texture2"     "models/props_district/tvwall_backgrounds"
+    "$color" "[1.0 1.0 1.0]"
+    "$offset" "3"
+    "$translate1" "[0.0 0.0]"
+    "$translate2" "[5.0 0.0]"
+    "$scale2" "[.5 .5]"
+    "$scale1" "[.5 .5]"
+	//"$additive" 1
+
+    "Proxies"
+    {
+        "Sine"
+        {
+            "sineperiod" 4
+            "timeoffset" "$offset"	       
+            "resultVar" "$color[0]"
+        }
+        "Sine"
+        {
+            "sineperiod" 8
+            "timeoffset" "$offset"	       
+            "resultVar" "$color[1]"
+        }
+        "Sine"
+        {
+            "sineperiod" 12
+            "timeoffset" "$offset"	       
+            "resultVar" "$color[2]"
+        }
+        "TextureTransform"
+        {
+            "translateVar" "$translate1"
+            "resultVar" "$basetexturetransform"
+        }
+        "LinearRamp"
+        {
+            "rate" .025
+            "initialValue" "0"	       
+            "resultVar" "$translate1[0]"
+        }
+        "LinearRamp"
+        {
+            "rate" .025
+            "initialValue" "0"	       
+            "resultVar" "$translate1[1]"
+        }
+        // Meanwhile, the screen noise is always changing locationrandomly,
+        // which makes it look like animated static.
+        "LinearRamp"
+        {
+            "rate" .025
+            "initialValue" "0"	       
+            "resultVar" "$translate2[1]"
+        }
+        "TextureTransform"
+        {
+            "translateVar" "$translate1"
+            "scaleVar" "$scale1"
+            "resultVar" "$basetexturetransform"
+        }
+        "TextureTransform"
+        {
+            "translateVar" "$translate2"
+            "scaleVar" "$scale2"
+            "resultVar" "$texture2transform"
+        }
+
+    }	
+}

@@ -1,0 +1,21 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "snow/snow_ice_001"
+	>=dx90
+		{
+		"$bumpmap" "snow/snow_ice_001_n"
+	//	"$detail" "snow/snow_ice_001_ao"
+	//	"$detailscale" "1"
+		"$surfaceprop" "glass"
+		"$envmap" "env_cubemap"
+		"$envmapsaturation" "0.5"
+		"$envmapcontrast" "0.5"
+		"$envmaptint" "[.7 .75 .7]"
+		"$normalmapalphaenvmapmask" "1"
+	//	"$phong" 1
+	//	"$phongexponenttexture" "snow/snow_ice_001_e"
+	//	"$phongalbedotint" 1
+	//	"$phongboost"	"0.5"
+	//	"$phongfresnelranges"	"[1 3 8]"
+		}
+}

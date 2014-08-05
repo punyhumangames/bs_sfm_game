@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/book_brown"
+//	"$bumpmap" "models/props_monastery/book_brown_normal"
+	"$surfaceprop" "Default"
+	"$model" 1
+}

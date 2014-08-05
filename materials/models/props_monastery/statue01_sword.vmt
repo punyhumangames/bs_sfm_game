@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_monastery/statue01_sword"
+	"$bumpmap" "models/blades/longsword/longsword_normal"
+	"$model" 1
+	//"$translucent" 1
+		"$lightwarptexture" "models/shared/lightwarp_darken"
+}

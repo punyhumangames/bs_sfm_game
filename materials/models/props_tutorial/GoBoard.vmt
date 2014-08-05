@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/props_tutorial/GoBoard"
+//	"$bumpmap"	    "models/props_tutorial/GoBoard_NRM"   
+	"$surfaceprop" "wood"
+//	"$normalmapalphaenvmapmask" "1"
+			
+//	"$envmap" "env_cubemap"
+//	"$envmapcontrast" 1 
+}

@@ -1,0 +1,19 @@
+"Patch"
+{
+	include "materials/models/shared/swords.vmt"
+	insert
+	{
+	"$baseTexture" "Models/blades/dys_katana/katana_02"
+	"$bumpmap" "Models/blades/dys_katana/katana_01_normal"
+
+	"$model" 1
+	"$selfillum" 1
+	"$surfaceprop" "metal"
+
+	"$phong" "1"
+	"$phongexponenttexture" "Models/blades/dys_katana/katana_01_exp"
+	"$phongfresnelranges"	"[0.5 1 3]"
+	"$phongalbedotint" 1
+	"$phongboost" "40"
+	}	
+}

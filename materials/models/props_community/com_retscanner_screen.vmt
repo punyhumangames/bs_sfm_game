@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\props_community\com_retscanner_screen"
+	"$model" 1
+	"$bumpmap"	"models/shared/n_flat"
+	"$phongexponenttexture" "models/shared/albedotint"
+	"$surfaceprop" "metal"
+	"$envmaptint" "[.50 .50 .50]"
+	"$envmapcontrast" .5
+	"$normalmapalphaenvmapmask" "1"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	"$rimlight" "1"
+	"$rimlightboost" "5"
+	$rimlightexponent  .5
+	"$envmap" "env_cubemap"
+	"$phong" 1
+	"$phongfresnelranges"	"[1 2 5]"
+	"$phongexponent" 2
+	"$phongboost" "30"
+	"$selfillum" 1
+	"$selfillumtint" "[3.3 3.3 3.3]"
+}

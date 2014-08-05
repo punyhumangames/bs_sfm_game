@@ -1,0 +1,9 @@
+"bb_gauss_blur"
+{
+	$basetexture "_rt_SmallFB0"
+	$VERTICAL_BLUR	0
+	$size		2
+	
+	$nofog	1
+	$ignorez	1
+}

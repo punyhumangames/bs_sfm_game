@@ -1,0 +1,10 @@
+"sprite"
+{
+	"$spriteorientation" "vp_parallel"
+	"$spriteorigin" "[ 0.50 0.50 ]"
+	"$basetexture" "sprites/sakura_blossom_sprite"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$spritescale" 0.01
+	"$writez" 1
+}

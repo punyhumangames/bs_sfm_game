@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	decals\decal_broken_rocks
+	$decal		1
+	$decalscale	.35
+	$translucent	1
+}

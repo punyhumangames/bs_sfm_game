@@ -1,0 +1,32 @@
+"Refract"
+{
+	//"Refract_dx8"
+	//{
+	//	"$fallbackmaterial" "models/tracemodels/trace_map_dx8"
+	//}
+	//"$basetexture" "models/tracemodels/trace_map"
+	"$model" 1
+    "$nocull" "1"
+	"$nodecal" 1
+	//"$surfaceprop" "metal"
+	//"$nowritez" 1
+	"$bluramount" "0"
+ 	"$refractamount" "1"
+ 	"$dudvmap" "models/tracemodels/trace_map_dudv"
+	"$normalmap" "models/tracemodels/trace_map_n"
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[0 .5 .95]"
+	//"$refracttinttexture" "models/tracemodels/trace_map"
+	//"$refracttint" "{0 44 55}"
+	//"$additive" 1
+	//"$translucent 1"
+	//"Proxies"
+	//{
+	//	"TextureScroll"
+	//	{
+	//		"texturescrollvar" "$bumptransform"
+	//		"texturescrollrate" .08
+	//		"texturescrollangle" 90
+	//	}
+	//}
+}

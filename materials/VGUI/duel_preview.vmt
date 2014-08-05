@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	$basetexture	"_rt_duelPreview"
+	
+	$ignorez		1
+	$nofog			1
+}

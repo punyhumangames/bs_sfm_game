@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"district\Windows04_day"
+    "$bumpmap" "district\Windows04_day_nrm"
+	"$envmap" "env_cubemap"
+   	"$normalmapalphaenvmapmask" 1
+}
+

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/patioFence"
+	"$model" "1"
+	"$surfaceprop" "wood"
+	"$alphatest" "1"
+}

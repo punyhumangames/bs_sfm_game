@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/GreenWalls_foliage_texture"
+	"$bumpmap" "models/props_community/GreenWalls_foliage_normal"
+	"$alphatest" 1
+	"$nocull" 1
+
+}

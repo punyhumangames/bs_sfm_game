@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "snow/snow_trails_002"
+	>=dx90
+		{
+		"$bumpmap" "snow/snow_trails_002_n"
+	//	"$detail" "snow/snow_trails_002_ao"
+	//	"$detailscale" "1"
+		"$surfaceprop" "glass"
+		}
+}

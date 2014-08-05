@@ -1,0 +1,19 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "winter/woodwall01a"
+    "$surfaceprop" "wood"
+	"%keywords" "berimbau"
+
+
+
+
+//	$detail "winter/woodwall01a_detail"
+//	$detailscale "1"
+	
+//	"$bumpmap" "winter/woodwall01a_normal"
+//	"$envmap" "env_cubemap"
+//	"$envmapsaturation" "0.1"
+// 	"$envmapcontrast" "1"
+//	"$envmaptint" "[0.07 0.09 0.09]"
+//	"$normalmapalphaenvmapmask" "1"
+}

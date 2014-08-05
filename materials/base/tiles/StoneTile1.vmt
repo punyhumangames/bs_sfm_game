@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "base\tiles\StoneTile1"
+    "$surfaceprop" "rock"
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_winter/sakura_bark_diffuse"
+	"$surfaceprop" "wood"
+	"$model" 1
+
+>dx90
+	{
+		"$lightwarptexture" "models/shared/lightwarp_darken3"
+		"$bumpmap" "models/props_winter/sakura_bark_normal"
+	}
+
+}

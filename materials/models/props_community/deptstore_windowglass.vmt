@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/deptstore_windowshop"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models/props_community/deptstore_windowshop_nrm"
+	"$surfaceprop" "metal" 
+	"$normalmapalphaenvmapmask" "1"
+	"$rimlight" "1"
+	"$translucent" 1
+	"$rimlightboost" "2"
+	"$rimlightexponent"  1
+	"$phong" 1
+	"$phongfresnelranges"	"[1 2 5]"
+	"$phongexponent" "100"
+	"$phongboost" "50"
+	"$envmapsaturation" "1"
+	"$envmapcontrast" "1"
+	"$alpha" .33
+	"$phongexponenttexture" "models/shared/albedotint"
+	"$envmaptint" "[3 3 3]"
+	//"$selfillum" "1"
+	//"$selfillummask" "models/props_community/scheduleBoardSupported_selfillum"
+}

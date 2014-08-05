@@ -1,0 +1,18 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	//"$selfillum" 1
+	"$basetexture" "concrete\d_windows6"
+	"$bumpmap" "concrete\d_windows6n"
+	"$envmap" "env_cubemap"
+     	"$normalmapalphaenvmapmask" 1
+     	//"$envmapcontrast" 1 makes tighter reflections and more contrasty
+	"$surfaceprop" "concrete"
+	//"$detail" "detail\noise_detail_01"
+	//"$detailscale" "7.74"
+	//"$detailblendfactor" "0.8"
+	//"$detailblendmode" "0"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	"$envmaptint" "[ .56 .56 .56 ]"
+}

@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"wood/wood_door_01"
+   	"$surfaceprop" 	"wood"
+ 	"$bumpmap" 	"wood/wood_door_01normal"
+     	"$envmapmask"	"wood/wood_door_01spec"
+     	"$envmapcontrast" 1 makes tighter reflections and more contrasty
+  	"$envmap" "env_cubemap"
+        	 "$envmaptint" "[.03 .03 .03]"
+	"%keywords" "berimbau"
+}

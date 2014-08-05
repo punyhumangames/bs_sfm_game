@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/com_windowfitting1"
+	$envmapmask "models/props_community/com_windowfitting1_nrm"
+	$envmap "env_cubemap"
+	$envmapsaturation .1
+	$envmaptint "[ .50 .65 1 ]"
+$envmapcontrast .8
+$surfaceprop glass
+//$translucent 1
+$fresnelreflection 35
+	"$model" 1
+	"$phong" "1"
+	"$phongboost"	"10000"
+	"$phongalbedotint" 1
+	"$rimlight" "1"
+	"$rimlightboost" "1000"
+ 	"$rimlightexponent"  "10"
+	"$PHONGEXPONENTTINTMASKENABLE"		1
+"$phongfresnelranges"	"[0.5 1 3]"
+"$phongexponenttexture" "models/shared/albedotint"
+}

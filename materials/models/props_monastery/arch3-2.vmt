@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_monastery/arch3-2"
+
+
+	"$translucent" 1
+	"$alphatest" 1
+	"$model" 1
+//	"$nocull" 1
+	"$nomipmap" 1
+>dx90
+	{
+	"$bumpmap" "models/props_monastery/arch3-2_n"
+		"$lightwarptexture" "models/shared/lightwarp_darken3"
+	}
+}

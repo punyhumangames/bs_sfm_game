@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/ivy_2d"
+	"$surfaceprop" "Default"
+	"$model" 1
+	"$translucent" 1
+//	"$alphatest" 1
+//	"$nocull" 1
+//	"$detail" "models/props_monastery/ivyleaf_lm"
+//	"$detailscale" 1
+//	"$basetexturetransform" "center 0 0 scale 90 90 rotate 0 translate 0 0"
+
+}

@@ -1,0 +1,10 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/sakura_blossom_diffuse"
+	"$bumpmap" "models/props_winter/sakura_blossom_normal"
+	"$alphatest" 1
+	"$translucent" 1
+	"$nocull" 1
+	"$surfaceprop" "Wood_Solid"
+	"$model" 1
+}

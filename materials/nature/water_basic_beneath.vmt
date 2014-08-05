@@ -1,0 +1,55 @@
+"Water"
+{
+// BASE
+	"$abovewater" 			"0" //this is the above half of the water texture
+	//"$bottommaterial" 		"nature/water_basic_beneath"
+//	"$underwateroverlay"	"" //screen overlay when underwater, only used with abovewater 0
+	"$normalmap"			"nature/temple_water"
+// FOG
+	"$fogcolor" 			"{ 10 80 120 }"
+	"$lightmapwaterfog"	 	"1"
+	"$fogenable" 			"1"
+	 "$fogend" 				"100"
+	 "$fogstart" 			"0"
+// REFLECT/REFRACT
+	//"$envmap" 				"env_cubemap" //only used for cheap water
+	//"$forcecheap" 			"1" //forces texture to use cubemap
+	"$forceexpensive" 		"1" //forces live reflect
+	"$reflect2dskybox" 		"0"
+	"$reflectamount"		"1"
+	"$reflectentities"	 	"1"
+	"$reflecttexture"		"_rt_WaterReflection"
+	"$reflecttint"			"{ 200 200 200 }"
+	"$refractamount" 		".33"
+	"$refracttexture"  		"_rt_WaterRefraction"
+	"$refracttint" 			"{ 10 80 120 }"
+	"$scroll1" 				"[5 1 0]"
+	"$scroll2"				"[-.01 32 .05]"
+// FLOWMAP
+	"$flowmap"		"flowmap/generic_flowmap"
+	"$flow_normaluvscale"		"500"
+	"$flow_worlduvscale"		"1"
+	"$flow_uvscrolldistance" 	"0.075"	// Stretch of UV Distance before change over to second set of flow
+	"$flow_timeintervalinseconds"	"0.2"	// Amount of time before the change happens
+	"$flow_timescale"			"0.15"
+	"$flow_bumpstrength"		"3"
+	"$flow_noise_texture"		"flowmap/flowmap_noise"
+	"$flow_noise_scale"			"0.00005"
+	"$flow_debug"				"0"
+	"$reflectonlymarkedentities"	"1"
+// OTHER
+	"%compilewater" 1
+	"%tooltexture" "flowmap/generic_flowmap"
+	"$surfaceprop" "water"
+ 	////refract on non-consoles only
+	// "!gameconsole?$refracttexture" "_rt_WaterRefraction"
+	// "!gameconsole?$refractamount" "0.5"
+	// "!gameconsole?$refracttint" "{ 34 135 151 }"
+	//pseudo-translucent water only gets used on platforms which disable refract (as a cheaper substitute for refractive water)
+	// "gameconsole?$pseudotranslucent" 1
+	// "gameconsole?$waterblendfactor" 0.75
+	// "GPU<2"
+	// {
+	// "$fallbackmaterial" "nature/water_glados_01_cheap"
+	// }
+}

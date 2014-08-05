@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "stonefloor/stone_floor_06"
+   	 "$surfaceprop" "tile"
+	 "$bumpmap" 		"stonefloor/stone_floor_06_normal"
+//	"$basetexture" "stonefloor/stonetile1"
+//	"$bumpmap" "stonefloor/stonetile1_normal"
+	"%keywords" "berimbau"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "0.5"
+	"$color" "[0.8 0.83 0.8]"
+}
+

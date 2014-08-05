@@ -1,0 +1,39 @@
+VertexLitGeneric
+{
+	$basetexture models\props_monastery\skydome_monestary_sirrus_diffuse
+	$additive 1
+	
+	"Proxies"
+	{
+
+		"TextureScroll"
+			{
+				"texturescrollvar" "$basetexturetransform"
+				"texturescrollrate" 0.0063
+				"texturescrollangle" -72
+			}
+		"Sine"
+		{
+			"resultVar"	"$color[0]"
+			"sineperiod"	0
+			"sinemin"	8
+			"sinemax"	8
+		}
+		"Sine"
+		{
+			"resultVar"	"$color[1]"
+			"sineperiod"	0
+			"sinemin"	6
+			"sinemax"	6
+		}
+		"Sine"
+		{
+			"resultVar"	"$color[2]"
+			"sineperiod"	0
+			"sinemin"	6.5
+			"sinemax"	6.5
+		}
+
+	}
+	
+}

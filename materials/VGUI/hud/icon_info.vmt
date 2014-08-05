@@ -1,0 +1,11 @@
+"unlitgeneric"
+{
+	"$basetexture" "vgui/hud/icon_info"
+	$vertexcolor	1
+	$vertexalpha	1
+	$translucent	1
+	
+	$ignorez		1
+	$nofog			1
+	$linearwrite	1
+}

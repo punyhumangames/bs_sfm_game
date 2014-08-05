@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_dojo/archedBridge"
+	"$bumpmap" "models/props_dojo/archedBridgeNormal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"	
+	"$model" 1
+
+	"$phong" 1
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[0 2 4]"
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models/props_monastery/library_wood2_exponent"
+
+<=dx90
+	{
+		"$phongexponent" 20
+	}
+}

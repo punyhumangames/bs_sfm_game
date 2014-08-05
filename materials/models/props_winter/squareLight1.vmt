@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_winter/squareLight1"
+    "$surfaceprop" "metal"
+	"%keywords" "berimbau"
+	$selfillum 1
+	
+//	$detail "winter/woodwall01a_detail"
+//	$detailscale "1"
+	
+	"$bumpmap" "models/props_winter/squareLight1_normal"
+//	"$envmap" "env_cubemap"
+//	"$envmapsaturation" "0.1"
+// 	"$envmapcontrast" "1"
+//	"$envmaptint" "[0.07 0.09 0.09]"
+//	"$normalmapalphaenvmapmask" "1"
+}

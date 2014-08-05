@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"models/props_winter/archgate_diffuse"
+	"$surfaceprop" 				"Wood"
+
+	"$bumpmap" 					"models/props_winter/archgate_normals"    
+	"$envmap" 					"env_cubemap"	
+	"$envmaptint"				"[1 0.65 0.2]"
+	"$envmapsaturation" "1"
+	"$envmapcontrast" -1
+	"$normalmapalphaenvmapmask" "1"
+
+>dx90
+	{
+	"$envmapcontrast" 0
+	"$phong" 					"1"
+	"$phongboost" 				"30"
+	"$phongexponent" "14"
+//	"$phongexponenttexture" 	"models/props_winter/archgate_exp"
+//	"$phongalbedotint" 			"1"								
+	"$phongtint" "[0.93 0.87 0.29]"
+	"$phongfresnelranges"		"[1 2 4]"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	"$envmaptint"				"[0.93 .87 0.2]"
+	}
+
+
+
+}

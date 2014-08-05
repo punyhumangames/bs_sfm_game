@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/cyberstone_3"
+	"$bumpmap"	"models/props_community/cyberstone_3_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.5 0.5 0.5]"
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimlightexponent"  1
+	"$phong" 1
+	"$phongexponent" 50
+	"$phongfresnelranges"	"[0.5 1 3]"
+	"$phongboost" "4"
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models/props_community/cyberstone_3_exponent"
+} 
+

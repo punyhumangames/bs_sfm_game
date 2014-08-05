@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal\chevron"
+	"$bumpmap" "metal\chevron_nrm"
+	"$envmap" "env_cubemap"
+ 	"$normalmapalphaenvmapmask" 1
+
+	"$surfaceprop" "metal"
+}

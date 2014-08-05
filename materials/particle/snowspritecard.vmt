@@ -1,0 +1,8 @@
+"spritecard"
+{
+	//Original shader BaseTextureAlphaBlend
+	$additive 1
+	$translucent 1
+	$basetexture particle\snowspritecard
+	"$overbrightfactor" 1
+}

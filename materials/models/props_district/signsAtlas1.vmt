@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_district/signsAtlas1"
+	"$surfaceprop" "metal"
+	"$envmap"  	"env_cubemap"
+	"$envmapmask"	"models/props_district/signsAtlas1_spec"
+	"$selfillummask"	"models/props_district/signsAtlas1_selfIlum"
+	"$selfillum" "1"
+	"$envmaptint" "[0.4 0.4 0.4]"
+}

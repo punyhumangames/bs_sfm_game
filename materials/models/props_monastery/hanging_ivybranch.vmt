@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/hanging_ivybranch"
+	"$surfaceprop" "Default"
+	"$model" 1
+	"$translucent" 1
+	"$nocull" 1
+	"$alphatest" 1
+	"$alphatestreference" 175
+}
+

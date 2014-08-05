@@ -1,0 +1,27 @@
+"WorldVertexTransition"
+{
+	
+	"$basetexture" "snow/snow_003" 
+	"$basetexture2" "Wood/wood_old_planks3"
+
+	//"$bumpmap2"    "Wood/wood_old_planks3_normal"
+
+	"$bumpmap"    "snow/snow_003_n"
+//	"$nocull" 1
+	
+	
+
+	"$surfaceprop" "snow"
+
+//	"$lightwarptexture" "snow\snow_warptexture"
+//	"$envmap2" "env_cubemap"
+//	"$envmaptint2" "[.8 .8 .8]"
+
+	"$lightwarptexture" "snow\snow_warptexture"
+
+	"$blendmodulatetexture" "snow\snow_modulate_deck"
+//	"$basealphaenvmapmask" "1"
+//	"$nodecal" "1"
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+    "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+}

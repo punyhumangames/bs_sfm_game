@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/wood_bars"
+	"$bumpmap" "models/props_winter/wood_bars_normal"
+	"$surfaceprop" "Wood_Box"
+	"$model" 1
+}

@@ -1,0 +1,32 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/books1"
+
+	"$surfaceprop" "wood"
+
+
+	"$model" 1
+         
+>dx90
+	{
+
+	"$bumpmap" "models/props_monastery/books1_normal"
+
+
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	"$phong" 1
+	"$phongexponenttexture" "models/props_monastery/books1_exp"
+	"$phongalbedotint" 1
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 3 8]"
+
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.5"
+//	"$envmapcontrast" "0.5"
+	"$envmaptint" "[0.8 0.5 0.5]"
+
+	"$normalmapalphaenvmapmask" "1"
+	}
+
+}

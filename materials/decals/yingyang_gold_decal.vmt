@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	decals\yingyang_gold_decal
+	$decal		1
+	$decalscale	.025
+	$translucent	1
+}

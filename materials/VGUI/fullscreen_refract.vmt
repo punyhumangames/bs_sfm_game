@@ -1,0 +1,7 @@
+Refract
+{
+	$normalmap vgui\vgui_refract
+	$refracttint "[.7 .65 .65]"
+	//$refractamount .2
+	$bluramount 1
+}

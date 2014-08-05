@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"	"materials/vgui/stances/stance_shared_red.vmt"
+	
+	"insert"
+	{
+		$basetexture	"vgui/stances/knight_air_red"
+	}
+}

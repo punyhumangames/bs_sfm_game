@@ -1,0 +1,7 @@
+VertexlitGeneric
+{
+	$basetexture "models\mainmenu\mm_floorplane"
+//	$basetexture "models\shared\nothing"
+	$bumpmap "models\mainmenu\mm_floorplane_n"
+	"$basetexturetransform" "center .5 .5 scale 5 5 rotate 0 translate 0 0"
+}

@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "models/props_district/TypeIIIBarrier"
+	"$bumpmap"	"models/props_district/TypeIIIBarrier_nrm"
+	"$surfaceprop" "plastic"
+	"$normalmapalphaenvmapmask" 1	
+	"$nodiffusebumplighting" "1"
+
+	"$model" 1
+
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+}

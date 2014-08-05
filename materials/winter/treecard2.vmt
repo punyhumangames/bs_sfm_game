@@ -1,0 +1,8 @@
+"Lightmappedgeneric"
+{
+	"$basetexture" "winter/treecard2"
+	"$surfaceprop" "wood"
+	"$nocull" 1
+	"$alphatest" 1
+
+}

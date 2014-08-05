@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "district/clouds01"
+	"$translucent" 1
+	"$nocull" 1
+
+}

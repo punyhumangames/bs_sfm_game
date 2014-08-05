@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/d_metalwindow_1"
+   	 "$surfaceprop" "metal"
+ 	 "$bumpmap" "metal/d_metalwindow_1n"
+  	 "$envmap" "env_cubemap"
+     	"$normalmapalphaenvmapmask" 1
+	"$envmapsaturation" .75
+}

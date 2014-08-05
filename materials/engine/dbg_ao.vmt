@@ -1,0 +1,8 @@
+"bbaoblur"
+{
+	$basetexture		_rt_AOFull
+	$DEPTHTEXTURE		_rt_depthHalf
+	$SCENETEXTURE		_rt_fullframefb
+	$vertical_blur 1
+	$DEBUGAO 1
+}

@@ -1,0 +1,16 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "blend/blend_templesky_rock1"
+	"$basetexture2" "blend/blend_templesky_grass1"
+	"$blendmodulatetexture" "temple/blendmod1"
+	//"$detail" "overlays/macro01a"
+	//"$detailscale" .1
+	
+	//"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+    //"$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+
+
+	//"%detailtype" "wheatfield"
+	"$surfaceprop" "dirt"
+	"%keywords" "berimbau"
+}

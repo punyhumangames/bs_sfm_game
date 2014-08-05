@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "roof/roof_01"
+   	 "$surfaceprop" "concrete"
+ 	 "$bumpmap" "roof/roof_01_normal"
+  	 "$envmap" "env_cubemap"
+    	 "$envmaptint" "[.1 .1 .1]"
+	"%keywords" "berimbau"
+}

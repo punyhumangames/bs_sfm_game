@@ -1,0 +1,26 @@
+"unlitgeneric"
+{
+	"$basetexture" "models\props_tutorial/shoji_window"
+	"$surfaceprop" "wood"
+	"$bumpmap" "models\props_tutorial/shoji_window_spec_normal"
+	"$translucent" 1	
+	"$nocull" 1
+	"$color" "[0.5 0.5 0.5]"
+	"$setcolor" "0.65"
+	"Proxies"
+	{
+		"BBEquals"
+		{
+			"srcVar1" "$setcolor"
+			"resultVar" "$color"
+		}
+	}
+}
+
+
+
+
+
+
+
+

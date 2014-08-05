@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/attachments/spraycan/spraycan_dif"
+	"$surfaceprop" "Metal"
+	"$bumpmap" "models/attachments/spraycan/spraycan_normal"
+
+	"$envmap" "env_cubemap"	
+	"$normalmapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	
+	"$PHONGEXPONENTTINTMASKENABLE"		1
+						
+	"$phongfresnelranges"	"[0 0.5 1]"
+//	{
+//	"$lightwarptexture" "models/shared/lightwarp_darken2"
+	"$phongboost" "10"
+	"$phongexponenttexture" "models/attachments/spraycan/spraycan_exp"
+//	}
+
+	"Proxies"
+	{
+		"SpraycanTint"
+		{
+		}
+	}
+}

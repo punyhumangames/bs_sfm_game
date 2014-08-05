@@ -1,0 +1,48 @@
+"unlittwotexture"
+    {
+	"$basetexture" "models/props_community/com_bigscreen_screen2_moire"
+	"$texture2" "models/shared/noise"
+	"$additive" 1
+    "$jumpchance" 0.0
+    "$jumpchancethreshold" 0.95
+    "$nojump" 0.0
+    "$jumpdistance" 0.0
+    "$angle1" 0
+	"$angle2" 15
+	"$scale1" "[512 128]"
+    "$scale2" "[64 64]"
+    "$translate1" "[0.0 0.0]"
+    "$translate2" "[0.0 0.0]"
+    "$center1" "[0.5 -0.5]"
+	"$center2" "[0.5 -0.5]"
+
+        "Proxies"
+        {
+            "TextureTransform"
+            {
+                "translateVar" "$translate1"
+                "rotateVar" "$angle1"
+                "centerVar" "$center1"
+				"scaleVar" "$scale1"
+                "resultVar" "$basetexturetransform"
+            }
+		    "UniformNoise"
+        {
+            "minVal" 0.0
+            "maxVal" 1.0
+            "resultVar" "$translate2[0]"            
+        }
+        "UniformNoise"
+        {
+            "minVal" 0.0
+            "maxVal" 1.0
+            "resultVar" "$translate2[1]"            
+        }
+        "TextureTransform"
+        {
+            "translateVar" "$translate2"
+            "scaleVar" "$scale2"
+            "resultVar" "$texture2transform"
+        }
+        }
+    }

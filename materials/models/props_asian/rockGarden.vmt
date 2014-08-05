@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	$basetexture 	"models\props_asian\rockGardenDiffuse"
+	$surfaceprop 	tile
+	"$bumpmap" 		"models\props_asian\\rockGardenBump"
+	"$envmap" 						"env_cubemap"
+	"$envmaptint" 					"[0.2 0.2 0.2]"
+	"$normalmapalphaenvmapmask" 	1
+}

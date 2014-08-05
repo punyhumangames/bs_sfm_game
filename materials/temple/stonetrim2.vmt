@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "temple/stonetrim2"
+	"$bumpmap" "temple/stonetrim2_n"
+//	"$lightwarptexture" "models/shared/lightwarp_darken4"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "0.25"
+}

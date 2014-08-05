@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Roof/Roof_04"
+	"$bumpmap" "roof/Roof_normal"
+	"$surfaceprop" "Brick"
+//	"$nocull" 1			//Nocull is not needed here!
+	"$lightwarptexture" "snow\snow_warptexture"
+//	"$normalmapalphaenvmapmask" "1"
+
+//	"$envmap" "env_cubemap"
+//   	 "$envmaptint" "[.8 .8 .8]"
+	"%keywords" "berimbau"
+
+}

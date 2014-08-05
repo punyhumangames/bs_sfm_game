@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/gargoyle"
+	"$surfaceprop" "Rock"
+	"$bumpmap" "models/props_monastery/gargoyle_normal"    
+
+}

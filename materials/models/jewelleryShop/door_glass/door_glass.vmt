@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jewelleryShop/door_glass/door_glass"
+	"$bumpmap" "models/jewelleryShop/door_glass/door_glass_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmap"	"env_cubemap"
+	"$envmaptint" "[0.5 0.5 0.5]"
+
+
+	//"$alphatest" 1
+	"$translucent" 1
+
+	"$phong" 1
+	//"$phongexponent" 150
+	"$phongexponenttexture" "models/jewelleryShop/door_glass/door_glass_exponent"
+	"$phongfresnelranges"	"[1 0.2 0.3]"
+	"$phongboost" "10"
+
+
+
+	
+}

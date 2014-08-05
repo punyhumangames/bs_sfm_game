@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture models\props_monastery\skydome_monestary_background_diffuse
+	$translucent 1
+}

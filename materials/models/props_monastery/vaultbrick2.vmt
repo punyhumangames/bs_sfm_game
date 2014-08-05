@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Stonewall/stone_wall_09"
+	"$model" 1
+//	"$envmap" "env_cubemap"
+	"$detail" "models/props_monastery/vaultbrick2_ao"
+	"$detailscale" 1
+//	"$phong" 1
+//	"$phongexponent" 20
+//	"$phongexponenttexture" "models/phalanx/phalanx_exp"
+//	"$phongalbedotint" 1
+//	"$phongboost"	"4"
+//	"$phongfresnelranges"	"[0 2 4]"
+	"$basetexturetransform" "center .4 .6 scale 3 6 rotate 0 translate 0 0"
+>dx90
+	{
+	"$bumpmap" "Stonewall/stone_wall_09_normal"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	}
+}

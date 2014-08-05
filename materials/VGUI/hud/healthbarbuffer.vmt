@@ -1,0 +1,12 @@
+"BB_HealthBar"
+{
+	$basetexture	"vgui/hud/filled_health_32"
+	$PULSE_TEXTURE	"vgui/hud/filled_health_32_mask"
+	$NOISE_TEXTURE	"vgui/hud/healthbar_noise"
+	
+	$PULSE_SPEED			0.5
+	$PULSE_SIZE				0.15
+	$PULSE_INTERVAL			3.0
+	
+	$NOISE_AMOUNT			"0"
+}

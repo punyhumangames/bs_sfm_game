@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_asian/white_rack"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models/props_asian/sword_rack_normal"
+	"$surfaceprop" "metal"
+	"$normalmapalphaenvmapmask" "1"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimlightexponent"  1
+	"$phong" 1
+	"$phongfresnelranges"	"[0.5 1 3]"
+	"$phongexponent" "100"
+	"$phongboost" "1"
+	//"$envmapsaturation" ".33"
+	//"$envmapcontrast" ".5"
+	"$phongalbedotint" 1
+	"$envmaptint" "[.33 .33 .33]"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/props_tutorial/Koto"
+//	"$bumpmap"	    "models/props_tutorial/Koto_NRM"   
+	"$surfaceprop" "wood"
+	"$alphatest" "1"
+}

@@ -1,0 +1,36 @@
+"Water"
+{
+
+	"$abovewater" 			"0"
+	"%compilewater" 		"1"
+	"%tooltexture" 			"nature/temple_water"
+//	"$subdivsize" 64
+	"$normalmap" 			"nature/temple_water"
+
+	//"$flowmap" 			"nature/temple_flowmap"
+	//"$flow_normaluvscale" 		"1555.0"
+	//"$flow_worlduvscale" 		"1"
+	//"$flow_timeintervalinseconds" 	"11.2" 	// Amount of time before the change happens
+	//"$flow_uvscrolldistance" 	"0.875" // Stretch of UV Distance before change over to second set of flow
+	//"$flow_bumpstrength" 		"0.3"
+	//"$flow_timescale" 		"0.45"
+
+	//"$flow_noise_texture" 		"nature/temple_flownoise"
+	//"$flow_noise_scale" 		"0.0002"
+
+//	"$flow_debug" 			"1"
+	"$forceexpensive"		"1"
+	"$refracttexture" 		"_rt_WaterRefraction"
+	"$refractamount" 		"1"
+
+	"$surfaceprop" 		"water"
+
+	"$fogenable" 		"0"
+	"$fogcolor" 		"{10 14 12}"
+//	"$fogcolor" 		"{25 28 32}"
+
+	"$fogstart" 		"-300"
+	"$fogend" 		"50"
+
+}
+

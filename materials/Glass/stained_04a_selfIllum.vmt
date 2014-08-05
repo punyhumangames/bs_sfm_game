@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "glass\stained_04a_selfIllum"
+	"$bumpmap" "glass\stained_04a_normal"
+    "$envmapmask"	"glass\stained_04a_spec"
+	"$envmap" "env_cubemap"
+    "$envmapcontrast" 1
+	"$selfillum" 1
+}

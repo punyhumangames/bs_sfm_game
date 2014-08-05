@@ -1,0 +1,17 @@
+"spritecard"
+{
+	$basetexture "particle/ber_waves"
+	//$basetexture2 "particle/7smoke"
+	$DUALSEQUENCE 1
+	$SEQUENCE_BLEND_MODE 1 //2
+	$MAXLUMFRAMEBLEND1 1
+	$MAXLUMFRAMEBLEND2 1
+	$ZOOMANIMATESEQ2 4
+	$addself 10
+	$blendframes 1
+	//$EXTRACTGREENALPHA 1
+	$depthblend 0
+	$overbrightfactor 1
+	//$STARTFADESIZE 1
+	//$ENDFADESIZE 1.4
+}

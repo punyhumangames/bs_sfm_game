@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" 	"tutorial\wood_generic3"
+	"$bumpmap" 	"tutorial\wood_generic3_n"
+	"$envmap" "env_cubemap"
+    	"$normalmapalphaenvmapmask" 1
+    	//"$envmapcontrast" 1
+	"$surfaceprop" "wood"
+	"$envmapsaturation" 1
+	"$envmaptint" "[ 0.33 0.33 0.33 ]"
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "grass/grass_06"
+	"$bumpmap" 	"grass/grass_06_normal"
+ 	//"$lightwarptexture" "grass\grass_warp"
+   	 "$surfaceprop" "grass"
+	"%keywords" "berimbau"
+}

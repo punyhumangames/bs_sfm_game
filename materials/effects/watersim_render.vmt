@@ -1,0 +1,4 @@
+"bb_water_render"
+{
+	$basetexture _rt_fullframefb
+}

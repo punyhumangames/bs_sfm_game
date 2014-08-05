@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nature\water_caustics1"
+	"$translucent" 1
+	"Proxies"
+	{
+	"AnimatedTexture"
+		{
+			"Animatedtexturevar" "$basetexture"
+			"Animatedtextureframenumvar" "$frame"
+			"Animatedtextureframerate" "15"
+		}
+	}
+}

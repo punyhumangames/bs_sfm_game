@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_district/window_iconic1_glass"
+	"$bumpmap"	"models/props_district/window_iconic1_glass_normal"
+    
+	"$surfaceprop" "glass"
+	"$model" "1"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.4 .3 .6]"
+	
+	"$phong" "1"
+	"$phongexponent" "150"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.5 5 2]"
+	"$phongalbedotint" 1
+}

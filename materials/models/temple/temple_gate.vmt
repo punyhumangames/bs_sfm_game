@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/temple/temple_gate"
+	"$surfaceprop" "Wood"
+>dx90
+	{
+	"$bumpmap" "models/temple/temple_gate_normal"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.5"
+	"$envmaptint" "0.2"
+
+	"$normalmapalphaenvmapmask" "1"
+	}
+}

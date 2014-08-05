@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/monastery_flag"
+	"$surfaceprop" "Metal"
+	"$bumpmap" "models/props_monastery/monastery_flag_normal"    
+
+	"$alphatest" 1
+	"$nocull" 1
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "floor/library_carpetstrip"
+	"$bumpmap" 		"floor/library_carpetstrip_normal"
+	"%keywords" "berimbau"
+	"$color" "[0.8 0.83 0.8]"
+}
+

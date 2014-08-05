@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/table_splinter"
+	"$surfaceprop" "Wood_Furniture"
+	"$nocull" 1
+	"$alphatest" 1
+
+}

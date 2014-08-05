@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/temple/statue_pipa_pede"
+	"$lightwarptexture" "models/shared/lightwarp_darken3"
+}

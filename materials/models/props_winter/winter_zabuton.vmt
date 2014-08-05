@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_winter/winter_zabuton"
+>dx90
+	{
+	"$bumpmap" "models/props_winter/winter_zabuton_n"
+	}
+	"$surfaceprop" "Wood"
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" "1"
+	"$model" 1
+}

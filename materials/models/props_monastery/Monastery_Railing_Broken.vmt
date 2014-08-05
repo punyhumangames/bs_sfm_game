@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/Monastary_Railing_Broken_diffuse"
+	"$surfaceprop" "stone"
+//	"$bumpmap" "models/props_monastery/Monastary_Railing_Broken_normal"    
+}

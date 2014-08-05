@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "jewelleryShop/tile_white"
+	"$bumpmap" "jewelleryShop/tile_normal"
+	"$envmap"	"env_cubemap"	
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "Concrete"
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/verdnt_wood_aa"
+	"$model" 1
+	"$selfillum" 1
+	"$selfillumtint" "[2 7 2]"
+}

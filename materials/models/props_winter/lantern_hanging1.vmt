@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/lantern_hanging1"
+	"$surfaceprop" "Metal"
+	"$model" 1
+	"$nocull" 1
+	"$alphatest" 1
+	"$translucent" 1
+
+
+>dx90
+	{
+	"$normalmapalphaenvmapmask" 1
+
+	"$bumpmap" "models/props_winter/lantern_hanging1_normal"
+
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[1 1 1]"
+	}	
+
+}

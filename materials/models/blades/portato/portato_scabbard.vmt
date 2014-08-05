@@ -1,0 +1,34 @@
+"Patch"
+{
+	include "materials/models/shared/swords.vmt"
+	insert
+	{
+	"$basetexture" "models/blades/portato/portato_scabbard"
+	"$bumpmap" "models/blades/portato/portato_scabbard_n"
+
+	"$model" 1
+	"$nocull" 0
+	"$surfaceprop" "Metal"
+	"$normalmapalphaenvmapmask" "1"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+
+	//"$selfillum" "1"
+	//"$selfIllumFresnelMinMaxExp" "[0.1 4 8]"
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0"
+	"$envmapcontrast" "0.5"
+	"$envmaptint" "[0.025 0.025 0.025]"
+	"$rimlight" 1
+	"$rimlightboost" "2"
+	"$allowdiffusemodulation" 0
+	//"$phongtint" "[1 0 0]"
+	"$phong" 1
+	"$phongalbedotint" 1
+	"$phongfresnelranges"	"[.5 2 5]"
+	"$phongexponenttexture" "models/blades/portato/portato_scabbard_exp"
+	//"$phongwarptexture" "models/shared/phongwarp_metallic1"
+	"$phongboost" "20"
+	//"$BasemapLuminancePhongMask" 1
+	}
+}

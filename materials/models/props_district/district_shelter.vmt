@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_district/district_shelter"
+	"$bumpmap"	"models/props_district/district_shelter_glass_n"
+	"$surfaceprop" "metal"
+	"$model" "1"
+	"$selfillum" "1"
+	"$envmap" "env_cubemap"
+     	"$normalmapalphaenvmapmask" 1
+	"$phong" "1"
+	"$phongexponenttexture" "models/props_district/district_shelter_exp"
+	//"$phongexponent" "10"
+	"$phongboost" ".25"
+	"$phongfresnelranges" "[.1 .7 1]"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	//"$envmaptint" "[ .56 .56 .56 ]"
+}

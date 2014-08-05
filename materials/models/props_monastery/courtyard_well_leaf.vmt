@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/ivyleaf1s"
+	"$surfaceprop" "Default"
+	"$model" 1
+	"$translucent" 1
+	"$alphatest" 1
+	"$nocull" 1
+}

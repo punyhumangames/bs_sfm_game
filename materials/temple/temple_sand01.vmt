@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{   	
+   	"$basetexture" "temple/temple_sand01"
+	"$surfaceprop" "dirt"
+	//"$translucent" 1
+	"%keywords" "berimbau"
+}

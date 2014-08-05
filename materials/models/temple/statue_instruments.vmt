@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/temple/statue_instruments"
+	"$bumpmap" "models/temple/statue_instruments_normal"
+	"$lightwarptexture" "models/shared/lightwarp_darken3"
+}

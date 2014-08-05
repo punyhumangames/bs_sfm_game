@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Glass/stained_01"
+	"$surfaceprop" "glass"
+	"%keywords" "berimbau"
+	"$translucent" 1
+	"$envmapmask" "glass/stained_01_mask"
+	"$envmap" "env_cubemap"
+
+}

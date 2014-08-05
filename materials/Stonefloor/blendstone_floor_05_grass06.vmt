@@ -1,0 +1,12 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "stonefloor/stone_floor_05"
+	"$basetexture2" "grass/grass_06"
+	"$bumpmap" 	"stonefloor/stone_floor_05_normal"
+	"$surfaceprop" "concrete"
+	"$lightwarptexture" "grass\grass_warp"
+	//"$envmap" "env_cubemap"
+	"$blendmodulatetexture" "grass/grassblendtexture"
+//	"$basealphaenvmapmask" "1"
+	"$nodecal" "1"
+}

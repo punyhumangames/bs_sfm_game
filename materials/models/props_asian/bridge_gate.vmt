@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_asian/bridge_gate"
+	"$surfaceprop" "Wood"
+>dx90
+	{
+	"$bumpmap" "models/props_asian/bridge_gate_normal"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.5"
+	"$envmaptint" "0.2"
+
+	"$normalmapalphaenvmapmask" "1"
+	}
+}

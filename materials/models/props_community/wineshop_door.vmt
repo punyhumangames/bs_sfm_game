@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/wineshop_door"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.25 0.25 0.25]"
+
+	"$phong" 1
+	"$phongexponent" 50
+	"$phongfresnelranges"	"[0.5 1 3]"
+	"$phongboost" "4"
+	"$rimlight" 10
+	"$rimlightexponent" 2
+	"$rimlightboost" .2
+
+} 
+

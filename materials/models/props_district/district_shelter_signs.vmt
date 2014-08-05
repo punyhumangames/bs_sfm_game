@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_district/district_shelter_signs"
+	"$surfaceprop" "metal"
+	"$model" "1"
+	"$selfillum" "1"
+	//"$envmap" "env_cubemap"
+	//"$basealphaenvmapmask" "models/props_district/district_shelter"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.5"
+	"$phongfresnelranges" "[.1 .7 1]"
+}

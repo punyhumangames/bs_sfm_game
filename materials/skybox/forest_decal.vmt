@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "skybox/forest_decal"
+	"$surfaceprop" "Grass"
+	"$decal" 1
+	"$decalscale" 0.5
+	"$translucent" 1
+}

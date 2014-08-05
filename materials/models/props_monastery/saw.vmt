@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/saw_diffuse"
+	"$alphatest" 1
+
+>dx90
+	{
+	"$bumpmap" "models/props_monastery/saw_normal"
+	"$phong" "1"
+	"$phongexponenttexture" "models/props_monastery/saw_exponent"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[0.05 0.5 1.0]"
+	}
+
+}

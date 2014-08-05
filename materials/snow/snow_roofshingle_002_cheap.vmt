@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "snow/snow_roofshingle_002"
+	>=dx90
+		{
+		"$bumpmap" "snow/snow_roofshingle_002_n"
+		}
+	"$lightwarptexture" "snow\snow_warptexture"
+}

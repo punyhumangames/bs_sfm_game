@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	$nofog			1
+	$ignorez		1
+	$basetexture	"white"
+	$vertexcolor	1
+	$vertexalpha	0
+	$translucent	1
+}

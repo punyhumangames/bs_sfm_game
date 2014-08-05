@@ -1,0 +1,25 @@
+"Refract"
+{
+ 	"Refract_DX60"
+	{
+		"$fallbackmaterial" "glass\stained_03c_normal"
+	}
+	"Refract_dx8"
+	{
+		"$fallbackmaterial" "glass\stained_03c_normal"
+	}
+	"$nodecal" 1
+	"$surfaceprop" "metal"
+	"$nowritez" 1
+	"$bluramount" 1
+ 	"$refractamount" ".02"
+	//"$basetexture" "glass\stained_03c"
+	"$translucent" 1
+ 	//"$dudvmap" "models/shadertest/shader3_dudv"
+	"$normalmap" "glass\stained_03c_normal"
+	"$envmap" "env_cubemap"
+	"$refracttinttexture" "glass\stained_03c"
+	"$refracttint" "[0.75 1 0.75]"
+	"%tooltexture"      "glass\stained_03c"
+
+}

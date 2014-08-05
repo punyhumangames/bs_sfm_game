@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "models/props_community/store_bookstore"
+	//"$bumpmap" 		"models/props_community/store_bookstore_nrm"
+	"$bumpmap" "models/shared/n_flat"
+	"$normalmapalphaenvmapmask" 1
+	
+	"$surfaceprop" "glass"	
+	"$model" 1
+	"$translucent" 1
+	
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	
+	"$phong" 1
+	"$phongboost"	"100"	
+	"$phongexponent" "75"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongexponenttexture" "models/shared/n_flat"
+}

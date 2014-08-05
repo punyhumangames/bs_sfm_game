@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/library_chair"
+	"$surfaceprop" "Wood_Furniture"
+}

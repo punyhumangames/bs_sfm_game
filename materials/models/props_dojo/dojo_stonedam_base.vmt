@@ -1,0 +1,29 @@
+VertexlitGeneric
+{
+	$basetexture "models\props_dojo\dojo_stonedam_base"
+	$bumpmap "models\props_dojo\dojo_stonedam_base_ns"
+	$surfaceprop "stone"
+	//$selfillum 0
+	"$model" "1"
+	"$nocull" "0"
+	"$translucent" "0"
+
+	"$envmap" "env_cubemap"
+	//"$envmapsaturation" "3"
+	//"$envmapcontrast" "25"
+	//"$envmaptint" "[0.3 0.35 0.43]"
+
+	"$normalmapalphaenvmapmask" "1"
+
+         
+	"$phong" 1
+	//"$phongexponenttexture" "models/shared/phongwarp_metallic1"
+	"$phongalbedotint" 1
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[2 8 4]"	
+>dx90
+	{
+		"$lightwarptexture" "models/shared/lightwarp_darken"
+	}
+
+}

@@ -1,0 +1,36 @@
+"Patch"
+{
+	include "materials/models/shared/swords.vmt"
+	insert
+	{
+	"$basetexture" "models/blades/claymore/claymore"
+	"$bumpmap" "models/blades/claymore/claymore_normal"
+
+	"$surfaceprop" "metal"
+	"$normalmapalphaenvmapmask" 1
+	"$lightwarptexture" "models/shared/lightwarp_darken4"
+
+	"$phong" 1
+	"$phongboost" 300
+	"$phongexponent" 10
+	"$phongexponenttexture" "Models/blades/claymore/claymore_exponent"
+	"$phongfresnelranges" "[0.5 1 3]"
+	"$phongwarptexture" "models/shared/phongwarp_metallic1" 
+	"$phongalbedotint" 1	
+                "$phongtint" "[0.6 0.6 0.6]"
+
+	"$pbAmt" "120"
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" .5
+	"$envmapcontrast" 1
+	"$envmaptint" "[0.6 0.6 0.6]"
+	"$envAmt0" "0.5"
+	"$envAmt1" "0.5"
+	"$envAmt2" "0.5"
+
+	"$rimlight" 1
+	"$rimlightboost" "0.2"
+	"$rimAmt" "1"
+	}
+}

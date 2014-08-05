@@ -1,0 +1,24 @@
+MultiBlend
+{
+	$basetexture blend/blend_templesky_grass1
+	//$spectexture naturegrass_00a_spec
+	$scale .125
+	$rotation 0.0
+
+	$basetexture2 blend/blend_templesky_grass2
+	//$spectexture2 naturesand_cracked001_spec
+	$scale2 .125
+	$rotation2 0.0
+
+	$basetexture3 blend/blend_templesky_rock1
+	//$spectexture3 naturesand_path001_spec
+	$scale3 .125
+	$rotation3 0.0
+
+	$basetexture3 blend/blend_templesky_rock2
+	//$spectexture4 stonestone_path007_spec
+	$scale4 .125
+	//?$rotation4 55.0
+
+	%tooltexture blend/blendmod_templesky_nrm
+}

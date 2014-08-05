@@ -1,0 +1,9 @@
+"bb_gauss_blur"
+{
+	$basetexture "_rt_halfScreen"
+	$VERTICAL_BLUR	1
+	$size		2
+	
+	$nofog	1
+	$ignorez	1
+}

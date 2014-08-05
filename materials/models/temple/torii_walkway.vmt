@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 				"models/temple/torii_walkway"
+	"$surfaceprop" 				"Wood"
+	"$bumpmap"					"models/temple/torii_walkway_n"
+
+	"$normalmapalphaenvmapmask" 1
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.05 0.05 0.05]"
+
+
+	"$phong" 1
+	"$phongexponent" 25
+	"$phongfresnelranges"	"[0.5 1 3]"
+	"$phongboost" "1.5"
+}

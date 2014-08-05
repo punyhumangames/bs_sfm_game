@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	decals\d_stain_under_angled_window_1
+	$decal		1
+	$decalscale	.25
+	$translucent	1
+}

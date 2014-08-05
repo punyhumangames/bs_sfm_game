@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/tutorial_billboards/billboard_6"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" "$basetexture"
+			"animatedTextureFrameNumVar" "$frame"
+			"animatedTextureFrameRate" "0.75"
+		}
+	}
+}

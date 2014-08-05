@@ -1,0 +1,21 @@
+LightmappedGeneric
+{
+$baseTexture "metal/com_metalpanel01"
+$surfaceprop metal
+$bumpmap "metal/com_metalpanel01_ssnrm"
+$ssbump 1
+$reflectivity "[ .75 .75 .75 ]" 
+$envmap	env_cubemap
+$normalmapalphaenvmapmask 1
+"$envmapsaturation" .5
+//"$envmapcontrast" .25
+"$envmaptint" "[ .45 .45 .45 ]"
+
+
+
+$detail "detail/chevron2_SSBump"
+$detailscale 20
+$detailblendfactor .5
+$detailblendmode 10
+"%keywords" "berimbau"
+}

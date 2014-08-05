@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"district\Windows02"
+	"$bumpmap" 	    "district\Windows02_nrm"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "concrete"
+}

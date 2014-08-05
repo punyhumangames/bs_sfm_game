@@ -1,0 +1,16 @@
+"LightMappedGeneric"
+{
+	"$basetexture" 	"tutorial\woodfloor3"
+	"$bumpmap" 	"tutorial\woodfloor3_n"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$color" "[2.5 4 4]"
+	"$envmapcontrast" 1
+	"$surfaceprop" "wood"
+	"$envmapsaturation" 0.25
+	"$envmaptint" "[1 1 1]"
+	$detail tutorial\wood_variation
+	$detailscale 0.25
+	$detailblendfactor 1
+	$detailblendmode 0
+}

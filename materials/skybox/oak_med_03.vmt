@@ -1,0 +1,7 @@
+"unlitGeneric"
+{
+	"$basetexture" 	"skybox/oak_med_03"
+	"$color" "[4 2.5 1]"
+	"$alphatest"	1
+	"$alphatestreference" 0.9
+}

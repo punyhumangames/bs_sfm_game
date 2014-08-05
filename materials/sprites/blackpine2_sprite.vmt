@@ -1,0 +1,12 @@
+"unlitgeneric"
+{
+	"$spriteorientation" "vp_parallel"
+	"$spriteorigin" "[ 0.50 0.50 ]"
+	"$basetexture" "sprites/blackpine2_sprite"
+//	"$color" "[0.4 0.4 0.5]" //skybright
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$spritescale" 0.01
+	"$alphatest" 1
+	"$alphaTestReference" 0.25
+}

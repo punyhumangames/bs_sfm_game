@@ -1,0 +1,21 @@
+"WorldVertexTransition"
+{
+	
+	"$basetexture2" "roof/Roof_04"
+	//"$bumpmap2"    "roof/Roof_normal"
+
+	"$basetexture" "snow/snow_003" 
+	"$bumpmap"    "snow/snow_003_n"
+	"$nocull" 1
+	
+
+	"$surfaceprop" "concrete"
+
+	"$lightwarptexture" "snow\snow_warptexture"
+	"$envmap2" "env_cubemap"
+  	 "$envmaptint2" "[.8 .8 .8]"
+
+	"$blendmodulatetexture" "snow\snow_modulate"
+//	"$basealphaenvmapmask" "1"
+//	"$nodecal" "1"
+}

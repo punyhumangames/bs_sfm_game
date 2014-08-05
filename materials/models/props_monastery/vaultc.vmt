@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_monastery/vaultc"
+	"$model" 1
+>dx90
+	{
+	"$bumpmap" "models/props_monastery/vaultc_n"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	}
+}

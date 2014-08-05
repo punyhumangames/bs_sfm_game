@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_winter/roof_truss_corner2"
+//	"$bumpmap" "Wood/wood_06a"
+	"$surfaceprop" "Wood_Solid"
+	"$model" 1
+}

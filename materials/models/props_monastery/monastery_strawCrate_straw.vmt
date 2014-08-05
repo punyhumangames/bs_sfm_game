@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/monastery_strawCrate_straw_diffuse"
+>dx90
+	{
+	"$bumpmap" "models/props_monastery/monastery_strawCrate_straw_normals"
+	}
+}

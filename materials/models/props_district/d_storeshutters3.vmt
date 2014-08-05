@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexturetransform" "center 0.007 0.002 scale 2 2 rotate 0 translate 0 0"
+	"$basetexture" "models/props_district/d_storeshutters_d"
+	"$bumpmap"	"models/props_district/d_storeshutters_n"
+	"$detail" "models/props_district/d_storeshutters3_aa"
+	"$surfaceprop" "metal"
+     	"$normalmapalphaenvmapmask" 1
+	"$detailscale" 1
+	"$model" "1"
+	//"$selfillum" "1"
+	"$envmap" "env_cubemap"
+	$envmapsaturation .5
+	//"$basealphaenvmapmask" "models/props_district/d_catwalk_t"
+	"$phong" "1"
+	"$envmaptint" "0.22"
+	//"$phongexponenttexture" "models/props_district/d_catwalk_t_exp"
+	"$phongexponent" "10"
+	"$phongboost" "2"
+	"$phongfresnelranges" "[1 3 8]"
+}

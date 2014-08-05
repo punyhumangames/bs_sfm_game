@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Dev/dev_termi3"
+	//temporarily changed for latest build
+	"$surfaceprop" "Concrete"
+}

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/bookcase02"
+	"$surfaceprop" "wood"
+	"$model" 1
+}

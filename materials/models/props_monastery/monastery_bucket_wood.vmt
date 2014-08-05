@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/props_monastery/monastery_bucket_wood_diffuse"
+	"$surfaceprop" 	"wood"
+
+>dx90
+	{
+	"$bumpmap" 		"models/props_monastery/monastery_bucket_wood_normal"    
+	}
+}

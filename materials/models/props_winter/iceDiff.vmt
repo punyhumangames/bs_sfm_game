@@ -1,0 +1,21 @@
+"Refract"
+{
+
+	"$model" 1
+    "$nocull" "1"
+	//"$basetexture" models/props_winter/iceDiff
+	"$scale" 5
+	"$nodecal" 1
+	"$surfaceprop" "snow"
+	"$nowritez" 1
+	"$bluramount" 1
+ 	"$refractamount" ".03"
+ 	"$dudvmap" "models/props_winter/iceDiff_dudv"
+	"$normalmap" "models/props_winter/iceDiff_n"
+	"$envmap" "models/props_winter/iceDiff_S"
+	"$envmaptint" "[.5 .5 .5]"
+//	"$refracttinttexture" "models/props_combine/stasisshield_tint"
+	"$refracttingtexture" "models/props_winter/iceDiff"
+	"$refracttint" "[1.5 1.5 1.5]"
+}
+

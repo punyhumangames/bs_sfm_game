@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_winter/wood_old_planks3"
+	"$bumpmap" "models/props_winter/wood_old_planks3_normal"
+	"$surfaceprop" "Wood"
+	//"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$model" 1
+}

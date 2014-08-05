@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/book_display"
+	"$surfaceprop" "Wood_Plank"
+//	"$bumpmap" "models/props_monastery/book_display_normal"    
+}

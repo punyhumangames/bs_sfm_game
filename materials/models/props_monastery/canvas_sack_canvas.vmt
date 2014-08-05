@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/canvas_sack_canvas_diffuse"
+	"$surfaceprop" "Dirt"
+
+>dx90
+	{
+		"$bumpmap" "models/props_monastery/canvas_sack_canvas_normal"
+	}
+}

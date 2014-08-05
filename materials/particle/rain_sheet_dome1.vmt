@@ -1,0 +1,9 @@
+UnlitGeneric
+{
+	//Original shader BaseTextureAlphaBlend
+	//$additive 1
+	$translucent 1
+	$basetexture particle\rain_sheet_dome1
+	$vertexcolor 1
+	$vertexalpha 1
+}

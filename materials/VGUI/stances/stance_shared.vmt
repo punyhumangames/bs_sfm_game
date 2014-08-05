@@ -1,0 +1,30 @@
+"unlitgeneric"
+{
+	$distancealpha	1
+	
+	$softedges			0
+	$edgesoftnessstart	0.5
+	$edgesoftnessend	0.48
+	$scaleedgesoftnessbasedonscreenres 0
+	
+	$outline 		1
+	$outlinecolor	"[1 1 1]"
+	$outlinestart0	0.48
+	$outlinestart1	0.5
+	$outlineend0	0.5
+	$outlineend1	0.6
+	$scaleoutlinesoftnessbasedonscreenres 1
+	
+	$glow		1
+	$glowcolor	"[1 1 1]"
+	$glowalpha	1
+	$glowstart	0.4
+	$glowend	0.5
+	
+	$translucent	1
+	$vertexcolor	1
+	$vertexalpha	1
+	$nofog			1
+	$ignorez		1
+	$no_fullbright	1
+}

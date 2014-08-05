@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	// Original shader: BaseTimesVertexColorAlphaBlend
+	//"$additive" 1
+	//"$overbrightfactor" .75
+	"$basetexture" "particle/ber_glass_break3"
+	"$translucent" 1
+	//"$depthblendscale" 50
+}

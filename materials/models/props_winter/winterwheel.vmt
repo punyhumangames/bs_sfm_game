@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/winterwheel"
+	"$surfaceprop" "wood"
+>dx90
+{
+	"$bumpmap" "models/props_winter/winterwheel_normal"
+	"$envmap" "env_cubemap"
+//	"$envmapsaturation" "0.5"
+//	"$envmapcontrast" "0.5"
+	"$envmaptint" "[0.3 0.35 0.43]"
+
+	"$normalmapalphaenvmapmask" "1"
+}
+	"$model" 1
+}

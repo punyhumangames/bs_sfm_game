@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "particle/splatter_soft"
+	"$translucent" 1
+}

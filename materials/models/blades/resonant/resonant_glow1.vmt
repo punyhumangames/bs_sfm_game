@@ -1,0 +1,5 @@
+"unlitgeneric"
+{
+	"$basetexture" "models/blades/resonant/resonant_glow1"
+//	"$additive" 1
+}

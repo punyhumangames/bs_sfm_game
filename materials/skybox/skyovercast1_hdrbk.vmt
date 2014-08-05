@@ -1,0 +1,7 @@
+Sky
+{
+	// if you compiled with nocompress:
+	$hdrbasetexture		"skybox/skyovercast1_hdrbk"
+	$basetexture		"skybox/skyovercast1bk"
+	$basetexturetransform "center 0 0 scale 1 2 rotate .5 translate 0 0"
+}

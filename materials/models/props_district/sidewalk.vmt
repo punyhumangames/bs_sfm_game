@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_district/sidewalk"
+	"$surfaceprop" "concrete"
+	"$envmapmask"	"models/props_district/sidewalkspec"
+	"$envmap"  		"env_cubemap"
+
+}

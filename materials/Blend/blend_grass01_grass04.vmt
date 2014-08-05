@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+    	
+   	"$basetexture" "grass/grass_01"
+   	"$basetexture2" "grass/grass_04"
+	"$surfaceprop" "grass"
+	"$surfaceprop2" "grass"
+	"%keywords" "berimbau"
+}

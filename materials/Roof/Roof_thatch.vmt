@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "roof/roof_thatch"
+   	 "$surfaceprop" "grass"
+ 	 "$bumpmap" "roof/roof_thatch_normal"
+	"%keywords" "berimbau"
+}

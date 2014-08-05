@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{        
+	"$basetexture" "models\twincannon\dys_fortress_tollbarrier"
+	"$surfaceprop" "metal"
+	"$model" 1 
+	"$envmapmask" "models/twincannon/dys_fortress_tollbarrier_spec"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.65 0.6 0.6]"
+	"VertexLitGeneric_DX9_hdr"
+      	{
+      		"$envmaptint" "[ .12 .08 .08]"
+	}
+}

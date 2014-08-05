@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/bookcase01"
+	"$surfaceprop" "wood"
+>dx90
+	{
+	"$bumpmap" "models/props_monastery/bookcase01_normal"
+
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.5"
+//	"$envmapcontrast" "0.5"
+	"$envmaptint" "[0.8 0.5 0.5]"
+
+	"$normalmapalphaenvmapmask" "1"
+
+	"$model" 1
+	"$phong" 1
+	"$phongfresnelranges"	"[1 3 8]"
+
+
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	"$phongalbedotint" 1
+	"$phongboost"	"1"
+	"$phongexponenttexture" "models/props_monastery/bookcase01_exp"
+	}
+<=dx90
+	{
+	"$phongexponent" 25     
+	}
+}

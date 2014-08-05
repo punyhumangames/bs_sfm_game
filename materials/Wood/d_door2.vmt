@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "wood/d_door2"
+   	 "$surfaceprop" "wood"
+ 	 "$bumpmap" "wood/d_door2n"
+  	 "$envmap" "env_cubemap"
+     	"$normalmapalphaenvmapmask" 1
+	"$envmapsaturation" .75
+}

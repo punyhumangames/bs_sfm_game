@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/props_winter/waterFallRock01_wet_diffuse"
+	"$surfaceprop" 	"Stone"
+	"$bumpmap" 		"models/props_winter/waterFallRock01_normal"    
+	"$envmap" 		"env_cubemap"	
+	"$envmaptint" 	"[0.4 0.4 0.4]"
+	$envmapsaturation 0.6
+//	"$normalmapalphaenvmapmask" "1"
+
+>dx90
+	{
+		"$lightwarptexture" "models/shared/lightwarp_lighten"
+	}
+
+
+
+}

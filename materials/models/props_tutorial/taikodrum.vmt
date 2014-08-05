@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	$basetexture 	"models\props_tutorial\taikodrum"
+	$surfaceprop 	wood
+	"$bumpmap" 		"models\props_tutorial\taikodrum_n"
+	"$envmap" 						"env_cubemap"
+	"$envmaptint" 					"[0.2 0.2 0.2]"
+	"$normalmapalphaenvmapmask" 	1
+	"$phong" "1" 
+	"$phongexponent" "33" 
+	"$phongboost" ".33"  
+	"$phongfresnelranges" "[2 3 5]" 
+	"$rimlight" 1
+	"$rimlightexponent" 32
+	"$rimlightboost" .1
+}

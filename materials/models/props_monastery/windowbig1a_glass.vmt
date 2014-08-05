@@ -1,0 +1,25 @@
+"Refract"
+{
+ 	"Refract_DX60"
+	{
+		"$fallbackmaterial" "models\props_monastery\windowbig1a_glass_dx6"
+	}
+	"Refract_dx8"
+	{
+		"$fallbackmaterial" "models\props_monastery\windowbig1a_glass_dx8"
+	}
+	"$writez" 1
+	"$model" 1
+	"$nodecal" 1
+	"$surfaceprop" "metal"
+	//"$nowritez" 1
+	"$bluramount" 1
+ 	"$refractamount" ".02"
+ 	//"$dudvmap" "models/shadertest/shader3_dudv"
+	"$translucent" 1
+	"$normalmap" "models\props_monastery\windowbig1a_glass_n"
+	"$envmap" "env_cubemap"
+	"$refracttinttexture" "models\props_monastery\windowbig1a_glass"
+	"%tooltexture"      "models\props_monastery\windowbig1a_glass"
+	"$refracttint" "[0.75 1 0.75]"
+}

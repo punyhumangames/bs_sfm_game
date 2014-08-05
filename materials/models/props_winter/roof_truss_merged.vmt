@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_winter/roof_truss_merged"
+	"$surfaceprop" "Wood_Solid"
+	"$model" 1
+}

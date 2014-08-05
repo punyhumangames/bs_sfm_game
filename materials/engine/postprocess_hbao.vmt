@@ -1,0 +1,6 @@
+"bbao"
+{
+	$DEPTHTEXTURE		_rt_depthHalf
+	$NORMALSTEXTURE		_rt_normalsHalf
+	$NOISETEXTURE		"engine/naturalnoise_small"
+}

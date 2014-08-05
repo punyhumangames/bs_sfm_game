@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"Concrete\ber_concretebase002"
+	//"$bumpmap" 	"Concrete\ber_concretebase002_n"
+	"$envmap" "env_cubemap"
+     	//"$normalmapalphaenvmapmask" 1
+
+     	"$envmapcontrast" 1
+	"$surfaceprop" "concrete"
+	"$envmapsaturation" 1
+	"$envmaptint" "[ 0.3 0.3 0.32 ]"
+
+	"$detail" "detail\noise_detail_01"
+	"$detailscale" "4"
+	"$detailblendfactor" "0.9"
+	"$detailblendmode" "0"
+}

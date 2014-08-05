@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"district\ConcreteTile01"
+	"$bumpmap" 	"district\ConcreteTile01_nrm"
+	"$envmap" "env_cubemap"
+    "$normalmapalphaenvmapmask" 1
+
+	"$surfaceprop" "concrete"
+}

@@ -1,0 +1,40 @@
+"UnlitGeneric"
+{
+	$basetexture	"neon\kanji_blindness_neon_red"
+	$translucent 1
+	$additive 1
+	//$color	"[1.0 0.05 0.05]"
+	
+	"$sineoffset"	0.0
+	"$sineoutput"	0.0
+
+	Proxies
+	{
+		//generate noise for our sine wave
+		GaussianNoise	
+		{
+			mean 4
+			minVal 4
+			maxVal 10 //controls sine speed
+			resultVar "$sineoffset"
+		}
+
+		//generate a sine wave with a period based on the noise
+		Sine
+		{
+			sineperiod "$sineoffset"
+			sinemin -2
+			sinemax 25 //lower this to make it flicker more
+			resultVar "$sineoutput"
+		}
+
+		//clamp the sine wave values and make this our new alpha for this material
+		Clamp
+		{
+			min 0.0
+			max 0.6
+			srcVar1 "$sineoutput"
+			resultVar "$alpha"
+		}
+	}
+}

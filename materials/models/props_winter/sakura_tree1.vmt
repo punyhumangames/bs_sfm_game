@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/sakura_tree1"
+	"$surfaceprop" "Wood_Solid"
+	"$alphatest" 1
+	"$nocull" 1
+	"$translucent" 1
+}

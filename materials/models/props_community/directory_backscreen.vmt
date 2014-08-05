@@ -1,0 +1,63 @@
+"UnlitTwoTexture"
+{
+	"$basetexture" "models/props_community/com_bigscreen_screen4"
+	"$texture2" "models/props_community/com_bigscreen_screen4"
+
+    "$jumpchance" 0.0
+    "$jumpchancethreshold" 0.95
+    "$nojump" 0.0
+    "$jumpdistance" 0.0
+    "$translate1" "[0.0 0.0]"
+    "$translate2" "[0.0 0.0]"
+    "$scale2" "[.005 .5]"
+	"$scale1" "[.005 .5]"
+    "$angle1" 0.0
+	"$angle2" 0.0
+    "$translate1" "[0.0 0.0]"
+    "$translate2" "[0.0 0.0]"
+    "$center1" "[0.5 -0.5]"
+	"$center2" "[0.5 -0.5]"
+
+        "Proxies"
+        {
+            "TextureTransform"
+            {
+                "translateVar" "$translate1"
+                "rotateVar" "$angle1"
+                "centerVar" "$center1"
+				"scaleVar" "$scale1"
+                "resultVar" "$basetexturetransform"
+            }
+		"LinearRamp"
+        {
+			"rate" .00256
+            "initialValue" 0
+            "resultVar" "$translate2[0]"            
+        }
+        "LinearRamp"
+        {
+			"rate" -.00128
+            "initialValue" 0
+            "resultVar" "$translate2[1]"            
+        }
+		"LinearRamp"
+        {
+			"rate" -.00156
+            "initialValue" 0
+            "resultVar" "$translate1[0]"            
+        }
+        "LinearRamp"
+        {
+			"rate" .02
+            "initialValue" 0
+            "resultVar" "$translate1[1]"            
+        }
+        "TextureTransform"
+        {
+            "translateVar" "$translate2"
+            "scaleVar" "$scale2"
+            "resultVar" "$texture2transform"
+        }
+        }
+    }
+}

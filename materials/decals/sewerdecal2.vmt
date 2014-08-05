@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	decals\sewerdecal2
+	$decal		1
+	$decalscale	.103
+	$translucent	1
+}

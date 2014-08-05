@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	decals\DecalsDamage0032_1_S
+	$decal		1
+	$decalscale	.125
+	$translucent	1
+}

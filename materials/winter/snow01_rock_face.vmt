@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+    	
+   	"$basetexture" "winter/snow01"
+   	"$basetexture2" "winter/rockface1"
+	"$surfaceprop" "snow"
+	"$surfaceprop2" "rock"
+	"$bumpmap2" "bamboo/rock_face_normal"
+	"$blendmodulatetexture" "winter\rock_face_modulate"
+                 "$basetexturetransform2" "center 0 0 scale 2 2 rotate 0 translate 0 0"
+
+	"%keywords" "berimbau"
+}

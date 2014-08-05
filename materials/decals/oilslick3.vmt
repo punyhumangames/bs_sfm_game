@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	//"$basetexture" "decals/oilslick3"
+	//"$translucent" 2
+	"%tooltexture" "decals/oilslick3"
+	"$additive" 1 
+	"$decal" 1  // Decal
+	"$envmap" "env_cubemap"
+	"$envmapmask" "decals/oilslick3"
+	"$decalscale" 0.25
+	//"$envmapsaturation" .25
+	"$envmaptint" "[.25 .25 .25]"
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "winter/rock_face"
+	"$bumpmap" "winter/rock_face_normal"
+	"$surfaceprop" "Rock"
+	"$seamless_scale" 0.005
+}

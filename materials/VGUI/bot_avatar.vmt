@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	$basetexture		"vgui/bot_avatar"
+	
+	"$ignorez"			1
+	$nofog		1
+}

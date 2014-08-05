@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "metal/d_metalwall_1"
+	"$basetexturetransform" "center .5 .5 scale 16 16 rotate 0 translate 0 0".
+	"$detail" "models/props_community/shopping_roof_aa"
+	"$detailblendmode" 0
+	"$detailscale" 1
+	"$surfaceprop" "Concrete"
+}

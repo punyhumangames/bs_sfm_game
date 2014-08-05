@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	$basetexture "_rt_depthHalf"
+	$nofog	1
+	$ignorez	1
+}

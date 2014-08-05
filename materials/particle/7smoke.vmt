@@ -1,0 +1,19 @@
+"SpriteCard"
+{
+	$basetexture "particle/7smoke"
+	//$basetexture2 "particle/7smoke"
+	$DUALSEQUENCE 1
+	$SEQUENCE_BLEND_MODE 1 //2
+	$MAXLUMFRAMEBLEND1 0
+	$MAXLUMFRAMEBLEND2 1
+	$ZOOMANIMATESEQ2 4
+	$blendframes 1
+	//$EXTRACTGREENALPHA 1
+	"!srgb?$overbrightfactor" "1.2"
+	$STARTFADESIZE 1
+	$ENDFADESIZE 1.4
+	$depthblend 1
+	$depthblendscale 50
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

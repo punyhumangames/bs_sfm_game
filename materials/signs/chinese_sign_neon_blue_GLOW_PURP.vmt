@@ -1,0 +1,41 @@
+"UnlitGeneric"
+{
+	"$basetexture" "signs\chinese_sign_neon_blue_GLOW"
+	"$surfaceprop" "metal"
+	"$additive" 1
+	"$color" "[1.0 0.0 1.0]"
+
+	
+	"$sineoffset"	0.0
+	"$sineoutput"	0.0
+
+	Proxies
+	{
+		//generate noise for our sine wave
+		GaussianNoise	
+		{
+			mean 0.9
+			minVal 0.8
+			maxVal 1 //controls sine speed
+			resultVar "$sineoffset"
+		}
+		
+		//generate a sine wave with a period based on the noise
+		Sine
+		{
+			sineperiod "$sineoffset"
+			sinemin 0
+			sinemax 1 //lower this to make it flicker more
+			resultVar "$sineoutput"
+		}
+
+		//clamp the sine wave values and make this our new alpha for this material
+		Clamp
+		{
+			min 0.0
+			max 0.5
+			srcVar1 "$sineoutput"
+			resultVar "$alpha"
+		}
+	}
+}

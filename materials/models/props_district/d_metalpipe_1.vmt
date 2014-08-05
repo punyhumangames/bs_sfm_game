@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/props_district/d_metalpipe_1"
+   	 "$surfaceprop" "metal"
+ 	 "$bumpmap" "models/props_district/d_metalpipe_1n"
+  	 "$envmap" "env_cubemap"
+     	"$normalmapalphaenvmapmask" 1
+	//"$translucent" 1
+	"$envmapsaturation" .75
+	"$envmaptint" "[0.4 0.4 0.4]"
+}

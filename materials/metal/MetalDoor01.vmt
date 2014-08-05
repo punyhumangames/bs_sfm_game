@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal\MetalDoor01"
+	"$bumpmap" "metal\MetalDoor01_nrm"
+	"$envmap" "env_cubemap"
+ 	"$normalmapalphaenvmapmask" 1
+
+	"$surfaceprop" "metal"
+	
+	"$phong" "1"
+	"$phongboost" "30"
+	"$phongexponent" 30					
+	"$phongfresnelranges"	"[0.5 0.5 1]"
+	"$phongexponenttexture" "models/shared/lightwarp_darken3"
+	"$phongalbedotint" "1"
+}

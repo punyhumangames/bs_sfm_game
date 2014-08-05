@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props/streetlamp/streetlamp_umbr"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.15 .15 .15]"
+	"$bumpmap" "models/props/streetlamp/streetlamp_umbr_normal"
+    "$model" 1
+         
+}

@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+		"$basetexture" "community_common/escalator_step"
+	"$bumpmap" "community_common/escalator_step_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	"$reflectivity" "[ .75 .75 .75 ]" 
+	"$envmapsaturation" ".33"
+	"$envmapcontrast" ".5"
+	"$envmaptint" "[ .75 .75 .75 ]"
+	"$envmap"	"env_cubemap"
+}

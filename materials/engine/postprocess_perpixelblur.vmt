@@ -1,0 +1,5 @@
+"bb_perpixelblur"
+{
+	$basetexture		"_rt_FullFrameFB"
+	$velocitytexture	"_rt_screenspaceVelocity"
+}

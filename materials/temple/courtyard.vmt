@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "temple/courtyard_4096"
+	"%tooltexture"      "temple/courtyard_4096"
+	"$bumpmap" "temple/courtyard_4096_normal"
+	"$basetexturetransform" "center 1 1 scale 4 4 rotate 0 translate 0 0"
+	"$bumptransform" "center 1 1 scale 4 4 rotate 0 translate 0 0"
+	"$lightwarptexture" "models/shared/lightwarp_darken4"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+		"$envmaptint" "0.25"
+}

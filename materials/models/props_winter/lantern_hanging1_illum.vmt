@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/props_winter/lantern_hanging1_illum"
+	"$nocull" 1
+	"$model" 1
+	"$alphatest" 1
+	"$translucent" 1
+
+}

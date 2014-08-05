@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_winter/gate"
+	"$surfaceprop" "Wood_Solid"
+	"$model" 1
+}

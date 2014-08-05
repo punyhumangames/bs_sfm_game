@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$translucent" 1
+	"$basetexture" "dev/temp_signbarrier"
+	"$decal" 1
+	"$decalscale" .125
+}
+

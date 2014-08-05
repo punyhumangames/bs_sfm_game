@@ -1,0 +1,28 @@
+"Patch"
+{
+	include "materials/models/shared/swords.vmt"
+	insert
+	{	
+	"$basetexture" "models/blades/aureate/aureate_sheath_diffuse"
+	"$bumpmap" "models/blades/aureate/aureate_sheath_normal"
+	"$normalmapalphaenvmapmask" 1
+
+	"$envmap"	"env_cubemap"
+	"$envmaptint" "[0,0001 0,0001 0.0001]"
+
+
+	"$phong" 1
+	//"$phongexponent" 15
+	"$phongexponenttexture" "models/blades/aureate/aureate_sheath_exponent"
+	"$phongfresnelranges"	"[5 5  5]"
+	"$phongwarptexture" "models/shared/phongwarp_metallic1" 
+	"$phongboost" "60"
+	"$PhongAlbedoTint" "1"
+	"$rimlight" 1
+	"$rimlightboost" "15"
+
+
+
+	}
+
+}

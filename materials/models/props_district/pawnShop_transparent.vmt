@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/props_district/pawnShop_transparent"
+	"$model" "1"
+	"$translucent" 1
+	"$additive" 1
+}
+

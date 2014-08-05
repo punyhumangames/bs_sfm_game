@@ -1,0 +1,14 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/props_community/conven1"
+	"$bumpmap" "models/shared/n_flat"
+	"$surfaceprop" "glass"
+	"$translucent" 1
+$normalmapalphaenvmapmask 1
+	"$phong" 1
+	"$phongfresnelranges"	"[1 2 5]"
+	"$phongexponent" 5
+	"$phongboost" ".25"
+"%keywords" "berimbau"
+
+}

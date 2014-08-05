@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_winter/hotukenBanner_diffuse"
+>dx90
+	{
+	"$bumpmap" "models/props_winter/hotukenBanner_normal"
+	}
+	"$nocull" 1
+	"$nodecal" 1
+	"$model" 1
+}

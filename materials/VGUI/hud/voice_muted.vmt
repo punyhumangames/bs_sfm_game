@@ -1,0 +1,8 @@
+"unlitgeneric"
+{
+	$basetexture	"vgui/hud/voice_muted"
+	$translucent		1
+	$ignorez		1
+	$nofog			1
+	$linearwrite	1
+}

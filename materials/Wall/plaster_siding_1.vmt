@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Wall\plaster_siding_1"
+   	 "$surfaceprop" "plaster"
+	"%keywords" "berimbau wall"
+	
+	"$bumpmap" "Wall\plaster_siding_1_n"
+	"$detail" "concrete\d_concrete_wall_1_detail"
+	"$detailscale" "3.23"
+	"$detailblendfactor" ".3"
+	"$detailblendmode" "0"
+}

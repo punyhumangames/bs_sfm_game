@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/blades/dys_katana/katana_01"
+	"$surfaceprop" "metal"
+	"$selfillum" 1
+	"$bumpmap" "Models/blades/dys_katana/katana_01_bump"
+	"$envmap" "env_cubemap"	
+    	"$envmaptint" "[.3 .3 .3]"
+	"$normalmapalphaenvmapmask" 1	
+
+		
+}

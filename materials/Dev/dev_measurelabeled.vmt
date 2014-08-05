@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Dev/dev_measurelabeled"
+	"$basetexturetransform"	 "center .5 .5 scale 4 4 rotate 0 translate 0 0"
+	}

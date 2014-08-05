@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	// Original shader: BaseTextureAlphaBlend
+	"$translucent" 1
+	"$additive" 1
+	"$basetexture" "particle/dys_powerwarp_warp2"
+	$vertexcolor 1
+	$vertexalpha 1
+}

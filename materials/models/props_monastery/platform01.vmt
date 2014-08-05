@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/platform01"
+	"$bumpmap" "models/props_monastery/platform01_normal"
+	"$surfaceprop" "concrete"
+//	"$envmapmask" "models/props_monastery/platform01_spec"     
+//	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" 1
+	
+}
+

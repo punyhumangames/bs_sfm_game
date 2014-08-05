@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "wood/wood_05_tiled"
+   	"$surfaceprop" "wood"
+	"$bumpmap" "wood/wood_05_tiled_spec_normal"
+	"%keywords" "berimbau"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "0.02"
+	"$normalmapalphaenvmapmask" 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+//	"$basetexture" 	"models/props_winter/gardenRock01_diffuse"
+	"$bumpmap"		"models/props_winter/gardenRock01_normal"
+	"$surfaceprop" "stone"
+	"$model" 1
+}

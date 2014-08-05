@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_asian/noodle_cart_body"
+	"$surfaceprop" "Wood_Plank"
+	"$bumpmap"	"models/props_asian/noodle_cart_body_normal"
+
+
+}

@@ -1,0 +1,19 @@
+"Refract"
+{
+ 	"$model" 1
+	"$bluramount" "1"
+	"$surfaceprop" "glass"
+ 	"$refractamount" ".100"
+	"$REFRACTTINT" "[1 1 1]" //185 185 185
+	"$scale" "[1 1]"
+    	"$normalmap" "community_common\refract_tile_n"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.3 .4 .4]"  
+	//"$envmaplightscale" ".6"
+	//"$localrefract" "1"
+	//"$localrefractdepth" "0.05"
+	//"$basetexture" ""
+	"$envmapcontrast" "1"
+	"$envmapsaturation" ".2"
+	//"$normalmapalphaenvmapmask" "1"
+}

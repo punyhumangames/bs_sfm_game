@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_monastery/table_library1"
+	"$surfaceprop" "Wood_Furniture"
+	"$model" 1
+>dx90
+	{
+	"$bumpmap" "models/props_monastery/table_library_normal"
+
+
+
+	"$envmap" "env_cubemap"
+//	"$envmapsaturation" "0.25"
+//	"$envmapcontrast" "0.5"
+	"$envmaptint" "[0.5 0.5 0.5]"
+
+	"$normalmapalphaenvmapmask" "1"
+         
+	"$phong" 1
+	"$phongexponent" 100
+	"$phongfresnelranges"	"[1 2 4]"
+
+
+	"$phongexponenttexture" "models/props_monastery/table_library_exp"
+	"$phongalbedotint" 1
+	"$phongboost"	"15"
+	}
+<=dx90
+	{
+	"$phongboost" "12"	
+	}
+}

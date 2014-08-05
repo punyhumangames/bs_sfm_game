@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "winter/snow01"
+    "$surfaceprop" "snow"
+	"%keywords" "berimbau"
+	
+
+//	"$bumpmap" "winter/snow01_normal"
+//	"$envmap" "env_cubemap"
+//	"$envmapsaturation" "1"
+//	"$envmapcontrast" ".2"
+//	"$envmaptint" "[0.5 0.5 0.5]"
+//	"$normalmapalphaenvmapmask" "1"
+}

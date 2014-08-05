@@ -1,0 +1,20 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Concrete/com_concwall01"
+	"$bumpmap" "Concrete/com_concwall01_nrm_ssbump"
+	"$surfaceprop" "Concrete"
+	"$ssbump" 1
+	//"$translucent" 1
+$reflectivity "[ .75 .75 .75 ]" 
+"$envmapsaturation" .75
+"$envmapcontrast" .25
+"$envmaptint" "[ .11 .11 .11 ]"
+$normalmapalphaenvmapmask 1
+$envmap	env_cubemap
+
+$detail "detail/chevron2_SSBump"
+$detailscale 20
+$detailblendfactor .5
+$detailblendmode 10
+"%keywords" "berimbau"
+}

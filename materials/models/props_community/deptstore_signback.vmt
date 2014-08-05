@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/deptstore_aa"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models/shared/n_flat"
+	"$surfaceprop" "metal" 
+	"$normalmapalphaenvmapmask" "1"
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimlightexponent"  1
+	"$phong" 1
+	"$phongfresnelranges"	"[1  1 0.5]"
+	//"$phongexponent" "100"
+	"$phongboost" "1"
+	"$envmapsaturation" ".33"
+	"$envmapcontrast" ".5"
+	"$phongexponenttexture" "models/shared/albedotint"
+	"$envmaptint" "[.125 .125 .125]"
+	"$selfillum" 1
+	"$selfillumtint" "[5 5 5]"
+}

@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/library_railing"
+	"$surfaceprop" "wood"
+
+	"$nocull" 0
+
+	"$model" 1
+	"$alphatest" 1
+
+>dx90
+	{
+	"$bumpmap" "models/props_monastery/library_railing_normal"
+
+	"$envmap" "env_cubemap"
+//	"$envmapsaturation" "0.25"
+	//"$envmapcontrast" "0.5"
+	"$envmaptint" "[0.8 0.5 0.5]"
+
+	"$normalmapalphaenvmapmask" "1"
+         
+
+
+		"$phong" 1
+	"$phongexponenttexture" "models/props_monastery/library_railing_exp"
+	"$phongalbedotint" 1
+	"$phongboost"	".25"
+	"$phongfresnelranges"	"[1 2 4]"
+	}
+
+}

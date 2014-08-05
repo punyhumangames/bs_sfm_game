@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/combinedbooks1"
+	"$surfaceprop" "Metal"
+	//"$normalmap" "models/props_monastery/wall_torch_normal"
+	"$nocull" 1
+	}

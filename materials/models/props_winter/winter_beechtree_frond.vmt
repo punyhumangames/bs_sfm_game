@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/winter_beechtree_frond"
+	"$surfaceprop" "grass"
+	"$alphatest" 1
+	"$model" 1
+	"$nocull" 0
+}

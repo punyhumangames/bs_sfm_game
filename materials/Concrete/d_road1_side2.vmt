@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "concrete\d_road1_side2"
+	"$bumpmap" "concrete\d_road1_side2n"
+	"$envmap" "env_cubemap"
+     	"$normalmapalphaenvmapmask" 1
+     	//"$envmapcontrast" 1 makes tighter reflections and more contrasty
+	"$surfaceprop" "concrete"
+	"$detail" "detail\noise_detail_03"
+	"$detailscale" "4"
+	"$detailblendfactor" "0.8"
+	"$detailblendmode" "0"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	//"$envmaptint" "[ .56 .56 .56 ]"
+}

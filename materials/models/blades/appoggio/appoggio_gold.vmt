@@ -1,0 +1,30 @@
+"Patch"
+{
+include "materials/models/shared/swords.vmt"
+	insert
+	{
+	"$basetexture" 				"models/blades/appoggio/appoggio"
+	"$surfaceprop" 				"metal"
+	"$bumpmap" 					"models/blades/appoggio/appoggio_n"    
+	"$envmap" 					"env_cubemap"	
+	"$envmaptint"				"[1 0.65 0.2]"
+	"$envmapsaturation" "1"
+	//"$envmapcontrast" -1
+	"$normalmapalphaenvmapmask" "1"
+
+>dx90
+	{
+	"$envmapcontrast" 0
+	"$phong" 					"1"
+	"$phongboost" 				"110"
+	"$phongexponent" "14"
+	"$phongexponenttexture" 	"models/blades/appoggio/appoggio_exp"
+	"$phongwarptexture" "models/shared/phongwarp_metallic1"
+	//"$phongalbedotint" 			"1"								
+	"$phongtint" "[0.93 0.87 0.29]"
+	"$phongfresnelranges"		"[1 2 4]"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	"$envmaptint"				"[0.93 .87 0.2]"
+	}
+	}
+}

@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/temple/bt_roof"
+	"$bumpmap"	    "models/temple/bt_roof_NRM"   
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0 .05 0]"
+	"$envmapcontrast" 1 	
+	"$normalmapalphaenvmapmask" "1"
+			
+	"$phong" "1"
+	"$phongboost" "30"
+	"$phongexponent" 30					
+	"$phongfresnelranges"	"[0.5 0.5 1]"
+	"$phongexponenttexture" "models/shared/lightwarp_darken3"
+	"$phongalbedotint" "1"
+	"$lightwarptexture" "models/shared/lightwarp_darken3"	
+}

@@ -1,0 +1,23 @@
+"Patch"
+{
+	include "materials/models/shared/capes.vmt"
+	insert
+	{
+	"$basetexture" "models/attachments/capes/skin5"
+	"$envmaptint" "[0.035 0.035 0.035]"
+	"$bumpmap" "models/attachments/capes/skin5_n"
+	"$lightwarptexture" "models/shared/lightwarp_darken2"
+	"$phongwarptexture" "models/shared/phongwarp_metallic1"
+	"$selfillum" "1"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[0.1 4 8]"
+	"$selfillumtint"	"[1 1 1]"
+	$selfillumtintdiffusemodulation	1
+	"$normalmapalphaenvmapmask" "1"
+	"$phongalbedotint" 1
+	"$phongexponent" 5
+	"$phongexponenttexture" "models/attachments/capes/skin5_exp"
+	"$CHARGETEXTURE"      "models/attachments/capes/skin5_charge"
+	"$CHARGENORMALTEXTURE"	"models/attachments/capes/skin5_n"
+	}
+}

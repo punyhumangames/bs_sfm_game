@@ -1,0 +1,32 @@
+"TracerPreview"
+{
+	$basetexture		"models/tracemodels/preview_grid"
+	
+	$SCROLL_TEXTURE		"models/tracemodels/preview_grid_scroll"
+	//$SCROLL_TEXTURE		"models/tracemodels/preview"
+
+	//$color			"[1.0 0.4 0.1]"
+	//$PULSE_COLOR	"[10.0 2.5 0.5]"
+	
+	$color	"[0.4 0.4 0.42]"
+	$PULSE_COLOR "[0.12 0.6 1.2]"
+	
+	//$color "[0.3 0.3 0.315]"
+	//$PULSE_COLOR "[0.09 0.45 0.9]"
+
+	//$color			"[1.0 1.0 1.05]"
+	//$PULSE_COLOR	"[0.3 1.5 3.0]"
+	
+	$SCROLL_SPEEDS	"[-0.3 -0.5]" // basetexture, scroll_texture
+	
+	$PULSE_HIGHLIGHT_FREQUENCY		20.0
+	$PULSE_HIGHLIGHT_SPEED			15.0
+	$PULSE_FADE_FREQUENCY			5.0
+	$PULSE_FADE_SPEED			5.0
+	
+	$HIGHLIGHT_COLOR "[0.4 0.12 0.032]"
+	$HIGHLIGHT_PULSE_COLOR "[1.6 0.48 0.32]"
+	
+	//$HIGHLIGHT_COLOR	"[1.0 0.3 0.08]"
+	//$HIGHLIGHT_PULSE_COLOR	"[4.0 1.2 0.8]"
+}

@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/d_metalgrate"
+	"$bumpmap" "metal/d_metalgrate_nrm"
+	"$surfaceprop" "Metal_Box"
+	"$translucent" 1
+	
+	//$detail "district\Gravel_detail"
+	$detail "detail\noise_detail_03"
+	$detailscale 1.5
+	$detailblendfactor 1
+	$detailblendmode 0
+}

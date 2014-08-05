@@ -1,0 +1,10 @@
+"LightMappedGeneric"
+{
+	"$basetexture" 	"community_common\elevator_steel"
+	"$envmapmask" "community_common\elevator_steel_spec"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$surfaceprop" "metal"
+	"$envmapsaturation" 0.25
+	"$envmaptint" "[1 1 1]"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_winter/wintercouch1"
+	"$surfaceprop" "wood"
+	"$nocull" 
+	"$model" 1
+}

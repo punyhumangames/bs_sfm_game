@@ -1,0 +1,24 @@
+//Spire - removed normal map from this model, its not needed, also want to use per-vertex lighting.
+"VertexlitGeneric"
+{
+	"$basetexture" "snow/snow_003"
+	"$model" "1"
+	//>=dx90
+		//{
+		//"$bumpmap" "snow/snow_003_n"
+	//	"$detail" "snow/snow_003_ao"
+	//	"$detailscale" "1"
+		//"$surfaceprop" "snow"
+	//	"$envmap" "env_cubemap"
+	//	"$envmapsaturation" "0.5"
+	//	"$envmapcontrast" "0.5"
+	//	"$envmaptint" "[.7 .75 .7]"
+	//	"$normalmapalphaenvmapmask" "1"
+	//	"$lightwarptexture" "snow\snow_warptexture"
+	//	"$phong" 1
+	//	"$phongexponenttexture" "snow/snow_003_e"
+	//	"$phongalbedotint" 1
+	//	"$phongboost"	"0.5"
+	//	"$phongfresnelranges"	"[1 3 8]"
+		//}
+}

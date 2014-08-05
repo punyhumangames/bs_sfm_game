@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "wood/wood_studs_02"
+	"$bumpmap" "wood/wood_studs_02_normal"
+	"$surfaceprop" "wood_plank"
+}

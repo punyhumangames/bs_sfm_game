@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_asian/dragon_statue"
+	"$surfaceprop" "Metal"
+	"$bumpmap"	"models/props_asian/dragon_statue_normal"
+	"$phong" "1"
+	"$phongboost" "30"
+	"$phongexponenttexture" "models/props_asian/dragon_statue_spec"
+	"$phongexponent" 14
+	"$phongalbedotint" "1"
+	"$phongtint" "[0.93 0.87 0.29]"							"$phongfresnelranges"	"[.5 1 2]"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	
+	"$envmap" 		"env_cubemap"
+	"$envmaptint" 					"[0.2 0.2 0.2]"
+	"$envmapsaturation" "1"
+	"$envmapcontrast" -1
+	"$normalmapalphaenvmapmask" 	1							
+}

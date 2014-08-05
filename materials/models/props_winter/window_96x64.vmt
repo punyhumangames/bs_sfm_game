@@ -1,0 +1,11 @@
+//Spire - normal map from this model, its not needed, also want to use per-vertex lighting.
+
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/window_96x64"
+//	"$bumpmap" "models/props_winter/window_96x64_normal"
+	"$surfaceprop" "glass"
+//	"$selfillum" 1
+	"$model" 1
+	"$nocull" 0
+}

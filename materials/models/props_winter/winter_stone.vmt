@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/props_winter/winter_stone"
+	"$bumpmap"	"models/props_winter/winter_stone_n"
+	//"$bumpmap"	"models/props_winter/winter_stone_ssb"
+	//"$ssbump"	"1"
+	"$surfaceprop" "stone"
+	"$model" 1
+//	"$normalmapalphaenvmapmask" "1"
+//	"$nocull" 0
+//	"$envmap" "env_cubemap"
+//	"$envmapsaturation" "0.5"
+//	"$envmapcontrast" "0.5"
+//	"$envmaptint" "[0.3 0.35 0.43]"
+	//"$seamless_scale" "0.25"
+}

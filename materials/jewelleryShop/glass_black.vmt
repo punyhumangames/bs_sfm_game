@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "jewelleryShop/glass_black"
+	"$envmapmask" "jewelleryShop/glass_spec"
+	"$envmap"	"env_cubemap"
+
+	"$translucent" 1
+}

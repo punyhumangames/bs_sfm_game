@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_district/district_trashbin"
+	"$bumpmap"	"models/props_district/district_trashbin_n"
+     	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "metal"
+	"$model" "1"
+	"$selfillum" "1"
+	"$envmap" "env_cubemap"
+	"$phong" "1"
+	"$phongexponenttexture" "models/shared/n_flat"
+	"$phongexponent" "10"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[.1 .7 1]"
+}

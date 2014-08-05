@@ -1,0 +1,8 @@
+"unlitgeneric"
+{
+	$basetexture	"vgui/hud/spectator_eye"
+	$translucent	1
+	$ignorez		1
+	$nofog			1
+	$linearwrite	1
+}

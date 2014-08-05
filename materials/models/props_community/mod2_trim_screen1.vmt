@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/mod2_trim_screen1"
+	"$surfaceprop" "Metal"
+}

@@ -1,0 +1,92 @@
+"VertexLitGeneric"
+{
+	"$model" 1
+	
+	"$basetexture"  "models/blades/fkatana/fkatana"
+	"$bumpmap"	"models/blades/fkatana/fkatana_normal"
+
+	"$surfaceprop" "metal"
+	"$normalmapalphaenvmapmask" "1"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.2"
+	"$envmapcontrast" 1
+	"$envmaptint" "[0.6 0.6 0.6]"
+	"$selfillum" 1
+
+	"$phong" 1
+	$FORCEPHONG 1
+	"$phongfresnelranges"	"[0.5 1 3]"
+	"$phongexponent" 5
+	"$phongboost" "120"
+	"$phongexponenttexture" "Models/blades/fkatana/fkatana_exp"
+	"$phongwarptexture" "models/shared/phongwarp_metallic1" 
+	
+	"$phongalbedotint" "1"
+                	"$phongtint" "[0.1 0.1 0.1]"
+	
+	"$pbAmt" "120"
+
+	//"$envmapsaturation" .3
+	"$envAmt0" "0.5"
+	"$envAmt1" "0.5"
+	"$envAmt2" "0.5"
+
+	"$rimlight" 1
+	"$rimlightboost" "0.2"
+	"$rimAmt" "1"
+	$rimlightexponent  1000
+	
+	$CHARGEPASSENABLED		1
+	$CHARGENOISETEXTURE		"Engine/noise-blur-256x256"
+	//$CHARGEAMOUNT 0.3
+	$CHARGEFRESNELPULSEENABLED 1
+	
+	$CHARGESPECULARBOOST		"1"
+	$CHARGEGLOWBOOST			"1"
+	$CHARGEPULSESPEED			"8"
+	$CHARGEDARKENMAXINNER		"0.8"
+	$CHARGEDARKENMAXOUTER		"1"
+	
+	$CHARGENOISEAMOUNT			"0.75"
+	$CHARGENOISEBASESCALE		"0.1"
+	$CHARGENOISEFLOWSCALE		"0.005"
+	$CHARGENOISEFLOWSPEED		"25.0"
+	
+	$CHARGEFRESNELPOWERMIN		"0.1"
+	$CHARGEFRESNELPOWERMAX		"4"
+	$CHARGEFRESNELAMOUNTMIN		"0.4"
+	$CHARGEFRESNELAMOUNTMAX		"2"
+	$CHARGEFRESNELNOISESPEED	"4" //"20"
+	$CHARGEFRESNELNOISESCALE	"30" //0.1
+	$CHARGEFRESNELNOISEDISTANCE	"60"
+	
+	$CHARGEMODULATEBYFRESNEL	1
+
+	//"$CHARGETEXTURE"
+	//"$CHARGENORMALTEXTURE"
+	
+	$CHARGEAXISFWD				"[1 0 0]"
+	$CHARGEAXISLEFT				"[0 0 1]"
+	$CHARGEAXISUP				"[0 -1 0]"
+	"$PHONGEXPONENTTINTMASKENABLE"	1
+
+	"Proxies"
+	{
+		"PlayerTint"
+		{
+		}
+		"PlayerChargeEffect"
+		{
+			"resultvar" "$chargeamount"
+		}
+		"PlayerChargeColor"
+		{
+			"resultvar" "$chargeColor"
+		}
+	}
+}
+
+
+

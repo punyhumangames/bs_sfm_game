@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_district/Jersey_Barrier02"
+	"$bumpmap"	"models/props_district/Jersey_Barrier02_NRM"
+	"$surfaceprop" "Concrete"
+	"$normalmapalphaenvmapmask" 1	
+	"$nodiffusebumplighting" "1"	
+
+	"$model" 1
+	
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+//	"$envmapmask" "models/props_district/Jersey_Barrier02_envmask"
+
+}

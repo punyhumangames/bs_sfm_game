@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_asian/sword_rack_sword"
+	"$surfaceprop" "Metal"
+//	"$translucent" 1
+}

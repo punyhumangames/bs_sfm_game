@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal\d_metalfence"
+	//"$bumpmap" "metal\d_metalfence_n"
+	"$translucent" 1
+	"$surfaceprop" "metal"
+	//"$detail" "metal\d_metal_wall_1_detail"
+	//"$detailscale" "1"
+	//"$detailblendfactor" "0.7"
+	//"$detailblendmode" "0"
+     	//"$normalmapalphaenvmapmask" 1
+	//"$envmap" "env_cubemap"
+	//$envmapsaturation .5
+}

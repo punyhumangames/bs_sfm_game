@@ -1,0 +1,10 @@
+"unlitgeneric"
+{
+	$basetexture	"vgui/multiselect_bg"
+	
+	$vertexcolor	1
+	$vertexalpha	1
+	
+	$ignorez		1
+	$nofog			1
+}

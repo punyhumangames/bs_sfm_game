@@ -1,0 +1,29 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_monastery/arch4-1"
+>dx90
+	{
+	"$bumpmap" "models/props_monastery/arch4-1_n"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmaptint" "0.075"
+	"$normalmapalphaenvmapmask" "1"
+	"$model" 1
+
+    
+	"$phong" 1
+	"$phongboost"	"4"
+	"$phongfresnelranges"	"[0 2 4]"
+
+
+
+		"$lightwarptexture" "models/shared/lightwarp_darken"
+		"$phongalbedotint" 1
+		"$phongexponenttexture" "models/props_monastery/library_wood2_exponent"
+	}   
+<=dx90
+	{
+		"$phongexponent" 20
+	}
+}

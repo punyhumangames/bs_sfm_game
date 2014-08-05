@@ -1,0 +1,47 @@
+//"UnlitGeneric"
+//"LightmappedGeneric"
+"UnlitTwoTexture"
+ {
+	"$basetexture" "nature/ber_shorewave"
+	"$texture2" "nature/ber_shorewave"
+	 "$translucent" 1
+	// "$additive" 1
+	 "$decal" 1
+	// "$ignorez" 1
+	 "$writez" 1
+	"$basetexturetransform" "center 0 0 scale 16 1 rotate 0 translate 0 0"
+ //VARS
+
+	 "$sinecrollRateResult"	1
+
+
+	 "Proxies"
+	 {
+		 "Sine"
+		 {
+			 "resultVar"	"$sinecrollRateResult"
+			 "sineperiod"	3
+			 "sinemin"	0
+			 "sinemax"	1
+		 }
+
+		 "TextureScroll"
+		 {
+			 "centerVar" 0 0
+			 "scaleVar" 1 1
+			 "rotateVar" 0
+			 //"translateVar" 0 0
+			 "texturescrollvar" "$basetexturetransform"
+			 "texturescrollrate" 0
+			 "texturescrollangle" 90
+		 }
+
+		 "TextureScroll"
+		 {
+			 "texturescrollvar" "$texture2transform"
+			 "texturescrollrate" .32
+			 "texturescrollangle" 90
+		 }
+		}
+
+// }

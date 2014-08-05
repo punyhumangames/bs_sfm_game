@@ -1,0 +1,13 @@
+"unlitgeneric"
+{
+	$basetexture	"particle/particle_glow_cue"
+	$translucent	1
+	$additive		1
+	
+	$vertexcolor	1
+	$vertexalpha	1
+	
+	$ignorez		1
+	$nofog			1
+	$linearwrite	1
+}

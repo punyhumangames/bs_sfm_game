@@ -1,0 +1,13 @@
+"Lightmappedgeneric"
+{
+	"$basetexture" "tutorial/tri_rock"
+
+//	"$bumpmap" "tutorial/tri_rock_normal"
+	"$bumpmap" "tutorial/tri_rock_ssbump"
+	"$ssbump" 1
+	"$ssbumpmathfix" 1
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$color" "[10.5 10.5 10.5]"
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/canvas_sack_rope_diffuse"
+	"$surfaceprop" "WoodWood_Lowdensity"
+
+>dx90
+	{
+		"$bumpmap" "models/props_monastery/canvas_sack_rope_normal"
+	}
+}

@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/blackPine_bark_diffuse"
+	"$surfaceprop" "Wood_Solid"
+	"$model" 1
+>dx90
+	{
+		"$lightwarptexture" "models/shared/lightwarp_lighten"
+	"$bumpmap" "models/props_winter/blackPine_bark_normal"
+	}
+
+}

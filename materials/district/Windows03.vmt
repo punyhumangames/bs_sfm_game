@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 	"district\Windows03"
+	
+	"$selfillum" 1
+//	"$bumpmap" 	"district\Building01_nrm"
+//	"$envmap" "env_cubemap"
+//    "$normalmapalphaenvmapmask" 1
+}

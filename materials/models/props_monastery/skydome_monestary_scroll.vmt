@@ -1,0 +1,46 @@
+VertexLitGeneric
+{
+	$basetexture models\props_monastery\skydome_monestary_scroll_diffuse
+//	$bumpmap models\props_monastery\skydome_monestary_scroll_normal_2
+//	"$lightwarptexture" models\props_monastery\skydome_lw
+//	"$rimlight" 1
+	"$scroll" "[22.2 54.73]"	
+
+
+	$translucent 1
+	"Proxies"
+	{
+
+		"TextureScroll"
+			{
+				"texturescrollvar" "$basetexturetransform"
+				"texturescrollrate" 0.0075
+				"texturescrollangle" 32
+			}
+		"Sine"
+		{
+			"resultVar"	"$color[0]"
+			"sineperiod"	0
+			"sinemin"	2.5
+			"sinemax"	2.5
+		}
+		"Sine"
+		{
+			"resultVar"	"$color[2]"
+			"sineperiod"	0
+			"sinemin"	0.5
+			"sinemax"	0.5
+		}
+		"Sine"
+		{
+			"resultVar"	"$alpha"
+			"sineperiod"	0
+			"sinemin"	0.85
+			"sinemax"	0.85
+		}
+
+
+	}
+
+}
+

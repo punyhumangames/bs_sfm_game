@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/swordshrine_sword"
+	"$bumpmap" "models/props_monastery/swordshrine_sword_normal"
+	"$surfaceprop" "metal"
+}

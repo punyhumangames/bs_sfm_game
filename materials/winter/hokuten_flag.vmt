@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/phalanx/phalanx"
+	"$normalmapalphaenvmapmask" "1"
+	"$bumpmap" "models/phalanx/phalanx_normal"
+	$nocull 1
+}
+

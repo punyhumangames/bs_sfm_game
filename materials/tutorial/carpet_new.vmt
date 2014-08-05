@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "tutorial/carpet_new"
+	"$bumpmap" "tutorial/carpet_new_normal"
+	"$surfaceprop" "carpet"
+}

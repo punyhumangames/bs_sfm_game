@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/props_winter/waterfallPillarSupport_diffuse"
+	"$surfaceprop" 	"Stone"
+	"$bumpmap" 		"models/props_winter/waterfallPillarSupport_normals"    
+>dx90
+	{
+		"$lightwarptexture" "models/shared/lightwarp_lighten"
+	}
+
+}

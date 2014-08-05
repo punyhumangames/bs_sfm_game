@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "district\MetalDoor01"
+	"$surfaceprop" "metal"
+	"$envmapsaturation" .5
+	"$translucent" 1
+
+}

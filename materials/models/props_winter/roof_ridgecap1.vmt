@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_winter/roof_ridgecap1"
+	"$surfaceprop" "Concrete"
+
+	"$model" 1
+
+}

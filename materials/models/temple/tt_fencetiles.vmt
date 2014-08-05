@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	//"$detail" "models/temple/temple_template_aa"
+	"$basetexturetransform" "center 0 1 scale 32 32 rotate 0 translate 0 0"
+	"$basetexture" "models/temple/tt_tiles"
+	//"$detailblendmode" "0"
+	//"$detailblendfactor" 1
+	//"$detailscale" 1
+	//"$basetexturetransform" "center 0 1 scale 32 32 rotate 0 translate 0 0"
+	//"$detail" "models/temple/rock_shared"
+	"$envmap" "env_cubemap"
+	//"$envmaptint" "[0.035 0.05 0.035]"
+	"$normalmapalphaenvmapmask" 1
+	//"$detailblendmode" "2"
+	"$phong" "1"
+	"$phongexponent" 5						
+	"$phongfresnelranges"	"[.5 1 0]"
+	"$phongboost" "10"
+	"$phongexponenttexture" "models/shared/albedotint"
+	"$phongalbedotint" "1"								
+	"$lightwarptexture" "models/shared/lightwarp_darken3"
+	>dx90
+	{
+		"$bumpmap" "models/temple/tt_tiles_n"
+		//"$basetexturetransform" "center .5 .5 scale 4 4 rotate 0 translate 0 0"
+		"$lightwarptexture" "models/shared/lightwarp_darken3"
+	}
+}

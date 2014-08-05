@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/courtyard_trees"
+	"$surfaceprop" "Grass"
+	"$alphatest" 1
+	"$alphatestreference" 0.006
+	"$nocull" 1
+	"$translucent" 1
+}

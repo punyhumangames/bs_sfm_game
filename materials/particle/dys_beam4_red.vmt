@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTextureAlphaBlend
+	"$additive" 1
+	"$basetexture" "particle/dys_beam4_red"
+	$vertexcolor 1
+	$vertexalpha 1
+	//$nocull 1
+}

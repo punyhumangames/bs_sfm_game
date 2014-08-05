@@ -1,0 +1,60 @@
+"unlitTwoTexture"
+{
+	"$basetexture"  "models/tracemodels/sword_tracer_stab3"
+	"$texture2" "models/tracemodels/sword_tracer_stab_mask"
+	"$additive" 1
+	"$nocull" 1
+	"$model" 1
+	"$textureScroll" "[1 0]"
+	
+	"$color" 1
+	
+	$initialUV_Y 0.3
+	$lifeFrac 0
+	$lifeFracScale 0.75
+
+	"Proxies" 
+	{
+		"AnimatedTexture" 
+		{ 
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "24" 
+		}
+		"LinearRamp"
+		{
+			"rate" "5"
+			"initialValue" "1"
+			"resultvar" "$textureScroll[0]"
+		}
+		"TracerModelLifetime"
+		{
+			"resultVar" "$lifeFrac"
+		}
+		"Subtract"
+		{
+			"srcVar1" "$color"
+			"srcVar2" "$lifeFrac"
+			"resultVar" "$color"
+		}
+		"Multiply"
+		{
+			"srcVar1" "$lifeFrac"
+			"srcVar2" "$lifeFracScale"
+			"resultvar" "$lifeFrac"
+		}
+		"Subtract"
+		{
+			"srcVar1" "$initialUV_Y"
+			"srcVar2" "$lifeFrac"
+			"resultvar" "$textureScroll[1]"
+		}
+		"TextureTransform"
+		{
+			"translateVar" "$textureScroll"
+			"rotateVar" "[0 0]"
+			"centerVar" "[0.5 0.5]"
+			"resultVar" "$baseTextureTransform"
+		}
+    } 
+}

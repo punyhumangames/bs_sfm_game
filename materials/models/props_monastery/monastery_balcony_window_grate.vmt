@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models\props_monastery\monastery_balcony_window_grate_diffuse"
+	"$surfaceprop" 				"metal"
+	"$normalmapalphaenvmapmask" "1"
+	"$bumpmap" 			"models\props_monastery\monastery_balcony_window_grate_normal"
+	"$alphatest"		1
+	"$envmap" 					"env_cubemap"
+	"$envmapcontrast" 0.2 
+	"$envmapsaturation" 0.8
+	"$envmaptint" "[ .0 .2 .3 ]" 
+}

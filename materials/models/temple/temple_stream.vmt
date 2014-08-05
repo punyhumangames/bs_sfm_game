@@ -1,0 +1,17 @@
+"Unlitgeneric"
+{
+	"$basetexture"	"models/temple/temple_stream"
+	"$translucent"	1
+	"$nocull"	1
+    //"$decal"	1
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" .29
+			"texturescrollangle" 90.00
+		}
+	}
+}

@@ -1,0 +1,23 @@
+"Patch"
+{
+	include "materials/models/shared/characters.vmt"
+	insert
+	{
+		"$basetexture" "models/bladelogo/bladelogo"
+		"$bumpmap" "models/shared/n_flat"
+
+		"$envmaptint" "[0.2 0.2 0.2]"
+
+		//"$selfIllumFresnel" "1"
+		//"$selfIllumFresnelMinMaxExp" "[0 5 10]"
+		//"$selfillumtint"	"[0 32 64]"
+		//$selfillumtintdiffusemodulation		1
+        
+		"$phongexponenttexture" "models/shared/albedotint"
+		"$phongboost"	"5"
+		"$phongfresnelranges"	"[1 2 5]"
+		"$phongwarptexture" "models/shared/phongwarp_metallic1"
+		"$CHARGETEXTURE"      "models/phalanx/dragoon_charge"
+		"$CHARGENORMALTEXTURE"		"models/phalanx/dragoon_normal"
+	}
+}

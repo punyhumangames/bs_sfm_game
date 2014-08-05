@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "community_common/com_concrete_outer3"
+	"$basetexturetransform" "center .5 .5 scale 8 8 rotate 0 translate 0 0"
+	"$detail" "models/props_community/shopping_roof2"
+	"$detailblendmode" 0
+	"$detailscale" 1
+	"$surfaceprop" "Concrete"
+}

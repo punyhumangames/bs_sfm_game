@@ -1,0 +1,58 @@
+"Water"
+{
+
+	"%compilewater" 		"1"
+	"%tooltexture" 			"nature/temple_water"
+	"$surfaceprop" 			"water"
+//	"$vertexfog"			"1"
+//	"$reflect2dskybox" 		"1"
+	"$forceexpensive" 		"1"
+	"$normalmap" 			"nature/temple_water"
+	"$envmap" 				"env_cubemap"
+	"$scroll1"				".025 .025"
+	"$scroll2"				".04 .04"
+//RedCh:	White=Left Black=Right
+//GreenCh:	White=Up Black=Down
+
+//	"$flowmap" 			"nature/temple_flowmap"
+//	"$flow_normaluvscale" 		"1555.0"
+//	"$flow_worlduvscale" 		"1"
+//	"$flow_timeintervalinseconds" 	"11.2" 	// Amount of time before the change happens
+//	"$flow_uvscrolldistance" 	"0.875" // Stretch of UV Distance before change over to second set of flow
+//	"$flow_bumpstrength" 		"0.3"
+//	"$flow_timescale" 		"0.45"
+
+//	"$flow_noise_texture" 		"nature/temple_flownoise"
+//	"$flow_noise_scale" 		"0.0002"
+
+//	"$flow_debug" 			"1"
+
+	"$reflecttexture" 		"_rt_WaterReflection"
+	"$refracttexture" 		"_rt_WaterRefraction"
+	"$reflectamount" 		".5"
+	"$refractamount" 		".6"
+	"$reflecttint" 			"{ 190 190 190 }"
+//	"$reflect2dskybox" 		"1"
+	"$reflectentities" 	"1"
+
+	"$abovewater" 			"1"
+	"$bottommaterial" 		"nature/temple_water_under"
+
+	"$fogenable" 			"1"
+	"$fogstart" 			"0"
+	"$fogend" 			"4096"
+	"$fogcolor" 			"{10 14 12}"
+//	"$fogcolor" 			"{9 10 9}"
+//	"$fogcolor" 			"{25 26 31}"
+//	"$flashlighttint" 		"0"
+	"$lightmapwaterfog" 		"1"
+	"$forcefresnel"			"1"	
+//	"$recieveflashlight"		"1"
+	"$depth_feather"		"1"
+	// pseudo-translucent water only gets used on platforms which disable refract (as a cheaper substitute for refractive water)
+//	"$pseudotranslucent" 		"1"
+	"$waterblendfactor" 		".4"
+	"$basereflectance"		"0.00"
+	"$maxreflectance"		"1"
+	"$fresnelpower"			"5"
+}

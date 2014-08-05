@@ -1,0 +1,24 @@
+"vertexlitgeneric"
+{
+	"$model" 1
+	"$envmap" "env_cubemap"
+	"$selfillum" 1
+	"$selfillummask" "models/props_community/com_door1_illum"
+	"$selfillumtint" "[ 1 0 0]"
+	"$basetexture" "models/props_community/com_door1"
+	"$bumpmap"	"models/props_community/com_door1_nrm"
+	//"$phongexponenttexture" models/props_community/com_railbar1_exp
+	"$surfaceprop" "metal"
+	"$normalmapalphaenvmapmask" "1"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	//$rimlightexponent  1000
+	"$phong" 1
+	"$phongfresnelranges"	"[0.5 1 3]"
+	"$phongexponent" 35
+	"$phongboost" "5"
+		"$envmapsaturation" ".33"
+	"$envmapcontrast" ".5"
+	"$envmaptint" "[ .25 .25 .25 ]"
+}

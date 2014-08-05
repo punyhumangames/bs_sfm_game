@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "signs\KickstarterLogo04"
+	"$surfaceprop" "plastic"
+	"$selfillum" 1
+}

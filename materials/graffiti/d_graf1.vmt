@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	graffiti\d_graf1
+	$decal		1
+	$decalscale	.75
+	$translucent	1
+}

@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	$basetexture	"vgui/closebutton"
+	$translucent	1
+	
+	$ignorez		1
+	$nofog			1
+	$linearwrite	1
+}

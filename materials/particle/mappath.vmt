@@ -1,0 +1,21 @@
+"UnlitTwoTexture"
+{
+    	"$nocull" "1"
+	"$basetexture" "particle/mappath_noise_arrow"
+	"$texture2" "particle/mappath_mask"
+	"$additive" "1"
+	"UnlitTwoTexture_HDR_DX9"
+	{
+	       "$color" "[0.7 0.7 0.7]" 
+	}
+
+	//"Proxies"
+	//{
+	//	"TextureScroll"
+	//	{
+	//		"texturescrollvar" "$basetexturetransform"
+	//		"texturescrollrate" .75
+	//		"texturescrollangle" 180
+	//	}
+	//}
+}

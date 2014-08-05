@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/winebottle_diffuse"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/props_community/winebottle_spec"
+	"$envmaptint" "[0.35 0.25 0.25]"
+
+	"$phong" 1
+	"$phongexponent" 50
+	"$phongfresnelranges"	"[0.5 1 3]"
+	"$phongboost" "4"
+	"$rimlight" 10
+	"$rimlightexponent" 2
+	"$rimlightboost" .2
+
+} 
+

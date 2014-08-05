@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/skybox_barn"
+	"$surfaceprop" "Wood_Solid"
+}

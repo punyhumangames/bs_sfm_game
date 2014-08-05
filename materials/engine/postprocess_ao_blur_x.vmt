@@ -1,0 +1,6 @@
+"bbaoblur"
+{
+	$basetexture		_rt_AOHalf
+	$DEPTHTEXTURE		_rt_depthHalf
+	$vertical_blur 0
+}

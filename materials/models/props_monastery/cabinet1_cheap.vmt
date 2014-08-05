@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/cabinet1"
+	"$bumpmap" "models/props_monastery/cabinet1_n"
+
+	"$surfaceprop" "wood"
+	"$model" 1
+
+	"$phong" 1
+	"$phongexponent" 5
+	"$phongboost"	"16"
+	"$phongfresnelranges"	"[1 3 8]"
+}

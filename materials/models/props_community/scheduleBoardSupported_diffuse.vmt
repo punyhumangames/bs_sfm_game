@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/scheduleBoardSupported_diffuse"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models/props_community/scheduleBoardSupported_normals"
+	"$surfaceprop" "metal" 
+	"$normalmapalphaenvmapmask" "1"
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimlightexponent"  1
+	"$phong" 1
+	"$phongfresnelranges"	"[1  1 0.5]"
+	//"$phongexponent" "100"
+	"$phongboost" "1"
+	"$envmapsaturation" ".33"
+	"$envmapcontrast" ".5"
+	"$phongexponenttexture" "models/props_community/scheduleBoardSupported_exponent"
+	"$envmaptint" "[.6 .6 .6]"
+	"$selfillum" "1"
+	//"$selfillummask" "models/props_community/scheduleBoardSupported_selfillum"
+
+"Proxies"
+{
+	"AnimatedTexture"
+	{
+		"animatedTextureVar" "$basetexture"
+		"animatedTextureFrameNumVar" "$frame"
+		"animatedTextureFrameRate" "5"
+	}
+}
+}

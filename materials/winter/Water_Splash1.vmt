@@ -1,0 +1,20 @@
+"Refract"
+{
+	"$normalmap" "winter/Water_Splash1_n"
+
+	"$RefractTexture" _rt_WaterRefraction
+	"$ReflectTexture" _rt_WaterReflection
+
+
+ 	"$refractamount" 0.5
+	"$reflectamount" 0.9
+
+	"$vertexalpha" "1"
+	"$vertexcolor" "1"
+//	"$translucent" "1"
+	"$forcerefract" 1
+ 	"$bluramount" "1"
+	"$nofog" "1"
+	"$vertexcolormodulate" "1"
+
+}

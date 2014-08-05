@@ -1,0 +1,14 @@
+"unlitgeneric"
+{
+"$basetexture" "models/props_community/com_bigscreen_screen3"
+"$translucent" 1
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" ".1"
+}
+}
+}

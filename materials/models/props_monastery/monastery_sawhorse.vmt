@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/monastery_sawhorse_diffuse"
+//	"$bumpmap" "models/props_monastery/monastery_sawhorse_normal"
+	"$nodecal" "1"
+}

@@ -1,0 +1,25 @@
+//"UnlitGeneric"
+//"LightmappedGeneric"
+"UnlitTwoTexture"
+ {
+	"$basetexture" "models/blades/sonia/sonia_glow"
+	"$texture2" "models/blades/sonia/sonia_glow"
+	//"$translucent" 1
+	//$nocull" 1
+ //VARS
+"Proxies"
+ "TextureScroll"
+{
+		{
+			 "texturescrollvar" "$basetexturetransform"
+			 "texturescrollrate" 1
+			 "texturescrollangle" 90
+		 }
+		 "TextureScroll"
+		 {
+			 "texturescrollvar" "$texture2transform"
+			 "texturescrollrate" 2
+			 "texturescrollangle" 270
+		 }
+		}
+		

@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/winterLog"
+>dx90
+	{
+	"$bumpmap" "models/props_winter/winterLog_normal"
+	"$envmap"			"env_cubemap"
+	"$envmapmask"		"models/props_winter/winterLog_spec"
+	//"$normalmapalphaenvmapmask" "1"
+	}
+	"$surfaceprop" "wood"
+	"$model" "1"
+
+}

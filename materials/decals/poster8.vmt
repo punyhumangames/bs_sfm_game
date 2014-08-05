@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	decals\poster8
+	$decal		1
+	$decalscale	.25
+	$translucent	1
+}

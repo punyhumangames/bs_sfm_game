@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/door_108x96_clean"
+	"$bumpmap" "models/props_winter/door_108x96_n"
+	"$surfaceprop" "Default"
+	"$model" 1
+	"$selfillum" 1
+}

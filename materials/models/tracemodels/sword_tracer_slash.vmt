@@ -1,0 +1,17 @@
+"vertexlitgeneric"
+{
+	"$model" 1
+	"$basetexture"  "models/tracemodels/sword_tracer_slash"
+
+	$additive 1
+
+	"Proxies" 
+     { 
+         "AnimatedTexture" 
+         { 
+            "animatedTextureVar" "$basetexture" 
+            "animatedTextureFrameNumVar" "$frame" 
+            "animatedTextureFrameRate" "24" 
+         }
+     } 
+}

@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/props_community/mod2_wall"
+	"$bumpmap" "models/props_community/mod2_wall_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	"$reflectivity" "[ .75 .75 .75 ]" 
+	"$envmapsaturation" ".33"
+	"$envmapcontrast" ".5"
+	"$envmaptint" "[ .75 .75 .75 ]"
+	"$envmap"	"env_cubemap"
+}

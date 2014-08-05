@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	$basetexture	"vgui/icon_locked"
+	$translucent	1
+	$ignorez		1
+	$nofog			1
+}

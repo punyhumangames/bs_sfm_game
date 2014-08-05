@@ -1,0 +1,18 @@
+"unlitgeneric"
+{
+    	"$nocull" "1"
+	"$basetexture" "particle/mappath_beam"
+	//"$texture2" "particle/mappath_ring"
+	"$additive" "1"
+	$vertexcolor 1
+	$vertexalpha 1
+	//"Proxies"
+	//{
+//		"TextureScroll"
+//		{
+//			"texturescrollvar" "$basetexturetransform"
+//			"texturescrollrate" .75
+//			"texturescrollangle" 180
+//		}
+//	}
+}

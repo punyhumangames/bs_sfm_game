@@ -1,0 +1,26 @@
+"lightmappedreflective"
+{
+	"%tooltexture" "dev/dev_normal"
+//	"$basetexture" "dev/reflectflat"
+//	"$envmapmask"
+//	"$basealphaenvmapmask"
+//	"$envmapcameraspace"
+
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" "0"
+	"$refracttint" "[.25 .25 .25]"
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" "0"
+	"$reflecttint" "[1 1 1]"
+
+	"$fresnelpower" "5"
+	"$minreflectivity" "0"
+	"$maxreflectivity" "0.25"
+
+	"$normalmap" "dev/reflectflat_n"
+
+	"$surfaceprop" "glass"
+	"$bumpframe" "0"
+}
+

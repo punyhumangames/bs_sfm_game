@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Tilefloor/marble_blackrose"
+   	 "$surfaceprop" "tile"
+	 "$bumpmap" 		"Tilefloor/marble_blackrose_normal"
+	"%keywords" "berimbau"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+//	"$envmaptint" "3"
+	"$color" "[0.7 0.72 0.7]"
+}
+

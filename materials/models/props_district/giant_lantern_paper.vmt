@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_district/giant_lantern_paper"
+	"$bumpmap"	"models/props_district/giant_lantern_paper_normal"
+	"$surfaceprop" "paper"
+	"$model" "1"
+	
+	"$selfillum" "1"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[.8 5 8]" 
+	"$selfillumtint"	"[1 1 1]"
+		
+	//"$lightwarptexture" "models/props_district/giant_lantern_paper_lightwarp"
+	//"$envmap" "env_cubemap"
+	//"$normalmapalphaenvmapmask" 1
+	//"$envmaptint" "[2 1.5 1]"
+	
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".1"
+	"$phongfresnelranges" "[0 0 0]"
+}

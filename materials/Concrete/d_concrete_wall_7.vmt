@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "concrete\d_concrete_wall_7"
+	"$bumpmap" "concrete\d_concrete_wall_7n"
+     	"$normalmapalphaenvmapmask" 1
+     	//"$envmapcontrast" 1 makes tighter reflections and more contrasty
+	"$surfaceprop" "concrete"
+	"$detail" "concrete\d_concrete_wall_1_detail"
+	"$detailscale" "7.74"
+	"$detailblendfactor" "0.8"
+	"$detailblendmode" "0"
+	"$envmapsaturation" 1
+	"$envmapcontrast" 1
+	"$envmaptint" "[ .56 .56 .56 ]"
+}

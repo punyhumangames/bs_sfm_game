@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/lantern1_post"
+	"$bumpmap" "models/props_winter/lantern1_post_normal"
+	"$surfaceprop" "concrete"
+	"$nocull" 0
+	
+	//"$envmap" "env_cubemap"
+//	"$envmapsaturation" "0.5"
+//	"$envmapcontrast" "0.5"
+	//"$envmaptint" "[0.3 0.35 0.43]"
+
+	//"$normalmapalphaenvmapmask" "1"
+
+	"$model" 1
+         
+	//"$phong" 1
+	//"$phongexponenttexture" "models/props_winter/wallPanel1_exp"
+//	"$phongalbedotint" 1
+	//"$phongboost"	"2"
+	//"$phongfresnelranges"	[2 3 7]
+}

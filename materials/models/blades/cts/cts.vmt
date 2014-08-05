@@ -1,0 +1,14 @@
+"Patch"
+{
+	include "materials/models/shared/swords.vmt"
+	insert
+	{
+	"$basetexture" "models/blades/cts/cts"
+	"$bumpmap" "models/blades/cts/cts_n"
+
+	"$model" 1
+
+	"$rimlight" 1
+	"$rimlightboost" "10"
+	}
+}

@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	"$basetexture" "vgui/charskins/phalanx_0"
+	$vertexcolor	1
+	$vertexalpha	1
+	
+	$ignorez		1
+	$nofog			1
+}

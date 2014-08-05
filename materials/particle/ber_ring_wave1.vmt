@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$basetexture" "particle\ber_ring_wave1"
+	$translucent 1
+	$DEPTHBLEND 1
+}

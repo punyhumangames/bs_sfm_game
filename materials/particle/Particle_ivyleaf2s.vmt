@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\props_monastery\ivyleaf2s"
+	$vertexcolor 1
+	$vertexalpha 1
+	$translucent 1
+//	$Additive 1
+}

@@ -1,0 +1,35 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_monastery/buttresses_d"
+
+	"$basetexturetransform" "center .5 .5 scale 5 5 rotate 0 translate 0 0"
+	"$detail" "models/props_monastery/buttresses_lm"
+	"$detailscale" 1
+
+>dx90
+	{
+
+	"$bumpmap" "models/props_monastery/buttresses_d_normal"
+//	"$nodecal" "1"
+
+
+
+	
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.035 0.05 0.035]"
+	"$normalmapalphaenvmapmask" 1
+
+
+	"$phong" "1"
+	"$phongexponent" 20						
+	"$phongfresnelranges"	"[.5 1 0]"
+
+
+	"$phongboost" "30"
+	"$phongexponenttexture" "models/shared/albedotint"
+	"$phongalbedotint" "1"								
+	"$lightwarptexture" "models/shared/lightwarp_darken3"
+	}
+
+}

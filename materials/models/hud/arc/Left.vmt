@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "models/hud/arc/Left"
+	"$selfillum" "1"
+	"$surfaceprop" "metal"
+	"$model" 1
+}

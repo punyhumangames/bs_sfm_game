@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture	decals\dojo_floor_grime_3
+	$decal		1
+//	$decalscale	.25
+	$translucent	1
+}

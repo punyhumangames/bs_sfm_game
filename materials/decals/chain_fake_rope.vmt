@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/chain_fake_rope"
+   	"$surfaceprop" "metal"
+	"$nocull" 1
+ 	"$translucent" 1
+}

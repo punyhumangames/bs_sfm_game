@@ -1,0 +1,8 @@
+"Sprite"
+{
+	$nosrgb 1
+	"$spriteorientation" "vp_parallel"
+	"$spriteorigin" "[0.5 0.5]"
+	"$basetexture" "sprites/lampglow2"
+	"$spritescale" 100
+}

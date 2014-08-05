@@ -1,0 +1,10 @@
+//"UnlitGeneric"
+//"LightmappedGeneric"
+"Unlitgeneric"
+ {
+	"$basetexture" "models/blades/caduceus/caduceus_glow"
+	 "$translucent" 1
+	 "$nocull" 1
+}
+
+// }

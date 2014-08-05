@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_dojo/lionstatue1"
+	"$bumpmap" "models/props_dojo/lionstatue_normal"
+}

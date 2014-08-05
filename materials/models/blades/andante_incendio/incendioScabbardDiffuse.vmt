@@ -1,0 +1,39 @@
+"Patch"
+{
+	include "materials/models/shared/swords.vmt"
+	insert
+	{
+
+	"$basetexture" "models/blades/andante_incendio/incendioScabbardDiffuse"
+	"$bumpmap" "models/blades/andante_incendio/incendioScabbard_normal"
+
+	"$model" "1"
+	"$nocull" "1"
+	"$surfaceprop" "Metal"
+	"$normalmapalphaenvmapmask" "1"
+
+
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" ".1 .5 .5"
+	"$envmapcontrast" "0.5"
+	"$envmapmask" "models/blades/andante_incendio/incendioScabbard_spec"
+	"$envmaptint" "[0.5 0.5 0.5]"
+
+	"$rimlight" "1"
+	"$rimlightboost" "5"
+   
+	"$phong" "1"
+	"$phongalbedotint" "0"
+	"$phongfresnelranges"	"[0.9 0.5 0.5]"
+	"$phongwarptexture" "models/shared/phongwarp_metallic1"
+	"$phongboost" "2"
+
+	"$selfillummask" "models/blades/andante_incendio/incendioScabbardGlow"
+	"$selfillum" "1"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[0 2 6]"
+	"$selfillumtint"	"[1 1 1]"
+	}
+}

@@ -1,0 +1,14 @@
+"WorldVertexTransition"
+{
+    	
+	"$basetexture" "snow/snow_003"
+   	"$basetexture2" "winter/snow01"
+	"$surfaceprop" "snow"
+	"$surfaceprop2" "snow"
+	"$bumpmap" "snow/snow_003_n"
+//	"$bumpmap2" "winter/snow01_normal"
+//                 "$basetexturetransform2" "center 0 0 scale 2 2 rotate 0 translate 0 0"
+	"$lightwarptexture" "snow\snow_warptexture"
+
+	"%keywords" "berimbau"
+}

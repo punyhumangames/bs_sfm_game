@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+    	
+   	"$basetexture" "grass/grass_05"
+   	"$basetexture2" "stonefloor/stone_floor_01"
+	"$surfaceprop" "grass"
+	"$surfaceprop2" "concrete"
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+        "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 10 translate 0 0"
+	"%keywords" "berimbau"
+}

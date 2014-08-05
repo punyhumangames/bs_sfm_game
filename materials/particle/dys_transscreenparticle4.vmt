@@ -1,0 +1,10 @@
+"Unlittwotexture"
+{
+	"$basetexture" "_rt_camera4"
+	"%tooltexture" "dev/dev_monitor"
+	"$surfaceprop" "glass"
+	"$additive" "1"
+	"$texture2"	"particle/dys_transscreenparticle"
+	$vertexcolor 1
+	$vertexalpha 1
+}

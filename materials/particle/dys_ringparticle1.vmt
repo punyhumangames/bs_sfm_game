@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTextureAlphaBlend
+	"$additive" 1
+	"$basetexture" "particle/dys_ringparticle1"
+	$vertexcolor 1
+	$vertexalpha 1
+}

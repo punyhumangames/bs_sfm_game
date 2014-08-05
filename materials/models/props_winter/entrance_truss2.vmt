@@ -1,0 +1,9 @@
+//Spire - normal map from this model, its not needed, also want to use per-vertex lighting.
+
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_winter/entrance_truss2"
+//	"$bumpmap" "Wood/wood_06a"
+	"$surfaceprop" "Wood_Solid"
+	"$model" 1
+}

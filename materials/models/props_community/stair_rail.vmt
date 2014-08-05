@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_community/stair_rail"
+	"$envmap" "env_cubemap"
+	"$bumpmap"	"models/shared/n_flat"
+	"$surfaceprop" "metal"
+	"$normalmapalphaenvmapmask" "1"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	"$rimlight" "1"
+	"$rimlightboost" "1"
+	"$rimlightexponent" "1"
+	"$phong" 1
+	"$phongfresnelranges"	"[0.5 1 3]"
+	"$phongexponent" 50
+	"$phongboost" "1"
+	"$envmapsaturation" ".33"
+	"$envmapcontrast" ".5"
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models/props_community/stair_rail_exponent"
+	"$envmaptint" "[.5 .5 .5]"
+}

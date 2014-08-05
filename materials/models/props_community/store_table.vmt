@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture"  "models/props_community/store_table"
+	"$bumpmap" 		"models/props_community/store_table_nrm"
+	"$normalmapalphaenvmapmask" 1	
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+	
+	"$surfaceprop" "metal"	
+	"$model" 1
+	
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmaptint" "[.5 .5 .5]"
+	
+	"$phong" 1
+	"$phongboost"	"30"	
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[0.05 2 1]"
+//	"$phongexponenttexture" "models/props_community/store_table_exp"
+}

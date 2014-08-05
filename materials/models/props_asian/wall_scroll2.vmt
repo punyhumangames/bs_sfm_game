@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_asian/wall_scroll2"
+	"$surfaceprop" "Default"
+	"$alphatest" 1
+	"$nocull" 1
+}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_asian/pot_plant2"
+	"$surfaceprop" "Tile"
+	"$alphatest" 1
+	"$nocull" 1
+}

@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\props_tutorial/shoji_2"
+	"$surfaceprop" "wood"
+	"$bumpmap" "models\props_tutorial/shoji_default_spec_normal"
+	"$translucent" 1	
+	"$nocull" 1
+}

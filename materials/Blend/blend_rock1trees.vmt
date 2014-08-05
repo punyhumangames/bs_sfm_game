@@ -1,0 +1,25 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "blend/blend_templesky_rock1"
+	"$basetexture2" "blend/blend_templesky_grass2"
+	"$bumpmap" "blend/blendmod_templesky_nrm"
+	"$bumpmap2" "blend/blendmod_templesky_nrm"
+	"$detail" "blend/blendmod_templesky_aa"
+	//"$basetexture" "blend/blendmod_templesky"
+	//"$basetexture2" "blend/blendmod_templesky"
+	//"$blendmodulatetexture" "blend/blendmod_templesky"
+	//"$detail_alpha_mask_base_texture" 1
+	//"$detailblendfactor" .8
+	//"$bumptransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+	"$lightwarptexture" "models/shared/lightwarp_darken3"
+	"$bumptransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+	"$basetexturetransform" "center .5 .5 scale 64 64 rotate 0 translate 0 0"
+	"$basetexturetransform2" "center .5 .5 scale 128 128 rotate 0 translate 0 0"
+	"$detailscale" 1
+	"$detailblendmode" 0
+	//$blendmasktransform "center .5 .5 scale 1 1 rotate 90 translate 0 0"
+	//$seamless_scale 0.0020
+	//"%detailtype" "wheatfield"
+	"$surfaceprop" "dirt"
+	"%keywords" "berimbau"
+}

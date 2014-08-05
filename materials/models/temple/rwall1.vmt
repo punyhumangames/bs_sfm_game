@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/temple/rwall1"
+	"$bumpmap" "models/temple/rwall1_normal"
+//	"$basetexture" "models/temple/topstones2"
+//	"$bumpmap" "models/temple/topstones_normal2"
+}

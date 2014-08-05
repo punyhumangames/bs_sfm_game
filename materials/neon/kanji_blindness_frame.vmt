@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"neon\kanji_blindness_frame"
+	"$surfaceprop"	"metal"
+	"$translucent"	1
+}

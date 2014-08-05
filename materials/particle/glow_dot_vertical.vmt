@@ -1,0 +1,12 @@
+"unlitgeneric"
+{
+	// Original shader: BaseTimesVertexColorAlphaBlend
+	//"$additive" 1
+	//"$overbrightfactor" .75
+	"$translucent" 1
+	"$basetexture" "particle/glow_dot_vertical"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	//"$depthblend" 1
+	//"$depthblendscale" 50
+}

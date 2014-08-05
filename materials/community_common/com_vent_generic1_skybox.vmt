@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture community_common/com_vent_generic1
+	$decal		1
+	$decalscale	0.015625
+	$translucent	1
+}

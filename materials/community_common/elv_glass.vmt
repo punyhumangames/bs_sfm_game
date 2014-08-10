@@ -8,8 +8,8 @@ $envmaptint "[ .75 1 2 ]"
 $envmapcontrast 1
 $surfaceprop glass
 $translucent 1
-$fresnelreflection 350
+//$fresnelreflection 350
 $nocull 1
-"srgb?$alpha" ".5"
+//"srgb?$alpha" ".5"
 }
 

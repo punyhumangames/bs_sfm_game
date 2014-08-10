@@ -1,0 +1,80 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/attachments/capes/chameleoncape"
+	"$bumpmap" "models/attachments/capes/chameleoncape_normal"
+	"$envmaptint" "[0.05 0.05 0.05]"
+	"$lightwarptexture" "models/shared/lightwarp_darken"
+
+	"$envmap" "env_cubemap"
+	"$envmapsaturation" "0.1"
+	"$envmapcontrast" "0.2"
+	//"$basealphaenvmapmask" "1"
+	
+	"$nocull" "1"
+
+	$phong 1
+	$FORCEPHONG 1
+	"$phongboost"	"10"
+	//"$phongalbedotint" 1
+	"$phongfresnelranges"	"[0.01 0.05 0.4]"
+	//$BASEMAPLUMINANCEPHONGMASK 1
+	
+	"$rimlight" 1
+	"$rimlightboost" 1
+	"$rimlightexponent" 400
+	
+	$CHARGEPASSENABLED		1
+	$CHARGENOISETEXTURE		"Engine/noise-blur-256x256"
+	//$CHARGEAMOUNT 0.3
+	$CHARGEFRESNELPULSEENABLED 1
+	
+	$CHARGESPECULARBOOST		"1"
+	$CHARGEGLOWBOOST			"1"
+	$CHARGEPULSESPEED			"8"
+	$CHARGEDARKENMAXINNER		"0.8"
+	$CHARGEDARKENMAXOUTER		"1"
+	
+	$CHARGENOISEAMOUNT			"0.75"
+	$CHARGENOISEBASESCALE		"0.1"
+	$CHARGENOISEFLOWSCALE		"0.005"
+	$CHARGENOISEFLOWSPEED		"25.0"
+	
+	$CHARGEFRESNELPOWERMIN		"0.25"
+	$CHARGEFRESNELPOWERMAX		"4"
+	$CHARGEFRESNELAMOUNTMIN		"0.4"
+	$CHARGEFRESNELAMOUNTMAX		"3"
+	$CHARGEFRESNELNOISESPEED	"4" //"20"
+	$CHARGEFRESNELNOISESCALE	"30" //0.1
+	$CHARGEFRESNELNOISEDISTANCE	"60"
+	
+	$CHARGEMODULATEBYFRESNEL	1
+
+	"$CHARGETEXTURE"      "models/attachments/capes/chameleoncape_charge"
+	"$CHARGENORMALTEXTURE"	"models/attachments/capes/chameleoncape_normal"
+	
+	$CHARGEAXISFWD				"[1 0 0]"
+	$CHARGEAXISLEFT				"[0 1 0]"
+	$CHARGEAXISUP				"[0 0 1]"
+
+	"Proxies"
+	{
+		"CapeTexture"
+		{
+		}
+		
+		"AnimatedTexture"
+		{
+			"animatedtexturevar"			"$basetexture"
+			"animatedtextureframenumvar"	"$frame"
+			"animatedtextureframerate"		5
+		}
+		"PlayerChargeEffect"
+		{
+			"resultvar" "$chargeamount"
+		}
+		"PlayerChargeColor"
+		{
+			"resultvar" "$chargeColor"
+		}
+	}
+}

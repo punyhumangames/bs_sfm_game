@@ -11,7 +11,7 @@
 		"$selfIllumFresnel" "1"
 		"$selfIllumFresnelMinMaxExp" "[0.1 4 8]"
 		"$selfillumtint"	"[1 1 1]"
-
+        
 		"$phongexponenttexture" "models/phalanx/phalanx_exp"
 		"$phongboost"	"100"
 		"$rimlightboost" "20"
@@ -19,6 +19,6 @@
 		"$phongwarptexture" "models/shared/phongwarp_metallic1"
 
 		"$CHARGETEXTURE"      "models/phalanx/phalanx_charge"
-		"$CHARGENORMALTEXTURE"		"models/phalanx/phalanx_nrm"
+		"$CHARGENORMALTEXTURE"		"models/phalanx/phalanx_normal"
 	}
 }

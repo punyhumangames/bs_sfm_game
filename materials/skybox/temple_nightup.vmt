@@ -1,0 +1,8 @@
+Sky
+{
+	// if you compiled with nocompress:
+	$hdrbasetexture		"skybox/temple_nightup"
+	$basetexture		"skybox/temple_nightup"
+	"$nofog" 		"1"
+	"$ignorez" 		"1"
+}
